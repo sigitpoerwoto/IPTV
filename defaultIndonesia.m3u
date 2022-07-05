@@ -217,7 +217,7 @@ http://45.80.181.150:8080/hls/agropolitantv.m3u8
 https://alfa.kugo.id/playout/ainos.stream/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-id="ArekTV.id" tvg-name="#EXTINF:-1 tvg-" tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/15/Arek_TV.png" group-title="TV DAERAH",AREK TV
+#EXTINF:-1 tvg-id="ArekTV.id" tvg-name="ArekTV " tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/15/Arek_TV.png" group-title="TV DAERAH",AREK TV
 http://wowza58.indostreamserver.com:1935/arektv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ATV.id" tvg-name="ATV.id" tvg-logo="https://www.lyngsat.com/logo/tv/aa/atv-id.png" group-title="TV DAERAH",ATV
@@ -250,11 +250,10 @@ http://103.119.54.246:8080/hls/bbstv.m3u8
 #EXTINF:-1 tvg-id="BETV.id" tvg-country="ID-BE" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/8T0Da84.png" group-title="TV DAERAH" user-agent="Mozilla/5.0 (X11; Linux x86_64)",BETV (360p) [Not 24/7] [Geo-blocked]
 https://h1.intechmedia.net/intech/ch30.m3u8
 
-#EXTINF:-1 tvg-id="BinBazTV.id" tvg-name="#EXTINF:-1 tvg-id=BinBazTV.id tvg-country=ID tvg-language=Indonesian tvg-logo=https:" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bin-baz-tv-id.png" group-title="TV NASIONAL",#EXTINF:-1 tvg-id=BinBazTV.id tvg-country=ID tvg-language=Indonesian tvg-logo=https:
+#EXTINF:-1 tvg-id="BinBazTV.id" tvg-name="BinBazTV” tvg-country=ID tvg-language=Indonesian tvg-logo="https://www.lyngsat.com/logo/tv/bb/bin-baz-tv-id.png" group-title="TV NASIONAL", BinBazTV
 https://h1.intechmedia.net/intech/ch22.m3u8
 
-#EXTINF:-1 tvg-id="BiznetAdventure.id" tvg-name="#EXTINF:-1 tvg-id=Bizne" tvg-logo="https://www.biznethome.net/bin/images/tv-program/channel/Biznet Adventure 170x85.png" group-title="
-TV ENTERTAIN",BiznetAdventure
+#EXTINF:-1 tvg-id="BiznetAdventure.id" tvg-name="BiznetAdventure " tvg-logo="https://www.biznethome.net/bin/images/tv-program/channel/Biznet Adventure 170x85.png" group-title="TV ENTERTAIN",BiznetAdventure
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=iJYiwvsAhKLgYjtMcoxVp1GZg1XW_wNcrvg-lcNq6Vdy&bizkeylivestarttime=0
 
 #EXTINF:-1 tvg-id="BiznetKids.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://www.biznethome.net/bin/images/tv-program/channel/BiznetHomeKids.jpg" group-title="KIDS",BiznetKids
@@ -784,7 +783,7 @@ https://livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist.m3u8
 ",My Kidz (1080p) [Geo-blocked] 
 http://210.210.155.35/uq2663/h/h191/index.m3u8
 
-#EXTINF:-1 tvg-id="BloombergTVAsiaPacific.hk" tvg-name="#EXTINF:-1 tvg-id=Bloomb" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Bloomberg_Television_2016.png" group-title="Business",#EXTINF:-1 tvg-id=Bloomb
+#EXTINF:-1 tvg-id="BloombergTVAsiaPacific.hk" tvg-name=" BloombergTVAsiaPacific” tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Bloomberg_Television_2016.png" group-title="Business",BloombergTVAsiaPacific
 http://210.210.155.37/dr9445/h/h03/index.m3u8
 
 #EXTINF:-1 tvg-id="BloombergTVAsiaLiveEvent.us" tvg-country="APAC" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Bloomberg_Television_2016.png" group-title="News",Bloomberg TV Asia Live Event (720p)
@@ -794,32 +793,28 @@ https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 
 
-#EXTINF:-1 tvg-id="MyCinema.id" tvg-name="#EXTINF:-1 tvg-id=MyCinema.id " tvg-logo="https://www.lyngsat.com/logo/tv/mm/my-cinema-id.png" group-title="Movies",MyCinema 
+#EXTINF:-1 tvg-id="MyCinema.id" tvg-name="MyCinema.id" tvg-language="Indonesian" tvg-logo="https://www.lyngsat.com/logo/tv/mm/my-cinema-id.png" group-title="Movies",MyCinema 
 http://210.210.155.35/uq2663/h/h192/index.m3u8
 
-#EXTINF:-1 tvg-id="MyCinemaAsia.id" tvg-name="#EXTINF:-1 tvg-id=MyCinemaAsia.id t" tvg-logo="https://i.imgur.com/MGuWJtn.png" group-title="Movies",MyCinemaAsia
+#EXTINF:-1 tvg-id="MyCinemaAsia.id" tvg-name="MyCinemaAsia"  tvg-language="Indonesian" tvg-logo="https://i.imgur.com/MGuWJtn.png" group-title="Movies",MyCinemaAsia
 http://210.210.155.35/uq2663/h/h193/index.m3u8
 
-#EXTINF:-1 tvg-id="TVNMovies.hk" tvg-name="#EXTINF:-1 tvg-id=TVNMovies.hk tvg-country=BNHKID" tvg-logo="https://i.imgur.com/oLzTyUX.png" group-title="Movies",TVNMovies
+#EXTINF:-1 tvg-id="TVNMovies.hk" tvg-name="TVNMovies” tvg-language="Indonesian" tvg-country=BNHKID" tvg-logo="https://i.imgur.com/oLzTyUX.png" group-title="Movies",TVNMovies
 http://210.210.155.35/dr9445/h/h21/index.m3u8
 
-#EXTINF:-1 tvg-id="TVRISport.id" tvg-name="#EXTINF:-1 tvg-id=" tvg-logo="https://i.imgur.com/7hVLCeq.png" group-title="Sports",#EXTINF:-1 tvg-id=
+#EXTINF:-1 tvg-id="TVRISport.id" tvg-name="TVRISport.id" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/7hVLCeq.png" group-title="Sports",TVRISport
 http://118.97.50.107/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 
 
-#EXTINF:-1 tvg-id="MetroGlobeNetwork.id" tvg-name="#EXTINF:-1 tvg-id=MetroGlobeNetwork.id" tvg-logo="https://i.imgur.com/NTCI3lf.png" group-title="Culture",#EXTINF:-1 tvg-id=MetroGlobeNetwork.id
+#EXTINF:-1 tvg-id="MetroGlobeNetwork.id" tvg-name="MetroGlobeNetwork " tvg-language="Indonesian" tvg-logo="https://i.imgur.com/NTCI3lf.png" group-title="Culture",#EXTINF:-1 tvg-id=MetroGlobeNetwork.id
 https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MyFamily.id" tvg-name="#EXTINF:-1 tvg-id=MyFamily.id tvg-coun" tvg-logo="https://www.lyngsat.com/logo/tv/mm/my-family-id.png" group-title="Family",#EXTINF:-1 tvg-id=MyFamily.id tvg-coun
+#EXTINF:-1 tvg-id="MyFamily.id" tvg-name="MyFamily.id" tvg-language="Indonesian" tvg-logo="https://www.lyngsat.com/logo/tv/mm/my-family-id.png" group-title="Family",MyFamily
 http://210.210.155.37/uq2663/h/h194/index.m3u8
-
-#EXTINF:-1 tvg-id="NASATV.us" tvg-name="#EXTINF:-1 tvg-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/512px-NASA_TV.svg.png" group-title="Science",#EXTINF:-1 tvg-
-https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
-
-#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-name="#EXTINF:-1 tvg-id=NHKWo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" group-title="CultureNews",#EXTINF:-1 tvg-id=NHKWo
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" group-title="CultureNews",NHKWorldJapan
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 
-#EXTINF:-1 tvg-id="PopMusik.id" tvg-name="#EXTINF:-1 tvg-id" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pop-musik-id.png" group-title="Music",#EXTINF:-1 tvg-id
+#EXTINF:-1 tvg-id="PopMusik.id" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pop-musik-id.png" group-title="Music",PopMusik
 https://alfa.kugo.id/playout/pop.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="SpacetoonIndonesia.id" tvg-name="#EXTINF:-1 tvg-id=Spacetoo" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" group-title="Animation",Spacetoon
