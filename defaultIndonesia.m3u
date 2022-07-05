@@ -2107,3 +2107,6 @@ http://181.78.22.214:8000/play/a015
 http://181.78.22.214:8000/play/a007
 #EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.bvoc9n-wPOAiWw1GAtulVAHaFj&pid=Api&P=0&w=212&h=159" group-title="MOVIE",MTV
 http://181.78.22.214:8000/play/a008
+
+#EXTINF:-2 tvg-id="Indosiar.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png" group-title="TV Nasional (Smiletv)",INDOSIAR
+http://139.99.61.103:8080/live/Smiletv/Ceria/5258.ts
