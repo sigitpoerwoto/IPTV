@@ -95,7 +95,7 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c476
 #EXTINF:-1 tvg-id="RajawaliTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rajawali_tv_id.png" group-title="TV Nasional",RTV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=aab3238922bcc25a6f606eb525ffdc56268ef7e5a44f541a7cbde7626ef57566
 
-#EXTINF:-1 tvg-id="RRINet.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/lrPHwLG.png" group-title="TV Nasional",#EXTINF:RRI NET
+#EXTINF:-1 tvg-id="RRINet.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/lrPHwLG.png" group-title="TV Nasional”,RRI NET
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=38db3aed920cf82ab059bfccbd02be6a268ef7e5a44f541a7cbde7626ef57566
 
 #EXTINF:-1 tvg-id="TransTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/512px-Trans_TV_2013.svg.png" group-title="TV Nasional",TRANS 7
@@ -806,7 +806,7 @@ http://210.210.155.35/dr9445/h/h21/index.m3u8
 http://118.97.50.107/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 
 
-#EXTINF:-1 tvg-id="MetroGlobeNetwork.id" tvg-name="MetroGlobeNetwork " tvg-language="Indonesian" tvg-logo="https://i.imgur.com/NTCI3lf.png" group-title="Culture",#EXTINF:-1 tvg-id=MetroGlobeNetwork.id
+#EXTINF:-1 tvg-id="MetroGlobeNetwork.id" tvg-name="MetroGlobeNetwork " tvg-language="Indonesian" tvg-logo="https://i.imgur.com/NTCI3lf.png" group-title="Culture”,MetroGlobeNetwork.id
 https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MyFamily.id" tvg-name="MyFamily.id" tvg-language="Indonesian" tvg-logo="https://www.lyngsat.com/logo/tv/mm/my-family-id.png" group-title="Family",MyFamily
@@ -817,31 +817,31 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 tvg-id="PopMusik.id" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pop-musik-id.png" group-title="Music",PopMusik
 https://alfa.kugo.id/playout/pop.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="SpacetoonIndonesia.id" tvg-name="#EXTINF:-1 tvg-id=Spacetoo" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" group-title="Animation",Spacetoon
+#EXTINF:-1 tvg-id="SpacetoonIndonesia.id" tvg-name="Spacetoon" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" group-title="Animation",Spacetoon
 https://bravo.kugo.id/spacetoon/udp.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVRParlemenKomisiI.id" tvg-name="#EXTINF:-1 tvg-id=TVRParlemenKomisiI.id" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhlaM4KZ8xQaJpfP8GPX7Ji3tYXVnuSVfVKNV69=s900-c-k-c0x00ffffff-no-rj" group-title="Legislative",#EXTINF:-1 tvg-id=TVRParlemenKomisiI.id
+#EXTINF:-1 tvg-id="TVRParlemenKomisiI.id" tvg-name="TVRParlemenKomisiI.id" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhlaM4KZ8xQaJpfP8GPX7Ji3tYXVnuSVfVKNV69=s900-c-k-c0x00ffffff-no-rj" group-title="Legislative",TVRParlemenKomisiI
 http://103.18.181.69:1935/golive/livestream1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVRParlemenKomisiIII.id" tvg-name="#EXTINF:-1 tvg-id=TVRParlemenKomisiIII.id" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhlaM4KZ8xQaJpfP8GPX7Ji3tYXVnuSVfVKNV69=s900-c-k-c0x00ffffff-no-rj" group-title="Legislative",#EXTINF:-1 tvg-id=TVRParlemenKomisiIII.id
+#EXTINF:-1 tvg-id="TVRParlemenKomisiIII.id" tvg-name="TVRParlemenKomisiIII.id" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhlaM4KZ8xQaJpfP8GPX7Ji3tYXVnuSVfVKNV69=s900-c-k-c0x00ffffff-no-rj" group-title="Legislative",TVRParlemenKomisiIII
 http://103.18.181.69:1935/golive/livestream3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVRParlemenKomisiIV.id" tvg-name="#EXTINF:-1 tvg-id=TVRParlemenKomisiIV.id" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhlaM4KZ8xQaJpfP8GPX7Ji3tYXVnuSVfVKNV69=s900-c-k-c0x00ffffff-no-rj" group-title="Legislative",#EXTINF:-1 tvg-id=TVRParlemenKomisiIV.id
+#EXTINF:-1 tvg-id="TVRParlemenKomisiIV.id" tvg-name="TVRParlemenKomisiIV" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhlaM4KZ8xQaJpfP8GPX7Ji3tYXVnuSVfVKNV69=s900-c-k-c0x00ffffff-no-rj" group-title="Legislative",TVRParlemenKomisiIV
 http://103.18.181.69:1935/golive/livestream4/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVRParlemenKomisiV.id" tvg-name="#EXTINF:-1 tvg-id=TVRParlemenKomisiV.id" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhlaM4KZ8xQaJpfP8GPX7Ji3tYXVnuSVfVKNV69=s900-c-k-c0x00ffffff-no-rj" group-title="Legislative",#EXTINF:-1 tvg-id=TVRParlemenKomisiV.id
+#EXTINF:-1 tvg-id="TVRParlemenKomisiV.id" tvg-name="TVRParlemenKomisiV.id" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhlaM4KZ8xQaJpfP8GPX7Ji3tYXVnuSVfVKNV69=s900-c-k-c0x00ffffff-no-rj" group-title="Legislative",TVRParlemenKomisiV
 http://103.18.181.69:1935/golive/livestream5/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVRParlemenKomisiVI.id" tvg-name="#EXTINF:-1 tvg-id=TVRParlemenKomisiVI.id" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhlaM4KZ8xQaJpfP8GPX7Ji3tYXVnuSVfVKNV69=s900-c-k-c0x00ffffff-no-rj" group-title="Legislative",#EXTINF:-1 tvg-id=TVRParlemenKomisiVI.id
+#EXTINF:-1 tvg-id="TVRParlemenKomisiVI.id" tvg-name="TVRParlemenKomisiVI" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhlaM4KZ8xQaJpfP8GPX7Ji3tYXVnuSVfVKNV69=s900-c-k-c0x00ffffff-no-rj" group-title="Legislative",TVRParlemenKomisiVI
 http://103.18.181.69:1935/golive/livestream6/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVRParlemenKomisiVII.id" tvg-name="#EXTINF:-1 tvg-id=TVRParlemenKomisiVII.id" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhlaM4KZ8xQaJpfP8GPX7Ji3tYXVnuSVfVKNV69=s900-c-k-c0x00ffffff-no-rj" group-title="Legislative",#EXTINF:-1 tvg-id=TVRParlemenKomisiVII.id
+#EXTINF:-1 tvg-id="TVRParlemenKomisiVII.id" tvg-name="TVRParlemenKomisiVII" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhlaM4KZ8xQaJpfP8GPX7Ji3tYXVnuSVfVKNV69=s900-c-k-c0x00ffffff-no-rj" group-title="Legislative",TVRParlemenKomisiVII
 http://103.18.181.69:1935/golive/livestream7/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVRParlemenKomisiVIII.id" tvg-name="#EXTINF:-1 tvg-id=TVRParlemenKomisiVIII.id" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhlaM4KZ8xQaJpfP8GPX7Ji3tYXVnuSVfVKNV69=s900-c-k-c0x00ffffff-no-rj" group-title="Legislative",#EXTINF:-1 tvg-id=TVRParlemenKomisiVIII.id
+#EXTINF:-1 tvg-id="TVRParlemenKomisiVIII.id" tvg-name="TVRParlemenKomisiVIII" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhlaM4KZ8xQaJpfP8GPX7Ji3tYXVnuSVfVKNV69=s900-c-k-c0x00ffffff-no-rj" group-title="Legislative", TVRParlemenKomisiVIII
 http://103.18.181.69:1935/golive/livestream8/playlist.m3u8
 
-#EXTINF:-1 tvg-id="WorldFashionChannelInternational.ru" tvg-name="#EXTINF:-1 tvg-id=WorldFashionChannelIntern" tvg-logo="https://i.imgur.com/JyslMHb.jpg" group-title="Lifestyle",#EXTINF:-1 tvg-id=WorldFashionChannelIntern
+#EXTINF:-1 tvg-id="WorldFashionChannelInternational.ru" tvg-name="WorldFashionChannelIntern" tvg-logo="https://i.imgur.com/JyslMHb.jpg" group-title="Lifestyle”,WorldFashionChannelIntern
 https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 
 ##EXTINF:-1 tvg-id="RodjaTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/XwCeHlC.png" group-title="TV Islam",Rodja TV
