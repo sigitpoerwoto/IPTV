@@ -2073,4 +2073,40 @@ https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3
 #EXTINF: -1 tvg-logo="https://thegreattipoff.com/assets/images/affiliatelogo/sky-racing.png" group-title="Sports 2", SKY RACING 2
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
 
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.2RjV0T82CktH5QULvqgXigHaEg&pid=Api&P=0&w=306&h=186" group-title="Film", Keluarga HBO
+http://189.91.128.146:4444/udp/227.10.20.157:1234
+#EXTINF:-1 tvg-logo="http://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png" group-title="Movies",MOVIES",HBO
+http://189.91.128.146:4444/udp/227.10.20.154:1234
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.X9qF4O4oQaTIKsbCFApQ9wHaEP&pid=Api&P=0&w=332&h=190" group-title="Movies", HBO SINGNATURE
+http://189.91.128.146:4444/udp/227.10.20.158:1234
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/thrill.png" group-title="Movies",Thrill
+http://203.154.177.124:8899/live/ch21/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/warner.png" group-title="Film",Warner TV
+http://203.154.177.124:8899/live/ch12/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.fnKNwdF3ZKB79OVt_V8O1gHaC6&pid=Api&P=0&w=459&h=180"group-title="MOVIE",TVN
+http://group2-swiftservehd-1.dens.tv/h/h20/01.m3u8
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.fnKNwdF3ZKB79OVt_V8O1gHaC6&pid=Api&P=0&w=459&h=180"group-title="MOVIE",TvnMovies
+http://group2-swiftservehd-1.dens.tv/h/h21/01.m3u8
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.Go7jd-jFuLXm7s-kuIMV4wHaD4&pid=Api&P=0&w=390&h=205"group-title="MOVIE", ANIPLUS
+http://group2-swiftservehd-1.dens.tv/h/h02/01.m3u8
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.Xa3Fr6LyMwJtC2zkrkI-UAAAAA&pid=Api&P=0&w=203&h=203"group-title="MOVIE",KIX
+http://group2-swiftservehd-1.dens.tv/h/h07/01.m3u8
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.Y6eG3ddnRMIQbGnTvuKS8wHaDX&pid=Api&P=0&w=375&h=170"group-title="MOVIE",HITS
+http://group2-swiftservehd-1.dens.tv/h/h37/01.m3u8
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.BFSWQismX_Aov8ZPFRGZ7wHaDt&pid=Api&P=0&w=337&h=168"group-title="MOVIE",CINEMA_WORLD
+http://group2-swiftservehd-1.dens.tv/h/h04/01.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.whatphone.net/wp-content/uploads/2018/10/new-k-plus-logo.png"group-title= "MOVIE",K_PLUS
+http://group1-swiftservehd-1.dens.tv/h/h08/01.m3u8
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.JJW2LPZmIXMc-yN6l8ZslgHaEb&pid=Api&P=0&w=286&h=171" group-title="MOVIE",Saluran Sejarah
+http://181.78.22.214:8000/play/a004
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo.png" group-title="MOVIE",HomeandHealth
+http://181.78.22.214:8000/play/a015
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/1200px-I.Sat_logo.svg.png" group-title= "FILM", I-Sat
+http://181.78.22.214:8000/play/a007
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.bvoc9n-wPOAiWw1GAtulVAHaFj&pid=Api&P=0&w=212&h=159" group-title="MOVIE",MTV
+http://181.78.22.214:8000/play/a008
+
+
 
