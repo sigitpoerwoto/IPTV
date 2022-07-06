@@ -1363,9 +1363,6 @@ http://210.210.155.35/x6bnqe/s/s100/live.m3u8
 #EXTINF:-1 group-title="Indonesia TV",Live Streaming 2
 http://210.210.155.35/uq2663/h/h998/live.m3u8
 
-#EXTINF:-1 group-title="Indonesia TV",Sinema Indonesia
-http://45.126.83.51/uq2663/h/h155/S4/mnf.m3u8
-
 #EXTINF:-1, group-title=Music",ONE
 http://rtmp.one.by:1300
 
