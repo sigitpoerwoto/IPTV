@@ -5,10 +5,10 @@ https://www.googleapis.com/drive/v3/files/15arvo7j2-8RgD_kauS4SlKS6AeRwaNma?alt=
 https://www.googleapis.com/drive/v3/files/1SYMv56fkQUuATsaMdissEH9vAAR_rThT?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="VOD 2022 - Japanese",Love Like the Falling Petals
 https://jeniusplay.com/cdn/hls/c7603adebf31dfe7ca057f7247e360e7/master.m3u8?md5=eVRlhsrWsg16gLDdqBCE2g
-#EXTINF:-1 group-title="VOD 2022",OLIVIA RODRIGO: driving home 2 u (a SOUR film)
+#EXTINF:-1 group-title="VOD 2022 - US",OLIVIA RODRIGO: driving home 2 u (a SOUR film)
 https://jeniusplay.com/cdn/hls/97c53f6c013bdd2b4b1bf4924c22617b/master.m3u8?md5=ETcPeJKuEXlqkJ8INbfz2A
 #EXTINF:-1 group-title="VOD 2022",The Bubble
-https://www.googleapis.com/drive/v3/files/1r4lHj9ZITjfjJAaQnQXD-NYRMJRltA1G?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+https://jeniusplay.com/cdn/hls/9fdfee43a4202545ce9eaadfec46ee1d/master.m3u8?md5=XDJ2ne6dyPhj1xvB-6CRDA
 #EXTINF:-1 group-title="VOD 2022",The Contractor
 https://www.googleapis.com/drive/v3/files/1IbaKRxk0lIXGABGZIlIcih68meCVuzCU?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="VOD 2022",Moonfall
@@ -101,7 +101,7 @@ https://www.googleapis.com/drive/v3/files/1lobaiiaSHRWncAzvLYGfDn0lHxPr0Zrb?alt=
 https://www.googleapis.com/drive/v3/files/1aVg-jglDJy74On_1F1ZgAdzrfcOmEwnJ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="VOD 2022",Jurassic World Dominion (2022)
 https://jeniusplay.com/cdn/hls/6f5ece9f616cbf066359a1db03ce8b2f/master.m3u8?md5=9MJlJ_QVYB3qrI7f7OxG9Q
-#EXTINF:-1 closed-captions="https://raw.githubusercontent.com/sigitpoerwoto/SubsIndo/List/Morbius.srt" group-title="VOD 2022",Morbius
+#EXTINF:-1 group-title="VOD 2022",Morbius
 https://jeniusplay.com/cdn/hls/63fdbcccb9eec44460981e80b6708828/master.m3u8?md5=5pLfMX3tF7alU9O49ReZ7A
 
 #EXTINF:-1 group-title="VOD 2021",Parasite in Love
