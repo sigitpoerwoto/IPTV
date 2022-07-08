@@ -101,7 +101,7 @@ https://www.googleapis.com/drive/v3/files/1lobaiiaSHRWncAzvLYGfDn0lHxPr0Zrb?alt=
 https://www.googleapis.com/drive/v3/files/1aVg-jglDJy74On_1F1ZgAdzrfcOmEwnJ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="VOD 2022",Jurassic World Dominion (2022)
 https://jeniusplay.com/cdn/hls/6f5ece9f616cbf066359a1db03ce8b2f/master.m3u8?md5=9MJlJ_QVYB3qrI7f7OxG9Q
-#EXTINF:-1 group-title="VOD 2022",Morbius (2022)
+#EXTINF:-1 subtitles="https://raw.githubusercontent.com/sigitpoerwoto/SubsIndo/List/Morbius.srt" group-title="VOD 2022",Morbius (2022)
 https://jeniusplay.com/cdn/hls/63fdbcccb9eec44460981e80b6708828/master.m3u8?md5=5pLfMX3tF7alU9O49ReZ7A
 
 #EXTINF:-1 group-title="VOD 2021",Parasite in Love
