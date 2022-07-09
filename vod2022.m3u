@@ -41,16 +41,16 @@ https://jeniusplay.com/cdn/hls/3054a5e1c7489b29505cc41f1e64c735/master.m3u8?md5=
 https://jeniusplay.com/cdn/hls/4ab9d46b1b3e582cf1615866a5051bd7/master.m3u8?md5=3vwYUhVUvIlQLf4PcXz78w
 #EXTINF:-1 group-title="VOD 2022 - US",Marry Me
 https://jeniusplay.com/cdn/hls/8a47cf055ac17efb6277f421d334d385/master.m3u8?md5=95zsPjTXOSOc9AbyK42t8Q
-#EXTINF:-1 group-title="VOD 2022",Downfall: The Case Against Boeing
+#EXTINF:-1 group-title="Documenter",Downfall: The Case Against Boeing
 https://www.googleapis.com/drive/v3/files/1-VfQa32o6lM0Rnq6l77tJ-sbL0OLInsa?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD 2022",Blacklight
-https://www.googleapis.com/drive/v3/files/1KikW3FJCw3DXTsTIx2Y906QIH-MHFNI3?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD 2022",Against the Ice 
+#EXTINF:-1 group-title="VOD 2022 - US",Blacklight
+https://jeniusplay.com/cdn/hls/17fde5aa9302145b9b07fc6592bda34e/master.m3u8?md5=bfjDmX5anZ0CaFTNnd_V8w
+#EXTINF:-1 group-title="VOD 2022 - US",Against the Ice 
 https://www.googleapis.com/drive/v3/files/1E6f67lWUeExTJ9kURCJzmniXEYkwEZnR?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD 2022",The Pirates: The Last Royal Treasure
-https://www.googleapis.com/drive/v3/files/1SWYZU3eilJMMjeqrlLY8pOSekbGHcmbu?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="VOD 2022 - Korea",The Pirates: The Last Royal Treasure
+https://jeniusplay.com/cdn/hls/88568db711cba9cb93a39a29abde7c14/master.m3u8?md5=U_Bqdb3rrWUIWTbxAJZr8A
 #EXTINF:-1 group-title="VOD 2022",The Desperate Hour
-https://www.googleapis.com/drive/v3/files/1WuUFeSVDVXzrjFf0pdD3PUk3oy2gZp6R?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+https://jeniusplay.com/cdn/hls/00379a3993bfb574416520b34671e3cd/master.m3u8?md5=5GgMGDzrEHOHkdcFojYM0A
 #EXTINF:-1 group-title="VOD 2022",No Exit
 https://www.googleapis.com/drive/v3/files/1BjFTpNwmIUcFU6Q3RTl3dfDJZfMAJgnR?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="VOD 2022",Gasoline Alley
@@ -99,11 +99,11 @@ https://www.googleapis.com/drive/v3/files/1EnBcoxKWixhUUtUmt6Vj-0mN8eEy7Lkj?alt=
 https://www.googleapis.com/drive/v3/files/1fxW41ootucuEBZB3vgl2J3Z2fD_sW7Lv?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="VOD 2022",The House
 https://www.googleapis.com/drive/v3/files/1lobaiiaSHRWncAzvLYGfDn0lHxPr0Zrb?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD 2022",Harry Potter 20th Anniversary: Return to Hogwarts
+#EXTINF:-1 group-title="VOD 2022 - US",Harry Potter 20th Anniversary: Return to Hogwarts
 https://www.googleapis.com/drive/v3/files/1aVg-jglDJy74On_1F1ZgAdzrfcOmEwnJ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD 2022",Jurassic World Dominion (2022)
+#EXTINF:-1 group-title="VOD 2022 - US",Jurassic World Dominion (2022)
 https://jeniusplay.com/cdn/hls/6f5ece9f616cbf066359a1db03ce8b2f/master.m3u8?md5=9MJlJ_QVYB3qrI7f7OxG9Q
-#EXTINF:-1 group-title="VOD 2022",Morbius
+#EXTINF:-1 group-title="VOD 2022 - US",Morbius
 https://jeniusplay.com/cdn/hls/63fdbcccb9eec44460981e80b6708828/master.m3u8?md5=5pLfMX3tF7alU9O49ReZ7A
 
 #EXTINF:-1 group-title="VOD 2021",Parasite in Love
