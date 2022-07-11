@@ -1,0 +1,43 @@
+#EXTM3U 
+
+#EXTINF:0 type="stream" channelId="-1" group="INDONESIA", RCTI #EXTVLCOPT:http-referrer=https://www.rctiplus.com/ https://d35d0ifx19oopq.cloudfront.net/RCTI_2021.m3u8 
+
+#EXTINF:0 type="stream" channelId="-1" group="INDONESIA", SCTV https://etslive-2-vidio-com.akamaized.net/exp=1656083447~acl=/hls-p/ingest_204_*/*~hmac=fca57720bf435ac685a55c79b83aa4dd20fe589fa1f1007f1e6bf7231837f743/hls-p/ingest_204_720p/index.m3u8 
+
+#EXTINF:0 type="stream" channelId="-1" group="INDONESIA", INDOSIAR https://etslive-2-vidio-com.akamaized.net/exp=1656083447~acl=/hls-p/ingest_205_*/*~hmac=b8e46ce060db656890a4a96aa70e32b703882569d2c608cfb717acf23040a67d/hls-p/ingest_205_720p/index.m3u8 
+
+#EXTINF:0 type="stream" channelId="-1" group="INDONESIA", MNCTV #EXTVLCOPT:http-referrer=https://www.rctiplus.com/ https://d33j155pv2xyba.cloudfront.net/MNCTV_2021.m3u8 
+
+#EXTINF:0 type="stream" channelId="-1" group="INDONESIA", TRANSTV https://etslive-2-vidio-com.akamaized.net/exp=1656083448~acl=/hls-p/ingest_733_*/*~hmac=6c61c66989a4f46161c9b209969b18415795c07c9de031366287347c7c859e33/hls-p/ingest_733_720p/index.m3u8 
+
+#EXTINF:0 type="stream" channelId="-1" group="INDONESIA", ANTV https://live-production.secureswiftcontent.com/exp=1656083427~acl=/hls-p/ingest_782_*/*~hmac=6924746f256dbf16e84c8bcc3b814fad089030048fbef253255600bd7c4ef505/hls-p/ingest_782_720p/index.m3u8 
+
+#EXTINF:0 type="stream" channelId="-1" group="INDONESIA", TRANS 7 https://etslive-2-vidio-com.akamaized.net/exp=1656083266~acl=/hls-p/ingest_734_*/*~hmac=1ebeacd23ba1649182cf0f60446df99a1351204be1d47b38e91c2f533e7262b8/hls-p/ingest_734_720p/index.m3u8 
+
+#EXTINF:0 type="stream" channelId="-1" group="INDONESIA", METRO TV https://cdn09jtedge.useetv.com/joss/133/metrotv1080/chunklist_w1333403130_b1544100_sleng.m3u8?enc=OAGM0ToTlk8oIihGlImGiw&uid=&exp=1656081786 
+
+#EXTINF:0 type="stream" channelId="-1" group="INDONESIA", tvOne https://live-production.secureswiftcontent.com/exp=1656083448~acl=/hls-p/ingest_783_*/*~hmac=98e56a24aee5fae03a7df12cd469cbdbb0f1002b67c60d8beb697a09dc941ad7/hls-p/ingest_783_720p/index.m3u8 
+
+#EXTINF:0 type="stream" channelId="-1" group="INDONESIA", netTV http://playlist.urfan.web.id/qwr9ew/s/s08/01.m3u8 
+
+#EXTINF:0 type="stream" channelId="-1" group="INDONESIA", TVRI Nasional http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8 
+
+#EXTINF:0 type="stream" channelId="-1" group="INDONESIA", TVRI Gorontalo http://118.97.50.107/Content/HLS/Live/Channel(TVRIGORONTALO)/index.m3u8 
+
+#EXTINF:0 type="stream" channelId="-1" group="INDONESIA", CNN Indonesia https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w987255908_b384000_sleng.m3u8 
+
+#EXTINF:0 type="stream" channelId="-1" group="INDONESIA", GLOBAL TV #EXTVLCOPT:http-referrer=https://www.rctiplus.com/ https://d322b885qvsbxg.cloudfront.net/GTV2021.m3u8 
+
+#EXTINF:0 type="stream" channelId="-1" group="INDONESIA", Kompas TV https://live-production.secureswiftcontent.com/exp=1656083449~acl=/hls-p/ingest_874_*/*~hmac=9b8bb360fb5c8d6f83d363185a61315f15a055d3ee021fc27e38b87ec64b46d5/hls-p/ingest_874_720p/index.m3u8 
+
+#EXTINF:0 type="stream" channelId="-1" group="INDONESIA", RTV https://etslive-2-vidio-com.akamaized.net/exp=1656083450~acl=/hls-p/ingest_1561_*/*~hmac=b7870e78ecc9f97eb285d3b09391dc0adc624289e71f0c8757713fed2838eb0f/hls-p/ingest_1561_720p/index.m3u8 
+
+#EXTINF:0 type="stream" channelId="-1" group="INDONESIA", Makkah TV https://live-production.secureswiftcontent.com/exp=1656083455~acl=/hls-p/ingest_6852_*/*~hmac=8545c2ed94c3dbf54255a24d7b7f7764234601f1f565b4eac30fb972cb21860c/hls-p/ingest_6852_720p/index.m3u8 
+
+#EXTINF:0 type="stream" channelId="-1" group="INDONESIA", RTV http://210.210.155.35/qwr9ew/s/s12/01.m3u8 
+
+#EXTINF:0 type="stream" channelId="-1" group="INDONESIA", CNBC Indonesia https://tvmu.siar.us/tvmu/live/playlist.m3u8 
+
+#EXTINF:0 type="stream" channelId="-1" group="INDONESIA", TV Edukasi http://118.98.229.118:1935/live/tve.stream/playlist.m3u8 
+
+#EXTINF:0 type="stream" channelId="-1" group="INDONESIA", Magna Channel https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
