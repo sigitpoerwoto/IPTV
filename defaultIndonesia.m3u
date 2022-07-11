@@ -2076,12 +2076,10 @@ http://189.91.128.146:4444/udp/227.10.20.157:1234
 http://189.91.128.146:4444/udp/227.10.20.154:1234
 #EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.X9qF4O4oQaTIKsbCFApQ9wHaEP&pid=Api&P=0&w=332&h=190" group-title="Movies", HBO SINGNATURE
 http://189.91.128.146:4444/udp/227.10.20.158:1234
-
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/thrill.png" group-title="Movies",Thrill
 http://203.154.177.124:8899/live/ch21/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/warner.png" group-title="Film",Warner TV
 http://203.154.177.124:8899/live/ch12/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.fnKNwdF3ZKB79OVt_V8O1gHaC6&pid=Api&P=0&w=459&h=180"group-title="MOVIE",TVN
 http://group2-swiftservehd-1.dens.tv/h/h20/01.m3u8
 #EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.fnKNwdF3ZKB79OVt_V8O1gHaC6&pid=Api&P=0&w=459&h=180"group-title="MOVIE",TvnMovies
