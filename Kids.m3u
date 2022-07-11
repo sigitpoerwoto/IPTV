@@ -2,8 +2,6 @@
 
 #EXTINF:-1 tvg-id="DaVinci" tvg-name="DaVinci" group-title="KIDS" tvg-logo="https://cdn.macan.tv/img/davinci.png", Da Vinci
 https://delivery.macan.network/stream/davinci/playlist.m3u8?token=rqvntc0&v=20200807
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KIDS" tvg-logo="https://www.dropbox.com/s/0hw8az7ptafhhsw/vip.png?dl=1",MY KIDS
-http://mvtv.tech:33210/tepoasa/tepo123/3830
 #EXTINF:-1 tvg-id="BabyFirst" tvg-name="BabyFirst" group-title="KIDS" tvg-logo="https://cdn.macan.tv/img/babyfirst.jpg", BabyFirst
 https://delivery.macan.network/stream/babyfirst/playlist.m3u8?token=rqvntc0&v=20200807
 #EXTINF:-1 tvg-id="CartoonNetwork" tvg-name="CartoonNetwork" group-title="KIDS" tvg-logo="https://cdn.macan.tv/img/cartoonnetwork.png", Cartoon Network (IDN)
@@ -34,8 +32,6 @@ https://delivery.macan.network/stream/horee/playlist.m3u8?token=rqvntc0&v=202008
 https://delivery.macan.network/stream/lingua/playlist.m3u8?token=rqvntc0&v=20200807
 #EXTINF:-1 tvg-id="DuniaAnak" tvg-name="DuniaAnak" group-title="KIDS" tvg-logo="https://cdn.macan.tv/img/duniaanak.png", Dunia Anak
 https://delivery.macan.network/stream/duniaanak/playlist.m3u8?token=rqvntc0&v=20200807
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_mykids_big.png" group-title="Kids", MY KIDS
-http://rr.dens.tv/h/h191/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png?v=2.0.0.13" group-title="Kids", ANIPLUS
 http://210.210.155.35:80/dr9445/h/h02/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Px500TzG/Biznet-Kids.jpg" group-title="Kids", BIZNET KIDS
