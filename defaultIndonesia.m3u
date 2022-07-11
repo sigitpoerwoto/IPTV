@@ -700,7 +700,6 @@ http://wowza58.indostreamserver.com:1935/wesaltv/live/playlist.m3u8
 http://wowza58.indostreamserver.com:1935/afbtv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/jjuKnYs.png" group-title="TV Nasional",GTV (720p)
-https://www.rctiplus.com/
 https://d322b885qvsbxg.cloudfront.net/GTV2021.m3u8
 
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png" group-title="TV Nasional",Indosiar (480p) [Geo-blocked]
@@ -923,7 +922,7 @@ http://202.150.172.34:4000/play/sctvhdt2
 #EXTINF:-1 tvg-id="" tvg-name="INDOSIAR" tvg-logo="" group-title="TV Nasional",INDOSIAR
 http://202.150.172.34:4000/play/indosiarhdt2
 #EXTINF:-1 tvg-id="" tvg-name="GTV" tvg-logo="" group-title="TV Nasional",GTV
-http://202.150.172.34:4000/play/gtvt2
+https://d322b885qvsbxg.cloudfront.net/GTV2021.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="TRANS7" tvg-logo="" group-title="TV Nasional",TRANS7
 http://202.150.172.34:4000/play/trans7hdt2
 #EXTINF:-1 tvg-id="" tvg-name="TRANS7 BACKUP" tvg-logo="" group-title="TV Nasional",TRANS7 BACKUP
