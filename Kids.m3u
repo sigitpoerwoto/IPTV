@@ -1,0 +1,111 @@
+#EXTM3U 
+
+#EXTINF:-1 tvg-id="DaVinci" tvg-name="DaVinci" group-title="KIDS" tvg-logo="https://cdn.macan.tv/img/davinci.png", Da Vinci
+https://delivery.macan.network/stream/davinci/playlist.m3u8?token=rqvntc0&v=20200807
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="KIDS" tvg-logo="https://www.dropbox.com/s/0hw8az7ptafhhsw/vip.png?dl=1",MY KIDS
+http://mvtv.tech:33210/tepoasa/tepo123/3830
+#EXTINF:-1 tvg-id="BabyFirst" tvg-name="BabyFirst" group-title="KIDS" tvg-logo="https://cdn.macan.tv/img/babyfirst.jpg", BabyFirst
+https://delivery.macan.network/stream/babyfirst/playlist.m3u8?token=rqvntc0&v=20200807
+#EXTINF:-1 tvg-id="CartoonNetwork" tvg-name="CartoonNetwork" group-title="KIDS" tvg-logo="https://cdn.macan.tv/img/cartoonnetwork.png", Cartoon Network (IDN)
+https://delivery.macan.network/stream/cartoonnetwork_id/playlist.m3u8?token=rqvntc0&v=20200807
+#EXTINF:-1 tvg-id="CartoonNetwork" tvg-name="CartoonNetwork" group-title="KIDS" tvg-logo="https://cdn.macan.tv/img/cartoonnetwork.png", Cartoon Network (ENG)
+https://delivery.macan.network/stream/cartoonnetwork_en/playlist.m3u8?token=rqvntc0&v=20200807
+#EXTINF:-1 tvg-id="Dreamworks" tvg-name="Dreamworks" group-title="KIDS" tvg-logo="https://cdn.macan.tv/img/dreamworks.png", Dreamworks (IDN)
+https://delivery.macan.network/stream/dreamworks_id/playlist.m3u8?token=rqvntc0&v=20200807
+#EXTINF:-1 tvg-id="Dreamworks" tvg-name="Dreamworks" group-title="KIDS" tvg-logo="https://cdn.macan.tv/img/dreamworks.png", Dreamworks (ENG)
+https://delivery.macan.network/stream/dreamworks_en/playlist.m3u8?token=rqvntc0&v=20200807
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" group-title="KIDS" tvg-logo="https://cdn.macan.tv/img/boomerang.png", Boomerang
+https://delivery.macan.network/stream/boomerang/playlist.m3u8?token=rqvntc0&v=20200807
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" group-title="KIDS" tvg-logo="https://cdn.macan.tv/img/nickelodeon.png", Nickelodeon (IDN)
+https://delivery.macan.network/stream/nickelodeon_id/playlist.m3u8?token=rqvntc0&v=20200807
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" group-title="KIDS" tvg-logo="https://cdn.macan.tv/img/nickelodeon.png", Nickelodeon (ENG)
+https://delivery.macan.network/stream/nickelodeon_en/playlist.m3u8?token=rqvntc0&v=20200807
+#EXTINF:-1 tvg-id="NickelodeonJr" tvg-name="NickelodeonJr" group-title="KIDS" tvg-logo="https://cdn.macan.tv/img/nickjr.png", Nick Jr (IDN)
+https://delivery.macan.network/stream/nickjr_id/playlist.m3u8?token=rqvntc0&v=20200807
+#EXTINF:-1 tvg-id="NickelodeonJr" tvg-name="NickelodeonJr" group-title="KIDS" tvg-logo="https://cdn.macan.tv/img/nickjr.png", Nick Jr (ENG)
+https://delivery.macan.network/stream/nickjr_en/playlist.m3u8?token=rqvntc0&v=20200807
+#EXTINF:-1 tvg-id="BabyTV" tvg-name="BabyTV" group-title="KIDS" tvg-logo="https://cdn.macan.tv/img/babytv.png", BabyTV
+https://delivery.macan.network/stream/babytv/playlist.m3u8?token=rqvntc0&v=20200807
+#EXTINF:-1 tvg-id="MentariTV" tvg-name="MentariTV" group-title="KIDS" tvg-logo="https://cdn.macan.tv/img/mentaritv.png", Mentari TV
+https://delivery.macan.network/stream/mentaritv/playlist.m3u8?token=rqvntc0&v=20200807
+#EXTINF:-1 tvg-id="horee" tvg-name="horee" group-title="KIDS" tvg-logo="https://cdn.macan.tv/img/horee.png", Horee
+https://delivery.macan.network/stream/horee/playlist.m3u8?token=rqvntc0&v=20200807
+#EXTINF:-1 tvg-id="Lingua" tvg-name="Lingua group-title="KIDS" tvg-logo="https://cdn.macan.tv/img/lingua.png", Lingua
+https://delivery.macan.network/stream/lingua/playlist.m3u8?token=rqvntc0&v=20200807
+#EXTINF:-1 tvg-id="DuniaAnak" tvg-name="DuniaAnak" group-title="KIDS" tvg-logo="https://cdn.macan.tv/img/duniaanak.png", Dunia Anak
+https://delivery.macan.network/stream/duniaanak/playlist.m3u8?token=rqvntc0&v=20200807
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_mykids_big.png" group-title="Kids", MY KIDS
+http://rr.dens.tv/h/h191/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png?v=2.0.0.13" group-title="Kids", ANIPLUS
+http://210.210.155.35:80/dr9445/h/h02/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Px500TzG/Biznet-Kids.jpg" group-title="Kids", BIZNET KIDS
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickjr_small.png" group-title="Kids", NICK JUNIOR
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=978&deviceId=5ca6748a37b88b269472dad9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickelodeon_small.png" group-title="Kids", NICKELODEON
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=977&deviceId=5ca673e0d0bd6c2689c94ce3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-logo="https://x1.cdn.broiptv.com/img/disney.png" group-title="Kids", DISNEY CHANNEL
+http://38.123.205.70:8000/play/a0al/index.m3u8
+#EXTINF:-1 tvg-logo="https://x1.cdn.broiptv.com/img/disney_junior.png" group-title="Kids", DISNEY JUNIOR
+http://38.123.205.70:8000/play/a0bz/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png" group-title="Kids", BABY FIRST
+https://vips-livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title="Kids", BOOMERANG
+https://vips-livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5jHf5qq/davinci.png" group-title="Kids", DAVINCI
+https://vips-livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_horee_small.png?v=2.0.0.13" group-title="Kids", HOREE
+http://tvn.x10.bz/xchannel/master-5.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_duniaanak_small1.png?v=2.0.0.13" group-title="Kids", DUNIA ANAK
+http://iptvid.my.id/ch/duniaanak.m3u8?by=iptv_id
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cartoonnetwork_small.png" group-title="Kids", CARTOON NETWORK
+https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PFvGNrB/zoomoo.png" group-title="Kids", ZOO MOO
+https://zoomoo-samsungau.amagi.tv:443/playlist1080p.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dreamworks_small1.png?v=2.0.0.13" group-title="Kids",DREAMWORK
+http://iptv12k.com:35461/8022022301/468985/2079
+#EXTINF:-1 group-title="Kids",Cartoon Network
+http://136.243.177.164/CARTOONNETWORK/playlist.m3u8
+#EXTINF:-1 group-title="Kids",Toon Max
+http://45.126.83.51/qwr9ew/s/s50/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Kids",Pluto TV After School Cartoons (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/56171fafada51f8004c4b40f/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="SpacetoonIndonesia.id" tvg-name="Spacetoon" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" group-title="Kids",Spacetoon
+https://bravo.kugo.id/spacetoon/udp.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="PlutoTVAnimeAllAges.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5be4c6311843b56328bce619/colorLogoPNG.png" group-title="Kids",Pluto TV Anime All Ages (720p)
+http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5be4c6311843b56328bce619/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
+#EXTINF:-1 tvg-id="AnimeAllDay.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5812b7d3249444e05d09cc49/colorLogoPNG.png" group-title="Kids",Pluto TV Anime All Day (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5812b7d3249444e05d09cc49&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=830&terminate=false&userId=
+#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Kids",Pluto TV Anime All Day (UK) (720p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c363ac9e41be30cb6054c7c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="YuGiOh.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5fceaab478f2af00080ff51f/colorLogoPNG.png" group-title="Kids",Pluto TV Yu-Gi-Oh (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4ec10ed9636f00089b8c89/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="AnimeTV.br" tvg-country="BR" tvg-language="Japanese" tvg-logo="https://i.imgur.com/rmAm6UE.png" group-title="Kids",Anime TV (360p) [Not 24/7]
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+#EXTINF:-1 tvg-id="CONtvAnime.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5fa1b7168f9c26008859a893" group-title="Kids",CONtv Anime
+https://contvanime-littlstar.cinedigm.com/ingest/master.m3u8
+#EXTINF:-1 group-title="Kids",Animax 1
+http://45.126.83.51/dr9445/h/h144/01.m3u8
+#EXTINF:-1 group-title="Kids",Animax 2
+http://rr1.dens.tv/h/h144/index10.m3u8
+#EXTINF:-1 group-title="Kids",Animax 3
+http://210.210.155.35/dr9445/h/h144/index10.m3u8
+#EXTINF:-1 group-title="Kids",Ani Plus
+http://210.210.155.35/dr9445/h/h02/01.m3u8
+#EXTINF:-1 group-title="Kids",My Kidz 1
+http://210.210.155.66/h/h98/index.m3u8
+#EXTINF:-1 group-title="Kids",My Kidz 2
+http://45.126.83.51/uq2663/h/h98/index.m3u8
+#EXTINF:-1 tvg-id="PlutoTVBarney.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5f29ada4bdaebd000708d49d/colorLogoPNG.png" group-title="Kids",Pluto TV Barney (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f29ada4bdaebd000708d49d/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="TVSPinballNetwork.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="Kids",TVS Pinball Network (480p)
+https://rpn1.bozztv.com/36bay2/gusa-TVSCartoonNetwork/index.m3u8
+#EXTINF:-1 tvg-id="WatchItKid.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/DAhbkLv.png" group-title="Kids",Watch It Kid (486p)
+https://content.uplynk.com/channel/ce3b524c342247549e996e7d3a977157.m3u8
+#EXTINF:-1 tvg-id="WNETDT2.us" tvg-country="US-NY" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/76/PBS_Kids_Logo.svg/512px-PBS_Kids_Logo.svg.png" group-title="Kids" user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",WNET-DT2 (PBS KIDS) (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+https://v-ny.theus6tv.tk/hls/13.2/playlist.m3u8
+#EXTINF:-1 tvg-id="YoGabbaGabba.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/RwxgFfb.jpg" group-title="Kids",Yo Gabba Gabba! (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuyogabagaba/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="ZooMooAustralia.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/1wYnA2i.jpg" group-title="Kids",Zoo Moo (Australia) (1080p)
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
