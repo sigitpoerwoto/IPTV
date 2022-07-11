@@ -1549,60 +1549,60 @@ http://210.210.155.35/uq2663/h/h03/01.m3u8
 
 ####### FILM TV #######
 
-#EXTINF:-1 group-title="Film TV",FILMY
+#EXTINF:-1 group-title="Film",FILMY
 http://210.210.155.35/uq2663/h/h154/S4/mnf.m3u8
 
-#EXTINF:-1 group-title="Film TV",Telenovela Channel
+#EXTINF:-1 group-title="Film",Telenovela Channel
 http://210.210.155.35/uq2663/h/h153/S4/mnf.m3u8
 
-#EXTINF:-1 group-title="Film TV",DUBAI International
+#EXTINF:-1 group-title="Film",DUBAI International
 http://210.210.155.35/uq2663/h/h152/S4/mnf.m3u8
 
-#EXTINF:-1 group-title="Film TV",Movies Now
+#EXTINF:-1 group-title="Film",Movies Now
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 
 
-#EXTINF:-1 group-title="Film TV",MNX
+#EXTINF:-1 group-title="Film",MNX
 http://timesnow.airtel.tv/live/MNX_pull/chunklist_3.m3u8
 
 
-#EXTINF:-1 group-title="Film TV",One TV
+#EXTINF:-1 group-title="Film",One TV
 http://edge9.vedge.infomaniak.com/livecast/ik:onefmmd/chunklist.m3u8 
 
-#EXTINF:-1 tvg-logo="/storage/emulated/0/logo_tv/kix.png" group-title="Film TV",KIX
+#EXTINF:-1 tvg-logo="/storage/emulated/0/logo_tv/kix.png" group-title="Film",KIX
 http://45.126.83.51/uq2663/h/h07/01.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Film TV",Thrill 3
+#EXTINF:-1 tvg-logo="" group-title="Film",Thrill 3
 http://45.126.83.51/qwr9ew/s/s34/index2.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Film TV",Thrill 4
+#EXTINF:-1 tvg-logo="" group-title="Film",Thrill 4
 http://rr2.dens.tv/s/s34/index1.m3u8
 
-#EXTINF:-1 group-title="Film TV" tvg-logo="/storage/emulated/0/logo_tv/mycinema.jpeg",My Cinema 1
+#EXTINF:-1 group-title="Film" tvg-logo="/storage/emulated/0/logo_tv/mycinema.jpeg",My Cinema 1
 http://210.210.155.66/h/h90/index.m3u8
 
-#EXTINF:-1 group-title="Film TV",My Cinema 2
+#EXTINF:-1 group-title="Film",My Cinema 2
 http://210.210.155.35/uq2663/h/h90/index2.m3u8
 
-#EXTINF:-1 group-title="Film TV",My Cinema 3
+#EXTINF:-1 group-title="Film",My Cinema 3
 http://45.126.83.51/uq2663/h/h90/index1.m3u8
 
-#EXTINF:-1 tvg-logo="/storage/emulated/0/logo_tv/Cinema_World.jpg" group-title="Film TV",My Cinema 4
+#EXTINF:-1 tvg-logo="/storage/emulated/0/logo_tv/Cinema_World.jpg" group-title="Film",My Cinema 4
 http://210.210.155.35/uq2663/h/h90/S4/mnf.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Film TV",Cinema World 2
+#EXTINF:-1 tvg-logo="" group-title="Film",Cinema World 2
 http://210.210.155.66/h/h04/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Film TV",Cinema World 3
+#EXTINF:-1 tvg-logo="" group-title="Film",Cinema World 3
 http://rr.dens.tv/h/h04/index10.m3u8
 
-#EXTINF:-1 group-title="Film TV",Cinema World 4
+#EXTINF:-1 group-title="Film",Cinema World 4
 http://45.126.83.51/uq2663/h/h04/index2.m3u8
 
-#EXTINF:-1 group-title="Film TV",HBO
+#EXTINF:-1 group-title="Film",HBO
 http://raw.githubusercontent.com/zalindo/tv/master/hbo.m3u8
 
-#EXTINF:-1 group-title="Film TV",WAU
+#EXTINF:-1 group-title="Film",WAU
 http://nn.geo.joj.sk/hls/wau-360.m3u8
 
 ##EXTINF:-1 tvg-id="USAJ30000100K" tvg-logo="https://od.lk/s/MF8yNDAxMTIwMzFf/TWDUniverse_800x800.png" group-title="AMC Networks",TWD Universe | Vizio
