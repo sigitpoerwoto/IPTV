@@ -88,10 +88,6 @@ http://rr1.dens.tv/h/h144/index10.m3u8
 http://210.210.155.35/dr9445/h/h144/index10.m3u8
 #EXTINF:-1 group-title="Kids",Ani Plus
 http://210.210.155.35/dr9445/h/h02/01.m3u8
-#EXTINF:-1 group-title="Kids",My Kidz 1
-http://210.210.155.66/h/h98/index.m3u8
-#EXTINF:-1 group-title="Kids",My Kidz 2
-http://45.126.83.51/uq2663/h/h98/index.m3u8
 #EXTINF:-1 tvg-id="PlutoTVBarney.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5f29ada4bdaebd000708d49d/colorLogoPNG.png" group-title="Kids",Pluto TV Barney (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f29ada4bdaebd000708d49d/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 #EXTINF:-1 tvg-id="TVSPinballNetwork.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="Kids",TVS Pinball Network (480p)
