@@ -881,76 +881,76 @@ http://live.aqsatv.ps:1935/aqsatv/live/tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b3/Rodja_TV.png" group-title="TV Islam",Trans 7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w2087275061_b744100_sleng.m3u8
  
-#EXTINF:-1 tvg-id="" tvg-name="KOMPAS TV" tvg-logo="" group-title="TV LOKAL",KOMPAS TV
+#EXTINF:-1 tvg-id="" tvg-name="KOMPAS TV" tvg-logo="" group-title="TV Nasional",KOMPAS TV
 https://iptv.mwafa.net/vidio/874/index.m3u8?token=1999
-#EXTINF:-1 tvg-id="ext" tvg-name="KOMPAS TV BACKUP" tvg-logo="" group-title="TV LOKAL",KOMPAS TV BACKUP
+#EXTINF:-1 tvg-id="ext" tvg-name="KOMPAS TV BACKUP" tvg-logo="" group-title="TV Nasional",KOMPAS TV BACKUP
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/manifest.mpd
-#EXTINF:-1 tvg-id="" tvg-name="INEWS" tvg-logo="" group-title="TV LOKAL",INEWS
+#EXTINF:-1 tvg-id="" tvg-name="INEWS" tvg-logo="" group-title="TV Nasional",INEWS
 http://202.150.172.34:4000/play/inewst2
-#EXTINF:-1 tvg-id="" tvg-name="METROTV" tvg-logo="" group-title="TV LOKAL",METROTV
+#EXTINF:-1 tvg-id="" tvg-name="METROTV" tvg-logo="" group-title="TV Nasional",METROTV
 http://202.150.172.34:4000/play/metrotvhdt2
-#EXTINF:-1 tvg-id="" tvg-name="METROTV BACKUP " tvg-logo="" group-title="TV LOKAL",METROTV BACKUP 
+#EXTINF:-1 tvg-id="" tvg-name="METROTV BACKUP " tvg-logo="" group-title="TV Nasional",METROTV BACKUP 
 https://iptv.mwafa.net/vidio/777/index.m3u8?token=1999
-#EXTINF:-1 tvg-id="metrotv" tvg-name="METRO BACKUP 2 " tvg-logo="http://kamiselaluada.com/img/metrotv.png" group-title="TV LOKAL",METRO BACKUP 2 
+#EXTINF:-1 tvg-id="metrotv" tvg-name="METRO BACKUP 2 " tvg-logo="http://kamiselaluada.com/img/metrotv.png" group-title="TV Nasional",METRO BACKUP 2 
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd
-#EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="" group-title="TV LOKAL",CNN
+#EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="" group-title="TV Nasional",CNN
 http://202.150.172.34:4000/play/cnnindonesiahdt2
-#EXTINF:-1 tvg-id="" tvg-name="CNN BACKUP" tvg-logo="" group-title="TV LOKAL",CNN BACKUP
+#EXTINF:-1 tvg-id="" tvg-name="CNN BACKUP" tvg-logo="" group-title="TV Nasional",CNN BACKUP
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVONE" tvg-logo="" group-title="TV LOKAL",TVONE
+#EXTINF:-1 tvg-id="" tvg-name="TVONE" tvg-logo="" group-title="TV Nasional",TVONE
 http://202.150.172.34:4000/play/tvonedigitalt2
-#EXTINF:-1 tvg-id="" tvg-name="TVRI" tvg-logo="" group-title="TV LOKAL",TVRI
+#EXTINF:-1 tvg-id="" tvg-name="TVRI" tvg-logo="" group-title="TV Nasional",TVRI
 http://202.150.172.34:4000/play/tvrinasionalt2
-#EXTINF:-1 tvg-id="" tvg-name="BERITA SATU" tvg-logo="" group-title="TV LOKAL",BERITA SATU
+#EXTINF:-1 tvg-id="" tvg-name="BERITA SATU" tvg-logo="" group-title="TV Nasional",BERITA SATU
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BERITA SATU Backup" tvg-logo="" group-title="TV LOKAL",BERITA SATU Backup
+#EXTINF:-1 tvg-id="" tvg-name="BERITA SATU Backup" tvg-logo="" group-title="TV Nasional",BERITA SATU Backup
 https://iptv.mwafa.net/vidio/6165/index.m3u8?token=1999
-#EXTINF:-1 tvg-id="" tvg-name="BERITA SATU WORLD " tvg-logo="http://kamiselaluada.com/img/bsworld.png" group-title="TV LOKAL",BERITA SATU WORLD 
+#EXTINF:-1 tvg-id="" tvg-name="BERITA SATU WORLD " tvg-logo="http://kamiselaluada.com/img/bsworld.png" group-title="TV Nasional",BERITA SATU WORLD 
 https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CNBC INDONESIA" tvg-logo="" group-title="TV LOKAL",CNBC INDONESIA
+#EXTINF:-1 tvg-id="" tvg-name="CNBC INDONESIA" tvg-logo="" group-title="TV Nasional",CNBC INDONESIA
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1352897452_b280000_sleng.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CNBC INDONESIA Backup" tvg-logo="" group-title="TV LOKAL",CNBC INDONESIA Backup
+#EXTINF:-1 tvg-id="" tvg-name="CNBC INDONESIA Backup" tvg-logo="" group-title="TV Nasional",CNBC INDONESIA Backup
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/eroz_brebes.m3u8
-#EXTINF:-1 tvg-id="RCTI.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/RCTI_2015.svg/512px-RCTI_2015.svg.png" group-title="TV LOKAL",RCTI (720p)
+#EXTINF:-1 tvg-id="RCTI.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/RCTI_2015.svg/512px-RCTI_2015.svg.png" group-title="TV Nasional",RCTI (720p)
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://d35d0ifx19oopq.cloudfront.net/RCTI_2021.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MNCTV" tvg-logo="" group-title="TV LOKAL",MNCTV
+#EXTINF:-1 tvg-id="" tvg-name="MNCTV" tvg-logo="" group-title="TV Nasional",MNCTV
 http://202.150.172.34:4000/play/mnctvt2
-#EXTINF:-1 tvg-id="" tvg-name="ANTV" tvg-logo="" group-title="TV LOKAL",ANTV
+#EXTINF:-1 tvg-id="" tvg-name="ANTV" tvg-logo="" group-title="TV Nasional",ANTV
 http://202.150.172.34:4000/play/antvdigitalt2
-#EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="" group-title="TV LOKAL",SCTV
+#EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="" group-title="TV Nasional",SCTV
 http://202.150.172.34:4000/play/sctvhdt2
-#EXTINF:-1 tvg-id="" tvg-name="INDOSIAR" tvg-logo="" group-title="TV LOKAL",INDOSIAR
+#EXTINF:-1 tvg-id="" tvg-name="INDOSIAR" tvg-logo="" group-title="TV Nasional",INDOSIAR
 http://202.150.172.34:4000/play/indosiarhdt2
-#EXTINF:-1 tvg-id="" tvg-name="GTV" tvg-logo="" group-title="TV LOKAL",GTV
+#EXTINF:-1 tvg-id="" tvg-name="GTV" tvg-logo="" group-title="TV Nasional",GTV
 http://202.150.172.34:4000/play/gtvt2
-#EXTINF:-1 tvg-id="" tvg-name="TRANS7" tvg-logo="" group-title="TV LOKAL",TRANS7
+#EXTINF:-1 tvg-id="" tvg-name="TRANS7" tvg-logo="" group-title="TV Nasional",TRANS7
 http://202.150.172.34:4000/play/trans7hdt2
-#EXTINF:-1 tvg-id="" tvg-name="TRANS7 BACKUP" tvg-logo="" group-title="TV LOKAL",TRANS7 BACKUP
+#EXTINF:-1 tvg-id="" tvg-name="TRANS7 BACKUP" tvg-logo="" group-title="TV Nasional",TRANS7 BACKUP
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TRANSTV" tvg-logo="" group-title="TV LOKAL",TRANSTV
+#EXTINF:-1 tvg-id="" tvg-name="TRANSTV" tvg-logo="" group-title="TV Nasional",TRANSTV
 http://202.150.172.34:4000/play/transtvhdt2
-#EXTINF:-1 tvg-id="" tvg-name="TRANSTV BACKUP" tvg-logo="" group-title="TV LOKAL",TRANSTV BACKUP
+#EXTINF:-1 tvg-id="" tvg-name="TRANSTV BACKUP" tvg-logo="" group-title="TV Nasional",TRANSTV BACKUP
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="transtv" tvg-name="TRANSTV BACKUP 2" tvg-logo="http://kamiselaluada.com/img/transtv.png" group-title="TV LOKAL",TRANSTV BACKUP 2
+#EXTINF:-1 tvg-id="transtv" tvg-name="TRANSTV BACKUP 2" tvg-logo="http://kamiselaluada.com/img/transtv.png" group-title="TV Nasional",TRANSTV BACKUP 2
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RTV" tvg-logo="" group-title="TV LOKAL",RTV
+#EXTINF:-1 tvg-id="" tvg-name="RTV" tvg-logo="" group-title="TV Nasional",RTV
 http://202.150.172.34:4000/play/rtv1
-#EXTINF:-1 tvg-id="" tvg-name="HI INDO" tvg-logo="" group-title="TV LOKAL",HI INDO
+#EXTINF:-1 tvg-id="" tvg-name="HI INDO" tvg-logo="" group-title="TV Nasional",HI INDO
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(0b50f52d-2491-4050-81dd-79045ddcfb34)/manifest.mpd
-#EXTINF:-1 tvg-id="" tvg-name="NUSANTARA TV " tvg-logo="http://kamiselaluada.com/img/ntv.png" group-title="TV LOKAL",NUSANTARA TV 
+#EXTINF:-1 tvg-id="" tvg-name="NUSANTARA TV " tvg-logo="http://kamiselaluada.com/img/ntv.png" group-title="TV Nasional",NUSANTARA TV 
 https://v6.siar.us/nusantaratv/live/kamiselaluada_chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nusantara TV BACKUP" tvg-logo="" group-title="TV LOKAL",Nusantara TV BACKUP
+#EXTINF:-1 tvg-id="" tvg-name="Nusantara TV BACKUP" tvg-logo="" group-title="TV Nasional",Nusantara TV BACKUP
 https://v6.siar.us/nusantaratv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="JAKTV" tvg-logo="" group-title="TV LOKAL",JAKTV
+#EXTINF:-1 tvg-id="" tvg-name="JAKTV" tvg-logo="" group-title="TV Nasional",JAKTV
 https://iptv.mwafa.net/vidio/5415/index.m3u8?token=1999
-#EXTINF:-1 tvg-id="" tvg-name="MAGNA CHANNEL" tvg-logo="" group-title="TV LOKAL",MAGNA CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="MAGNA CHANNEL" tvg-logo="" group-title="TV Nasional",MAGNA CHANNEL
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MALEO TV" tvg-logo="" group-title="TV LOKAL",MALEO TV
+#EXTINF:-1 tvg-id="" tvg-name="MALEO TV" tvg-logo="" group-title="TV Nasional",MALEO TV
 http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="O CHANNEL" tvg-logo="" group-title="TV LOKAL",O CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="O CHANNEL" tvg-logo="" group-title="TV Nasional",O CHANNEL
 https://iptv.mwafa.net/vidio/206/index.m3u8?token=1999
-#EXTINF:-1 tvg-id="" tvg-name="JITV " tvg-logo="http://kamiselaluada.com/img/jitv.png" group-title="TV LOKAL",JITV 
+#EXTINF:-1 tvg-id="" tvg-name="JITV " tvg-logo="http://kamiselaluada.com/img/jitv.png" group-title="TV Nasional",JITV 
 http://202.169.224.76:1935/tv/jitv/chunklist_kamiselaluada.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="" group-title="TV ENTERTAIN",AXN
 http://playlist.urfan.web.id/dr9445/h/h141/01.m3u8
@@ -2067,10 +2067,12 @@ http://189.91.128.146:4444/udp/227.10.20.157:1234
 http://189.91.128.146:4444/udp/227.10.20.154:1234
 #EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.X9qF4O4oQaTIKsbCFApQ9wHaEP&pid=Api&P=0&w=332&h=190" group-title="Movies", HBO SINGNATURE
 http://189.91.128.146:4444/udp/227.10.20.158:1234
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/thrill.png" group-title="Movies",Thrill
 http://203.154.177.124:8899/live/ch21/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/warner.png" group-title="Film",Warner TV
 http://203.154.177.124:8899/live/ch12/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.fnKNwdF3ZKB79OVt_V8O1gHaC6&pid=Api&P=0&w=459&h=180"group-title="MOVIE",TVN
 http://group2-swiftservehd-1.dens.tv/h/h20/01.m3u8
 #EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.fnKNwdF3ZKB79OVt_V8O1gHaC6&pid=Api&P=0&w=459&h=180"group-title="MOVIE",TvnMovies
