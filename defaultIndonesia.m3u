@@ -1,75 +1,75 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ad/andorradifusio.ad.epg.xml,https://iptv-org.github.io/epg/guides/ae-ar/osn.com.epg.xml,https://iptv-org.github.io/epg/guides/af/arianaafgtv.com.epg.xml,https://iptv-org.github.io/epg/guides/af/arianatelevision.com.epg.xml,https://iptv-org.github.io/epg/guides/al/ipko.com.epg.xml,https://iptv-org.github.io/epg/guides/am/tv.mail.ru.epg.xml,https://iptv-org.github.io/epg/guides/ao/guide.dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/ar/directv.com.ar.epg.xml,https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/at/magentatv.at.epg.xml,https://iptv-org.github.io/epg/guides/au/ontvtonight.com.epg.xml,https://iptv-org.github.io/epg/guides/az/tv.mail.ru.epg.xml,https://iptv-org.github.io/epg/guides/ba/mtel.ba.epg.xml,https://iptv-org.github.io/epg/guides/be/telenettv.be.epg.xml,https://iptv-org.github.io/epg/guides/bf/canalplus-afrique.com.epg.xml,https://iptv-org.github.io/epg/guides/bg/tv.dir.bg.epg.xml,https://iptv-org.github.io/epg/guides/bi/guide.dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/bi/startimestv.com.epg.xml,https://iptv-org.github.io/epg/guides/bl/canalplus-caraibes.com.epg.xml,https://iptv-org.github.io/epg/guides/bo/comteco.com.bo.epg.xml,https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/bs/rev.bs.epg.xml,https://iptv-org.github.io/epg/guides/by/tv.mail.ru.epg.xml,https://iptv-org.github.io/epg/guides/ca/tvhebdo.com.epg.xml,https://iptv-org.github.io/epg/guides/ca/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/cd/startimestv.com.epg.xml,https://iptv-org.github.io/epg/guides/ch/tv.blue.ch.epg.xml,https://iptv-org.github.io/epg/guides/cl/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/cl/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/cn/tv.cctv.com.epg.xml,https://iptv-org.github.io/epg/guides/co/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/co/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/co/siba.com.co.epg.xml,https://iptv-org.github.io/epg/guides/cr/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/cu/tvcubana.icrt.cu.epg.xml,https://iptv-org.github.io/epg/guides/cz/m.tv.sms.cz.epg.xml,https://iptv-org.github.io/epg/guides/de/hd-plus.de.epg.xml,https://iptv-org.github.io/epg/guides/de/horizon.tv.epg.xml,https://iptv-org.github.io/epg/guides/dk/allente.se.epg.xml,https://iptv-org.github.io/epg/guides/do/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/ec/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/ee-en/teliatv.ee.epg.xml,https://iptv-org.github.io/epg/guides/eg-ar/elcinema.com.epg.xml,https://iptv-org.github.io/epg/guides/es/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/es/movistarplus.es.epg.xml,https://iptv-org.github.io/epg/guides/es/programacion-tv.elpais.com.epg.xml,https://iptv-org.github.io/epg/guides/et/guide.dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/fi/telkussa.fi.epg.xml,https://iptv-org.github.io/epg/guides/fo/kvf.fo.epg.xml,https://iptv-org.github.io/epg/guides/fr/canalplus.com.epg.xml,https://iptv-org.github.io/epg/guides/fr/chaines-tv.orange.fr.epg.xml,https://iptv-org.github.io/epg/guides/fr/programme-tv.net.epg.xml,https://iptv-org.github.io/epg/guides/fr/telecablesat.fr.epg.xml,https://iptv-org.github.io/epg/guides/ga/startimestv.com.epg.xml,https://iptv-org.github.io/epg/guides/ge/magticom.ge.epg.xml,https://iptv-org.github.io/epg/guides/gr/cosmote.gr.epg.xml,https://iptv-org.github.io/epg/guides/gt/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/gt/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/hk-en/nowplayer.now.com.epg.xml,https://iptv-org.github.io/epg/guides/hn/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/hr/maxtv.hrvatskitelekom.hr.epg.xml,https://iptv-org.github.io/epg/guides/hu/mediaklikk.hu.epg.xml,https://iptv-org.github.io/epg/guides/hu/musor.tv.epg.xml,https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml,https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml,https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml,https://iptv-org.github.io/epg/guides/ie/ontvtonight.com.epg.xml,https://iptv-org.github.io/epg/guides/il/9tv.co.il.epg.xml,https://iptv-org.github.io/epg/guides/il/kan.org.il.epg.xml,https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml,https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.epg.xml,https://iptv-org.github.io/epg/guides/it/mediaset.it.epg.xml,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml,https://iptv-org.github.io/epg/guides/ke/guide.dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/km/canalplus-reunion.com.epg.xml,https://iptv-org.github.io/epg/guides/kr/seezntv.com.epg.xml,https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml,https://iptv-org.github.io/epg/guides/kz/tv.yandex.ru.epg.xml,https://iptv-org.github.io/epg/guides/mk/maxtvgo.mk.epg.xml,https://iptv-org.github.io/epg/guides/mt/melita.com.epg.xml,https://iptv-org.github.io/epg/guides/mw/guide.dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/mx/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/mx/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml,https://iptv-org.github.io/epg/guides/mz/guide.dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/ng/dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/ni/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/nl/delta.nl.epg.xml,https://iptv-org.github.io/epg/guides/nl/ziggogo.tv.epg.xml,https://iptv-org.github.io/epg/guides/no/allente.se.epg.xml,https://iptv-org.github.io/epg/guides/no/frikanalen.no.epg.xml,https://iptv-org.github.io/epg/guides/pa/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/pe/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/pe/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/ph/clickthecity.com.epg.xml,https://iptv-org.github.io/epg/guides/pl/programtv.onet.pl.epg.xml,https://iptv-org.github.io/epg/guides/pt/meo.pt.epg.xml,https://iptv-org.github.io/epg/guides/py/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/ro/programetv.ro.epg.xml,https://iptv-org.github.io/epg/guides/rs/mts.rs.epg.xml,https://iptv-org.github.io/epg/guides/ru/tv.yandex.ru.epg.xml,https://iptv-org.github.io/epg/guides/se/allente.se.epg.xml,https://iptv-org.github.io/epg/guides/se/tv.nu.epg.xml,https://iptv-org.github.io/epg/guides/sg/mewatch.sg.epg.xml,https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml,https://iptv-org.github.io/epg/guides/si/tv2go.t-2.net.epg.xml,https://iptv-org.github.io/epg/guides/sv/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/sv/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml,https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.epg.xml,https://iptv-org.github.io/epg/guides/tr/dsmart.com.tr.epg.xml,https://iptv-org.github.io/epg/guides/tr/tvplus.com.tr.epg.xml,https://iptv-org.github.io/epg/guides/tz/startimestv.com.epg.xml,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml,https://iptv-org.github.io/epg/guides/uk/ontvtonight.com.epg.xml,https://iptv-org.github.io/epg/guides/uk/sky.com.epg.xml,https://iptv-org.github.io/epg/guides/uk/virginmedia.com.epg.xml,https://iptv-org.github.io/epg/guides/us-local/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml,https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml,https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/za/guide.dstv.com.epg.xml"
-#EXTINF:-1 tvg-id="SCTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/EMmOvnQ.png" group-title="TV Nasional (Vidio)",SCTV HD 
+#EXTINF:-1 tvg-id="SCTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/EMmOvnQ.png" group-title="TV Nasional",SCTV HD 
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4446503011668def857b1c03bafabba51
 
-#EXTINF:-1 tvg-id="ANTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/512px-Antv_logo.svg.png"  group-title="TV Nasional (Vidio)",ANTV 
+#EXTINF:-1 tvg-id="ANTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/512px-Antv_logo.svg.png"  group-title="TV Nasional",ANTV 
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=72da7fd6d1302c0a159f6436d01e9eb0446503011668def857b1c03bafabba51
 
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png" group-title="TV Nasional (Vidio)",INDOSIAR
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png" group-title="TV Nasional",INDOSIAR
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69446503011668def857b1c03bafabba51
 
-#EXTINF:-1 tvg-id="tvOne.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/Al8T2MD.png" group-title="TV Nasional (Vidio)",TV ONE
+#EXTINF:-1 tvg-id="tvOne.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/Al8T2MD.png" group-title="TV Nasional",TV ONE
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=6e0721b2c6977135b916ef286bcb49ec446503011668def857b1c03bafabba51
 
-#EXTINF:-1 tvg-id="TransTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/512px-Trans_TV_2013.svg.png" group-title="TV Nasional (Vidio)",TRANS TV
+#EXTINF:-1 tvg-id="TransTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/512px-Trans_TV_2013.svg.png" group-title="TV Nasional",TRANS TV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=6c29793a140a811d0c45ce03c1c93a28446503011668def857b1c03bafabba51
 
-#EXTINF:-1 tvg-id="Trans7.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/fAbGImS.png" group-title="TV Nasional (Vidio)",TRANS 7
+#EXTINF:-1 tvg-id="Trans7.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/fAbGImS.png" group-title="TV Nasional",TRANS 7
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=e995f98d56967d946471af29d7bf99f1446503011668def857b1c03bafabba51
 
-#EXTINF:-1 tvg-id="JakTV.id" tvg-country="ID-JK" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/3ggGYBa.png" group-title="TV Nasional (Vidio)",JAK TV
+#EXTINF:-1 tvg-id="JakTV.id" tvg-country="ID-JK" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/3ggGYBa.png" group-title="TV Nasional",JAK TV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=3891b14b5d8cce2fdd8dcdb4ded28f6d446503011668def857b1c03bafabba51
 
-#EXTINF:-1 tvg-id="MetroTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/QnU70NI.png" group-title="TV Nasional (Vidio)",METRO TV
+#EXTINF:-1 tvg-id="MetroTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/QnU70NI.png" group-title="TV Nasional",METRO TV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=f1c1592588411002af340cbaedd6fc33446503011668def857b1c03bafabba51
 
-#EXTINF:-1 tvg-id="KompasTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7a/KOMPAS_TV_%282017%29.png" group-title="TV Nasional (Vidio)",KOMPAS TV
+#EXTINF:-1 tvg-id="KompasTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7a/KOMPAS_TV_%282017%29.png" group-title="TV Nasional",KOMPAS TV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=51ef186e18dc00c2d31982567235c559446503011668def857b1c03bafabba51
 
-#EXTINF:-1 tvg-id="TVRINasional.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TV Nasional (Vidio)",TVRI
+#EXTINF:-1 tvg-id="TVRINasional.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TV Nasional",TVRI
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=0b07c4aabfdc28bb8236e195c401e1b2446503011668def857b1c03bafabba51
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/7ust2dK8dL2XeKt1S-DD521o-EU=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-stream-06c6dc.jpg" group-title="TV Nasional (Vidio)",RTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/7ust2dK8dL2XeKt1S-DD521o-EU=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-stream-06c6dc.jpg" group-title="TV Nasional",RTV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=b132ecc1609bfcf302615847c1caa69a446503011668def857b1c03bafabba51
 
-#EXTINF:-1 tvg-id="BeritaSatu.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/BeritaSatu_%28Indonesian_news_channel%29.png/512px-BeritaSatu_%28Indonesian_news_channel%29.png" group-title="TV Nasional (Vidio)",BERITA SATU
+#EXTINF:-1 tvg-id="BeritaSatu.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/BeritaSatu_%28Indonesian_news_channel%29.png/512px-BeritaSatu_%28Indonesian_news_channel%29.png" group-title="TV Nasional",BERITA SATU
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=36452e720502e4da486d2f9f6b48a7bb446503011668def857b1c03bafabba51
 
-#EXTINF:-1 tvg-id="" tvg-name="OSHOP" tvg-logo="https://thumbor.prod.vidiocdn.com/uVFSoTESS5e1aejpa34oI2a8a_g=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6166/oshop-tv-stream-c16bc3.jpg" group-title="TV Nasional (Vidio)",OSHOP
+#EXTINF:-1 tvg-id="" tvg-name="OSHOP" tvg-logo="https://thumbor.prod.vidiocdn.com/uVFSoTESS5e1aejpa34oI2a8a_g=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6166/oshop-tv-stream-c16bc3.jpg" group-title="TV Nasional",OSHOP
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=4249a84bdaf63c34332d1988244fb089446503011668def857b1c03bafabba51
 
 // HIBURAN
 
-#EXTINF:-1 tvg-id="" tvg-name="MUSICA" tvg-logo="https://thumbor.prod.vidiocdn.com/WPWZbvGP8QAtCzAxNhvRp9E-J18=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7619/musica-e98c30.jpg" group-title="TV Nasional (Vidio)",MUSICA
+#EXTINF:-1 tvg-id="" tvg-name="MUSICA" tvg-logo="https://thumbor.prod.vidiocdn.com/WPWZbvGP8QAtCzAxNhvRp9E-J18=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7619/musica-e98c30.jpg" group-title="TV Nasional",MUSICA
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=6869efe03b7fbef3b001dc15804bc826446503011668def857b1c03bafabba51
 
-#EXTINF:-1 tvg-id="" tvg-name="RANS TV" tvg-logo="https://thumbor.prod.vidiocdn.com/J2XyRjB9l6ZpDQGkdWPBSYn1-5s=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8241/rans-channel-2a6db6.jpg" group-title="TV Nasional (Vidio)",RANS TV
+#EXTINF:-1 tvg-id="" tvg-name="RANS TV" tvg-logo="https://thumbor.prod.vidiocdn.com/J2XyRjB9l6ZpDQGkdWPBSYn1-5s=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8241/rans-channel-2a6db6.jpg" group-title="TV Nasional",RANS TV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=1e00746ce7635c403c2d4f9767893f00446503011668def857b1c03bafabba51
 
 
 // KIDS
 
-#EXTINF:-1 tvg-id="" tvg-name="MENTARI TV" tvg-logo="https://thumbor.prod.vidiocdn.com/lXR0RNo_sOsVOxIs_3bKHkY9KyY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-b64c27.jpg" group-title="TV Nasional (Vidio)",MENTARI TV
+#EXTINF:-1 tvg-id="" tvg-name="MENTARI TV" tvg-logo="https://thumbor.prod.vidiocdn.com/lXR0RNo_sOsVOxIs_3bKHkY9KyY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-b64c27.jpg" group-title="TV Nasional",MENTARI TV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=7dd2ae7db7d18ee7c9425e38df1af5e2446503011668def857b1c03bafabba51
 
-#EXTINF:-1 tvg-id="TVEdukasi.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/TV_Edukasi_Baru.png/512px-TV_Edukasi_Baru.png" group-title="TV Nasional (Vidio)",TV Edukasi
+#EXTINF:-1 tvg-id="TVEdukasi.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/TV_Edukasi_Baru.png/512px-TV_Edukasi_Baru.png" group-title="TV Nasional",TV Edukasi
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=9fa83fec3cf3810e5680ed45f7124dce446503011668def857b1c03bafabba51
 
 // BERITA
 
-#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-country="INT" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" group-title="TV Nasional (Vidio)",NHK WORLD JAPAN
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-country="INT" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" group-title="TV Nasional",NHK WORLD JAPAN
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=9dd30287dc5ffcfb4efb1e0521c3c8f8446503011668def857b1c03bafabba51
 
-#EXTINF:-1 tvg-id="DWEnglish.de" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="TV Nasional (Vidio)",DW
+#EXTINF:-1 tvg-id="DWEnglish.de" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="TV Nasional",DW
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=23685a2431acad7789c1e3d43ea1522c446503011668def857b1c03bafabba51
 
 
 // RELIGI
 
-#EXTINF:-1 tvg-id="" tvg-name="AJWATV" tvg-logo="https://thumbor.prod.vidiocdn.com/zFF27-zkkhoh0pah3JqUjG8ItDM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-9e9e9e.jpg" group-title="TV Nasional (Vidio)",AJWATV
+#EXTINF:-1 tvg-id="" tvg-name="AJWATV" tvg-logo="https://thumbor.prod.vidiocdn.com/zFF27-zkkhoh0pah3JqUjG8ItDM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-9e9e9e.jpg" group-title="TV Nasional",AJWATV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=7bd66825e9a97424ffe5645549270832446503011668def857b1c03bafabba51
 
-#EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/0aMNwQa.png" group-title="TV Nasional (Vidio)",AlQuranAlKareemTV
+#EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/0aMNwQa.png" group-title="TV Nasional",AlQuranAlKareemTV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=6e96be832cf8bc6b35a956e8fb66c76a446503011668def857b1c03bafabba51
 
 //LOCAL USEETV - @RiyanCoday
@@ -159,7 +159,7 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c476
 #EXTINF:-1 tvg-id="" tvg-name="IDX" tvg-logo="https://images.useetv.com/logo_idx_big.png" group-title="TV Nasional",IDX
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=1700002963a49da13542e0726b7bb758dfdded94c48ea6229c48edefa9ec1c9f
 
-#EXTINF:-1 tvg-id="DWEnglish.de" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="TV Nasional (Vidio)",DW
+#EXTINF:-1 tvg-id="DWEnglish.de" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="TV Nasional",DW
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=093f65e080a295f8076b1c5722a46aa2dfdded94c48ea6229c48edefa9ec1c9f
 
 #EXTINF:-1 tvg-id="France24French.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="TV Nasional",FRANCE 24
@@ -198,13 +198,13 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c476
 #EXTINF:-1 tvg-id="RodjaTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/XwCeHlC.png" group-title="TV Nasional",RODJATV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=6c8349cc7260ae62e3b1396831a8398fdfdded94c48ea6229c48edefa9ec1c9f
 
-#EXTINF:-1 tvg-id="KompasTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7a/KOMPAS_TV_%282017%29.png"  group-title="TV Nasional (Youtube)",KOMPAS TV
+#EXTINF:-1 tvg-id="KompasTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7a/KOMPAS_TV_%282017%29.png"  group-title="TV Nasional",KOMPAS TV
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1656575932/ei/XAO9Yr2-I_yY3LUP3YKryAU/ip/2001%3A448a%3A2074%3A5297%3Ad416%3A8afe%3Ac4b%3Aca44/id/Za5-fvwbPJI.1/source/yt_live_broadcast/requiressl/yes/tx/24201799/txs/24200493%2C24200494%2C24200495%2C24201799%2C24201800/hfr/1/ctier/A/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/hightc/yes/spc/4ocVCxa39rOSWQl7biKrGJRPHiFJpJDc0CXyrNnp0Zmx/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Chightc%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAJA05590auFN6jO2cGNMQIAV6l_cb2fg49ihSWaJYMJMAiEA-fgnAZrP3_K4JMeOOSnWu9pRWtiuCJcQfaKKWWrZ-A8%3D/file/index.m3u8
 
-#EXTINF:-1 tvg-id="NET.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/RPT8O12.png" group-title="TV Nasional (Youtube)",NET TV
+#EXTINF:-1 tvg-id="NET.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/RPT8O12.png" group-title="TV Nasional",NET TV
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1656576006/ei/pgO9Yp2NIbWC4-EP9ouE0A0/ip/2001%3A448a%3A2074%3A5297%3Ad416%3A8afe%3Ac4b%3Aca44/id/7qAJ5exbTGA.1/source/yt_live_broadcast/requiressl/yes/tx/24201799/txs/24200493%2C24200494%2C24200495%2C24201799%2C24201800/hfr/1/ctier/A/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/hightc/yes/spc/4ocVCzFEmIpawgEB1nD5V2ebfU1tGZiryG3EfexmhxIn/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Chightc%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAOL0dXCH8-oXbBuY-5Y4IjtAVp8dAUMeOo8Ft_EvhWj8AiBXPFTh8NPijV4tZpTTtLLD0whZUP7ETbRWIGW05HCukA%3D%3D/file/index.m3u8
 
-#EXTINF:-1 tvg-id="MetroTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/QnU70NI.png"group-title="TV Nasional (Youtube)",METRO TV
+#EXTINF:-1 tvg-id="MetroTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/QnU70NI.png"group-title="TV Nasional",METRO TV
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1656576149/ei/NQS9Yu6HD97qjuMPntaV2AI/ip/2001%3A448a%3A2074%3A5297%3Ad416%3A8afe%3Ac4b%3Aca44/id/WemeIY5-P6o.1/source/yt_live_broadcast/requiressl/yes/tx/24201799/txs/24200493%2C24200494%2C24200495%2C24201799%2C24201800/hfr/1/ctier/A/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/hightc/yes/spc/4ocVC7pA0H6t0E_R4NzGs5rB43TSIy_gveM8dnThHlXg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Chightc%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgWdcfDL_Ht2ru2Y51LOINzj0tRwVvFVGxruBhkv_DG5ACIGawzFVluUFJmfeocmM88EJGfDnIyasKvTr2NU070WmN/file/index.m3u8
 
 #EXTINF:-1 tvg-id="ADiTV.id" tvg-name="ADiTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/59/ADiTV_Jogja.png" group-title="TV DAERAH",ADiTV
@@ -699,17 +699,17 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d
 #EXTINF:-1 tvg-id="WesalTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/yROzjJ5.png" group-title="TV DAERAH",Wesal TV (720p)
 http://wowza58.indostreamserver.com:1935/wesaltv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AFBTV.id" tvg-country="ID-NT" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/stxMPHv.png" group-title="General",AFB TV (576p)
+#EXTINF:-1 tvg-id="AFBTV.id" tvg-country="ID-NT" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/stxMPHv.png" group-title="TV Nasional",AFB TV (576p)
 http://wowza58.indostreamserver.com:1935/afbtv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="GTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/jjuKnYs.png" group-title="General",GTV (720p)
+#EXTINF:-1 tvg-id="GTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/jjuKnYs.png" group-title="TV Nasional",GTV (720p)
 https://www.rctiplus.com/
 https://d322b885qvsbxg.cloudfront.net/GTV2021.m3u8
 
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png" group-title="General",Indosiar (480p) [Geo-blocked]
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png" group-title="TV Nasional",Indosiar (480p) [Geo-blocked]
 http://210.210.155.35/qwr9ew/s/s04/index.m3u8
 
-#EXTINF:-1 tvg-id="MNCTV.id" tvg-country="ID" tvg-language="English;Indonesian" tvg-logo="https://i.imgur.com/SK8pjQy.png" group-title="General",MNCTV (720p)
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-country="ID" tvg-language="English;Indonesian" tvg-logo="https://i.imgur.com/SK8pjQy.png" group-title="TV Nasional",MNCTV (720p)
 https://www.rctiplus.com/
 https://d33j155pv2xyba.cloudfront.net/MNCTV_2021.m3u8
 
@@ -717,13 +717,13 @@ https://d33j155pv2xyba.cloudfront.net/MNCTV_2021.m3u8
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://d35d0ifx19oopq.cloudfront.net/RCTI_2021.m3u8
 
-#EXTINF:-1 tvg-id="Trans7.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/fAbGImS.png" group-title="General",Trans7 (720p)
+#EXTINF:-1 tvg-id="Trans7.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/fAbGImS.png" group-title="TV Nasional",Trans7 (720p)
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TransTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/512px-Trans_TV_2013.svg.png" group-title="General",Trans TV (720p)
+#EXTINF:-1 tvg-id="TransTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/512px-Trans_TV_2013.svg.png" group-title="TV Nasional",Trans TV (720p)
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVRINasional.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="General",TVRI Nasional (720p)
+#EXTINF:-1 tvg-id="TVRINasional.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TV Nasional",TVRI Nasional (720p)
 http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
 
 #EXTINF:-1 tvg-id="AhsanTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/Eval1Zu.png" group-title="Religious" user-agent="Mozilla/5.0 (X11; Linux x86_64)",Ahsan TV (360p) [Geo-blocked]
@@ -764,13 +764,13 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 https://www.rctiplus.com/
 https://d2hfpzcndkyscp.cloudfront.net/INEWS_2021.m3u8
 
-#EXTINF:-1 tvg-id="BeritaSatuEnglish.id" tvg-country="ID" tvg-language="English" tvg-logo="https://i.imgur.com/URaR9Fg.png" group-title="Indonesia",JakartaGlobe News (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="BeritaSatuEnglish.id" tvg-country="ID" tvg-language="English" tvg-logo="https://i.imgur.com/URaR9Fg.png" group-title="TV Nasional",JakartaGlobe News (720p) [Not 24/7]
 https://b1english.beritasatumedia.com/Beritasatu/B1English_manifest.m3u8
 
-#EXTINF:-1 tvg-id="KompasTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7a/KOMPAS_TV_%282017%29.png" group-title="Indonesia",Kompas TV (720p)
+#EXTINF:-1 tvg-id="KompasTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7a/KOMPAS_TV_%282017%29.png" group-title="TV Nasional",Kompas TV (720p)
 https://live-kg.jixie.media/live/kompastv_lhd.m3u8
 
-#EXTINF:-1 tvg-id="MetroTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/QnU70NI.png" group-title="Indonesia",Metro TV (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="MetroTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/QnU70NI.png" group-title="TV Nasional",Metro TV (1080p) [Not 24/7]
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="EuronewsEnglish.fr" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Pluto TV Euronews (720p) [Not 24/7]
@@ -1145,10 +1145,10 @@ http://210.210.155.35/dr9445/h/h21/index.m3u8
 #EXTINF:-1 tvg-id="TVSDriveInMovie.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/RhKSIGQ.jpg" group-title="Movies",TVS Drive In Movie (360p)
 https://rpn1.bozztv.com/36bay2/gusa-tvsdriveinmovie/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://mr.bibbo.id/ccc/tv-trans7.png" group-title="Indonesia TV",Trans 7
+#EXTINF:-1 tvg-logo="https://mr.bibbo.id/ccc/tv-trans7.png" group-title="TV Nasional",Trans 7
 http://210.210.155.35/qwr9ew/s/s101/01.m3u8
 
-#EXTINF:-1 group-title="Indonesia TV",Trans TV
+#EXTINF:-1 group-title="TV Nasional",Trans TV
 http://210.210.155.35/x6bnqe/s/s252/01.m3u8
 
 #EXTINF:-1 group-title="Berita",CNN Indonesia
@@ -1157,43 +1157,43 @@ http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b3840
 #EXTINF:-1 group-title="Berita",CNBC Indonesia
 http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 
-#EXTINF:-1 group-title="Indonesia TV",NET TV FHD
+#EXTINF:-1 group-title="TV Nasional",NET TV FHD
 https://mr.bibbo.id/ccc/NETTV.m3u8
 
-#EXTINF:-1 group-title="Indonesia TV",NET TV SD
+#EXTINF:-1 group-title="TV Nasional",NET TV SD
 http://210.210.155.35/qwr9ew/s/s08/01.m3u8
 
-#EXTINF:-1 group-title="Indonesia TV",Metro TV
+#EXTINF:-1 group-title="TV Nasional",Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
 
-#EXTINF:-1 group-title="Indonesia TV",Magna Channel
+#EXTINF:-1 group-title="TV Nasional",Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://mr.bibbo.id/ccc/MagnaChannel.png" group-title="Indonesia TV",Magna Channel HD
+#EXTINF:-1 tvg-logo="https://mr.bibbo.id/ccc/MagnaChannel.png" group-title="TV Nasional",Magna Channel HD
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w757574110_b2692000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://mr.bibbo.id/ccc/MagnaChannel.png" group-title="Indonesia TV",Magna Channel FHD
+#EXTINF:-1 tvg-logo="https://mr.bibbo.id/ccc/MagnaChannel.png" group-title="TV Nasional",Magna Channel FHD
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w657754957_b3884000_sleng.m3u8
 
-#EXTINF:-1 group-title="Indonesia TV",MyTV
+#EXTINF:-1 group-title="TV Nasional",MyTV
 http://210.210.155.35/qwr9ew/s/s46/01.m3u8
 
-#EXTINF:-1 group-title="Indonesia TV",UGTV
+#EXTINF:-1 group-title="TV Nasional",UGTV
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv_high.m3u8
 
-#EXTINF:-1 group-title="Indonesia TV",SCTV 1
+#EXTINF:-1 group-title="TV Nasional",SCTV 1
 http://45.126.83.51/qwr9ew/s/s03/01.m3u8
 
-#EXTINF:-1 group-title="Indonesia TV",SCTV 2
+#EXTINF:-1 group-title="TV Nasional",SCTV 2
 http://210.210.155.35/qwr9ew/s/s03/02.m3u8
 
-#EXTINF:-1 group-title="Indonesia TV",INDOSIAR
+#EXTINF:-1 group-title="TV Nasional",INDOSIAR
 http://210.210.155.35/qwr9ew/s/s04/01.m3u8
 
-#EXTINF:-1 group-title="Indonesia TV",INDOSIAR 2
+#EXTINF:-1 group-title="TV Nasional",INDOSIAR 2
 http://210.210.155.35/qwr9ew/s/s04/index10.m3u8
 
-#EXTINF:-1 group-title="Indonesia TV",ANTV
+#EXTINF:-1 group-title="TV Nasional",ANTV
 http://210.210.155.35/qwr9ew/s/s07/01.m3u8
 
 
@@ -1203,34 +1203,34 @@ http://210.210.155.35/session/8ada75ba-2f85-11eb-9529-b82a72d63267/qwr9ew/s/s105
 #EXTINF:-1 group-title="Berita",KompasTV
 http://210.210.155.35/qwr9ew/s/s104/index.m3u8 
 
-#EXTINF:-1 group-title="Indonesia TV",Elshinta TV
+#EXTINF:-1 group-title="TV Nasional",Elshinta TV
 http://210.210.155.35/qwr9ew/s/s10/index.m3u8
 
-#EXTINF:-1 group-title="Indonesia TV",TVRI
+#EXTINF:-1 group-title="TV Nasional",TVRI
 http://210.210.155.35/qwr9ew/s/s11/index.m3u8
 
-#EXTINF:-1 group-title="Indonesia TV",TVRI Sport HD
+#EXTINF:-1 group-title="TV Nasional",TVRI Sport HD
 http://210.210.155.35/qwr9ew/s/s107/index.m3u8 
 
 #EXTINF:-1 group-title="Berita",RRI NET
 http://36.89.47.217:11935/rrinet/live/index.m3u8
 
-#EXTINF:-1 group-title="Indonesia TV",RTV
+#EXTINF:-1 group-title="TV Nasional",RTV
 http://210.210.155.35/qwr9ew/s/s12/01.m3u8
 
-#EXTINF:-1 group-title="Indonesia TV",Badar TV
+#EXTINF:-1 group-title="TV Nasional",Badar TV
 https://e1.siar.us/badartv/live/chunks.m3u8
 
-#EXTINF:-1 group-title="Indonesia TV",MGS TV
+#EXTINF:-1 group-title="TV Nasional",MGS TV
 http://wowza58.indostreamserver.com:1935/mgstv/live/playlist.m3u8
 
-#EXTINF:-1 group-title="Indonesia TV",DAAI TV
+#EXTINF:-1 group-title="TV Nasional",DAAI TV
 http://210.210.155.35/qwr9ew/s/s13/index.m3u8
 
-#EXTINF:-1 group-title="Indonesia TV",CTV Banten
+#EXTINF:-1 group-title="TV Nasional",CTV Banten
 http://103.23.201.170:1935/live/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://mr.bibbo.id/ccc/ntv.png" group-title="Indonesia TV",Nusantara TV
+#EXTINF:-1 tvg-logo="https://mr.bibbo.id/ccc/ntv.png" group-title="TV Nasional",Nusantara TV
 https://v6.siar.us/nusantaratv/live/chunks.m3u8
 
 #EXTINF:-1 group-title="BeritaSatu",Berita Satu SD
@@ -1252,19 +1252,19 @@ http://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8
 #EXTINF:-1 group-title="TV Daerah",Bali TV
 http://45.126.83.51/uq2663/h/h159/S4/mnf.m3u8
 
-#EXTINF:-1 group-title="Indonesia TV",Rodja TV
+#EXTINF:-1 group-title="TV Nasional",Rodja TV
 http://210.210.155.35/qwr9ew/s/s14/index.m3u8
 
-#EXTINF:-1 group-title="Indonesia TV",U Channel
+#EXTINF:-1 group-title="TV Nasional",U Channel
 http://45.126.83.51/qwr9ew/s/s41/index.m3u8
 
-#EXTINF:-1 group-title="Indonesia TV",JITV
+#EXTINF:-1 group-title="TV Nasional",JITV
 http://202.169.224.76:1935/tv/jitv/chunklist_w544975635.m3u8
 
-#EXTINF:-1 group-title="Indonesia TV",TVKU
+#EXTINF:-1 group-title="TV Nasional",TVKU
 http://103.30.1.14:8080/hls/live.m3u8
 
-#EXTINF:-1 group-title="Indonesia TV",TEGAR TV
+#EXTINF:-1 group-title="TV Nasional",TEGAR TV
 http://wms.klikhost.com/tegartv/live/playlist.m3u8
 
 #EXTINF:-1 group-title="TV Daerah",JPN Stream
@@ -1330,37 +1330,37 @@ http://122.248.43.138:1935/ch26/myStream/playlist.m3u8
 #EXTINF:-1 group-title="TV Daerah",Citra TV
 http://122.248.43.138:1935/ch28/myStream/playlist.m3u8
 
-#EXTINF:-1 group-title="Indonesia TV",Life Style
+#EXTINF:-1 group-title="TV Nasional",Life Style
 http://210.210.155.66/h/h28/01.m3u8
 
-#EXTINF:-1 group-title="Indonesia TV",Lifestyle
+#EXTINF:-1 group-title="TV Nasional",Lifestyle
 http://45.126.83.51/uq2663/h/h28/index2.m3u8
 
-#EXTINF:-1 group-title="Indonesia TV",Knowledge
+#EXTINF:-1 group-title="TV Nasional",Knowledge
 http://210.210.155.35/x6bnqe/s/s36/S4/mnf.m3u8
 
-#EXTINF:-1 group-title="Indonesia TV",Showbiz 1
+#EXTINF:-1 group-title="TV Nasional",Showbiz 1
 http://210.210.155.35/x6bnqe/s/s35/S4/mnf.m3u8
 
-#EXTINF:-1 group-title="Indonesia TV",Showbiz 2
+#EXTINF:-1 group-title="TV Nasional",Showbiz 2
 http://210.210.155.35/session/a7b40e8c-3be0-11eb-93d7-8dec8236dca8/x6bnqe/s/s35/index.m3u8
 
-#EXTINF:-1 group-title="Indonesia TV",Play
+#EXTINF:-1 group-title="TV Nasional",Play
 http://210.210.155.35/x6bnqe/s/s101/live.m3u8
 
-#EXTINF:-1 group-title="Indonesia TV" tvg-logo="/storage/emulated/0/logo_tv/molatv.jpeg",Mola TV
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="/storage/emulated/0/logo_tv/molatv.jpeg",Mola TV
 http://bit.ly/2Ueb5js
 
-#EXTINF:-1 group-title="Indonesia TV",JTV
+#EXTINF:-1 group-title="TV Nasional",JTV
 http://122.248.43.138:1935/ch2/myStream/chunklist_w1946012755.m3u8
 
-#EXTINF:-1 group-title="Indonesia TV",JTV
+#EXTINF:-1 group-title="TV Nasional",JTV
 http://210.210.155.35/x6bnqe/s/s91/S4/mnf.m3u8
 
-#EXTINF:-1 group-title="Indonesia TV",Live Streaming 1
+#EXTINF:-1 group-title="TV Nasional",Live Streaming 1
 http://210.210.155.35/x6bnqe/s/s100/live.m3u8
 
-#EXTINF:-1 group-title="Indonesia TV",Live Streaming 2
+#EXTINF:-1 group-title="TV Nasional",Live Streaming 2
 http://210.210.155.35/uq2663/h/h998/live.m3u8
 
 #EXTINF:-1, group-title=Music",ONE
