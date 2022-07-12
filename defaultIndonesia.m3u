@@ -2100,3 +2100,15 @@ http://181.78.22.214:8000/play/a007
 http://181.78.22.214:8000/play/a008
 #EXTINF:-2 tvg-id="Indosiar.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png" group-title="TV Nasional",INDOSIAR (Smiletv)
 http://139.99.61.103:8080/live/Smiletv/Ceria/5258.ts
+#EXTINF:-1 tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_horizontal.png" group-title="24/7 ADULT IPTV",FTV Midnight Secrets (UHD)
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/mR1I8hE.png" group-title="24/7 ADULT IPTV",A3Bikini TV
+https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://www.babestation.tv/cams/_nuxt/img/15f4392.png" group-title="24/7 ADULT IPTV",Babestation
+http://sdn-global-live-http-cache.3qsdn.com/live/_definst_/amlst:9528-mbr/chunklist_b1728000.m3u8?fluxuslust.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/72g0AmD.png" group-title="24/7 ADULT IPTV",Blue Hustler
+https://fluxustv.blogspot.com@bit.ly/39bgDkK?.m3u8
+#EXTINF:-1 tvg-logo="https://terapiasexo.com/wp-content/uploads/2016/09/logo-miami-tv.png" group-title="24/7 ADULT IPTV",Miami TV
+http://59ec5453559f0.streamlock.net:1935/miamitv/smil:miamitv/chunklist.m3u8?fluxuslust.m3u8
+#EXTINF:-1 tvg-logo="https://terapiasexo.com/wp-content/uploads/2016/09/logo-miami-tv.png" group-title="24/7 ADULT IPTV",Miami TV Live
+http://59ec5453559f0.streamlock.net:1935/mexicotv/smil:miamitvmexicoROKU/chunklist_b1896000.m3u8?fluxuslust.m3u8
