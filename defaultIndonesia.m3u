@@ -2132,3 +2132,5 @@ http://210.210.155.35:80/dr9445/h/h16/01.m3u8
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 #EXTINF:-1 group-title="MALAYSIA CHANNEL" tvg-id="TVIkim.my" tvg-name="TV Ikim HD" tvg-logo="https://i.imgur.com/Z0dyJK7.jpg" ,TV Ikim HD
 http://edge.vediostream.com/abr/tvikim/live/tvikim_source/playlist.m3u8
+#EXTINF:-1 group-title="TV Entertain" tvg-id="NewKidTV.us" tvg-logo="https://i.imgur.com/Z5t6cCe.jpg" ,New Kid TV (korea)
+https://b9860b21629b415987978bdbbfbc3095.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_NewKID/playlist.m3u8
