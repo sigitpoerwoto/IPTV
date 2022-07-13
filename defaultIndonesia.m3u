@@ -2102,27 +2102,27 @@ http://181.78.22.214:8000/play/a008
 http://139.99.61.103:8080/live/Smiletv/Ceria/5258.ts
 #EXTINF:-1 tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_horizontal.png" group-title="24/7 ADULT IPTV",FTV Midnight Secrets (UHD)
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/mR1I8hE.png" group-title="24/7 ADULT IPTV",A3Bikini TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/mR1I8hE.png" group-title="XXX",A3Bikini TV
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="https://www.babestation.tv/cams/_nuxt/img/15f4392.png" group-title="24/7 ADULT IPTV",Babestation
+#EXTINF:-1 tvg-logo="https://www.babestation.tv/cams/_nuxt/img/15f4392.png" group-title="XXX",Babestation
 http://sdn-global-live-http-cache.3qsdn.com/live/_definst_/amlst:9528-mbr/chunklist_b1728000.m3u8?fluxuslust.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/72g0AmD.png" group-title="24/7 ADULT IPTV",Blue Hustler
+#EXTINF:-1 tvg-logo="https://i.imgur.com/72g0AmD.png" group-title="XXX",Blue Hustler
 https://fluxustv.blogspot.com@bit.ly/39bgDkK?.m3u8
-#EXTINF:-1 tvg-logo="https://terapiasexo.com/wp-content/uploads/2016/09/logo-miami-tv.png" group-title="24/7 ADULT IPTV",Miami TV
+#EXTINF:-1 tvg-logo="https://terapiasexo.com/wp-content/uploads/2016/09/logo-miami-tv.png" group-title="XXX",Miami TV
 http://59ec5453559f0.streamlock.net:1935/miamitv/smil:miamitv/chunklist.m3u8?fluxuslust.m3u8
-#EXTINF:-1 tvg-logo="https://terapiasexo.com/wp-content/uploads/2016/09/logo-miami-tv.png" group-title="24/7 ADULT IPTV",Miami TV Live
+#EXTINF:-1 tvg-logo="https://terapiasexo.com/wp-content/uploads/2016/09/logo-miami-tv.png" group-title="XXX",Miami TV Live
 http://59ec5453559f0.streamlock.net:1935/mexicotv/smil:miamitvmexicoROKU/chunklist_b1896000.m3u8?fluxuslust.m3u8
-#EXTINF:-1 tvg-id="VisitXTV.nl" tvg-country="INT" tvg-language="Dutch" tvg-logo="https://i.imgur.com/RJ9wbNF.jpg" group-title="24/7 ADULT IPTV",Visit-X TV (720p)
+#EXTINF:-1 tvg-id="VisitXTV.nl" tvg-country="INT" tvg-language="Dutch" tvg-logo="https://i.imgur.com/RJ9wbNF.jpg" group-title="XXX",Visit-X TV (720p)
 http://194.116.150.47:1935/vxtv/live_720p/playlist.m3u8
-#EXTINF:-1 group-title="Fashion" tvg-logo="https://i.imgur.com/XgrBSh3.png?v=1.0.0.1" group-title="24/7 ADULT IPTV",Fashion TV
+#EXTINF:-1 group-title="Fashion" tvg-logo="https://i.imgur.com/XgrBSh3.png?v=1.0.0.1" group-title="XXX",Fashion TV
 https://dl.dropbox.com/s/seta5w6k1az7rco/fb8acef7631528b.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="FR" tvg-language="" tvg-logo="" group-title="24/7 ADULT IPTV",FTV UHD
+#EXTINF:-1 tvg-id="" tvg-country="FR" tvg-language="" tvg-logo="" group-title="XXX",FTV UHD
 https://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="FR" tvg-language="" tvg-logo="" group-title="24/7 ADULT IPTV",Fashion TV (576p) [Not 24/7]
+#EXTINF:-1 tvg-id="" tvg-country="FR" tvg-language="" tvg-logo="" group-title="XXX",Fashion TV (576p) [Not 24/7]
 http://entertainment.ashttp9.visionip.tv/live/visiontvuk-entertainment-edgytv-hsslive-25f-16x9-SD/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="FR" tvg-language="" tvg-logo="" group-title="24/7 ADULT IPTV",ID Fashion TV
+#EXTINF:-1 tvg-id="" tvg-country="FR" tvg-language="" tvg-logo="" group-title="XXX",ID Fashion TV
 https://idfashion.cdn-03.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="FR" tvg-language="" tvg-logo="" group-title="24/7 ADULT IPTV",Global Fashion Channel
+#EXTINF:-1 tvg-id="" tvg-country="FR" tvg-language="" tvg-logo="" group-title="XXX",Global Fashion Channel
 https://vcngfc1.teleosmedia.com/stream/globalfashionchannel/globalfashionchannel/playlist.m3u8
 #EXTINF:-1 group-title="TV Entertain",MOVIES X
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
@@ -2134,3 +2134,58 @@ https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 http://edge.vediostream.com/abr/tvikim/live/tvikim_source/playlist.m3u8
 #EXTINF:-1 group-title="TV Entertain" tvg-id="NewKidTV.us" tvg-logo="https://i.imgur.com/Z5t6cCe.jpg" ,New Kid TV (korea)
 https://b9860b21629b415987978bdbbfbc3095.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_NewKID/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu9RkTQAP_TQCL1caUd-QT3Hj8bqkCzVS7ZvCRq2q1LBgjnbdxtXX0AtDZ" group-title="ADULT 18+", JASMIN.TV (+18)
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AdultIPTVnetAnal.us" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="XXX",AdultIPTV.net Anal (720p)
+http://cdn.adultiptv.net/anal.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetAsian.us" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="XXX",AdultIPTV.net Asian (720p)
+http://cdn.adultiptv.net/asian.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetBigAss.us" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="XXX",AdultIPTV.net Big Ass (720p)
+http://cdn.adultiptv.net/bigass.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetBigDick.us" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="XXX",AdultIPTV.net Big Dick (720p)
+http://cdn.adultiptv.net/bigdick.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetBigTits.us" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="XXX",AdultIPTV.net Big Tits (720p)
+http://cdn.adultiptv.net/bigtits.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetBlonde.us" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="XXX",AdultIPTV.net Blonde (720p)
+http://cdn.adultiptv.net/blonde.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetBlowjob.us" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="XXX",AdultIPTV.net Blowjob (720p)
+http://cdn.adultiptv.net/blowjob.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetBrunette.us" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="XXX",AdultIPTV.net Brunette (720p)
+http://cdn.adultiptv.net/brunette.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetCompilation.us" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="XXX",AdultIPTV.net Compilation (720p)
+http://cdn.adultiptv.net/compilation.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetCuckold.us" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="XXX",AdultIPTV.net Cuckold (720p)
+http://cdn.adultiptv.net/cuckold.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetFetish.us" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="XXX",AdultIPTV.net Fetish (720p)
+http://cdn.adultiptv.net/fetish.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetGangbang.us" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="XXX",AdultIPTV.net Gangbang (720p)
+http://cdn.adultiptv.net/gangbang.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetGay.us" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="XXX",AdultIPTV.net Gay (720p)
+http://cdn.adultiptv.net/gay.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetHardcore.us" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="XXX",AdultIPTV.net Hardcore (720p)
+http://cdn.adultiptv.net/hardcore.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetInterracial.us" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="XXX",AdultIPTV.net Interracial (720p)
+http://cdn.adultiptv.net/interracial.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetLatina.us" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="XXX",AdultIPTV.net Latina (720p)
+http://cdn.adultiptv.net/latina.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetLesbian.us" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="XXX",AdultIPTV.net Lesbian (720p)
+http://cdn.adultiptv.net/lesbian.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetLiveCams.us" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="XXX",AdultIPTV.net Live Cams (720p)
+http://cdn.adultiptv.net/livecams.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetMILF.us" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="XXX",AdultIPTV.net MILF (720p)
+http://cdn.adultiptv.net/milf.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetPornstar.us" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="XXX",AdultIPTV.net Pornstar (720p)
+http://cdn.adultiptv.net/pornstar.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetPOV.us" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="XXX",AdultIPTV.net POV (720p)
+http://cdn.adultiptv.net/pov.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetRough.us" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="XXX",AdultIPTV.net Rough (720p)
+http://cdn.adultiptv.net/rough.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetRussian.us" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="XXX",AdultIPTV.net Russian (720p)
+http://cdn.adultiptv.net/russian.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetTeen.us" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="XXX",AdultIPTV.net Teen (720p)
+http://cdn.adultiptv.net/teen.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetThreesome.us" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="XXX",AdultIPTV.net Threesome (720p)
+http://cdn.adultiptv.net/threesome.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetWoman.us" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="XXX",AdultIPTV.net Woman (720p)
+http://live.redtraffic.net/woman.m3u8
