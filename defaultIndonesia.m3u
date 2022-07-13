@@ -2112,3 +2112,7 @@ https://fluxustv.blogspot.com@bit.ly/39bgDkK?.m3u8
 http://59ec5453559f0.streamlock.net:1935/miamitv/smil:miamitv/chunklist.m3u8?fluxuslust.m3u8
 #EXTINF:-1 tvg-logo="https://terapiasexo.com/wp-content/uploads/2016/09/logo-miami-tv.png" group-title="24/7 ADULT IPTV",Miami TV Live
 http://59ec5453559f0.streamlock.net:1935/mexicotv/smil:miamitvmexicoROKU/chunklist_b1896000.m3u8?fluxuslust.m3u8
+#EXTINF:-1 tvg-id="VisitXTV.nl" tvg-country="INT" tvg-language="Dutch" tvg-logo="https://i.imgur.com/RJ9wbNF.jpg" group-title="24/7 ADULT IPTV",Visit-X TV (720p)
+http://194.116.150.47:1935/vxtv/live_720p/playlist.m3u8
+#EXTINF:-1 group-title="Fashion" tvg-logo="https://i.imgur.com/XgrBSh3.png?v=1.0.0.1" group-title="24/7 ADULT IPTV",Fashion TV
+https://dl.dropbox.com/s/seta5w6k1az7rco/fb8acef7631528b.m3u8
