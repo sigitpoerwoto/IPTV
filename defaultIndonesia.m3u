@@ -2116,3 +2116,19 @@ http://59ec5453559f0.streamlock.net:1935/mexicotv/smil:miamitvmexicoROKU/chunkli
 http://194.116.150.47:1935/vxtv/live_720p/playlist.m3u8
 #EXTINF:-1 group-title="Fashion" tvg-logo="https://i.imgur.com/XgrBSh3.png?v=1.0.0.1" group-title="24/7 ADULT IPTV",Fashion TV
 https://dl.dropbox.com/s/seta5w6k1az7rco/fb8acef7631528b.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="FR" tvg-language="" tvg-logo="" group-title="24/7 ADULT IPTV",FTV UHD
+https://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="FR" tvg-language="" tvg-logo="" group-title="24/7 ADULT IPTV",Fashion TV (576p) [Not 24/7]
+http://entertainment.ashttp9.visionip.tv/live/visiontvuk-entertainment-edgytv-hsslive-25f-16x9-SD/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="FR" tvg-language="" tvg-logo="" group-title="24/7 ADULT IPTV",ID Fashion TV
+https://idfashion.cdn-03.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="FR" tvg-language="" tvg-logo="" group-title="24/7 ADULT IPTV",Global Fashion Channel
+https://vcngfc1.teleosmedia.com/stream/globalfashionchannel/globalfashionchannel/playlist.m3u8
+#EXTINF:-1 group-title="TV Entertain",MOVIES X
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/Cxc1xZk9/rock.jpg" ,ROCK ENTERTAINMENT
+http://210.210.155.35:80/dr9445/h/h16/01.m3u8
+#EXTINF:-1 group-title="MALAYSIA CHANNEL" tvg-id="AstroAwani.my" tvg-name="Astro Awani HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/501_300.png" ,Astro Awani HD
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
+#EXTINF:-1 group-title="MALAYSIA CHANNEL" tvg-id="TVIkim.my" tvg-name="TV Ikim HD" tvg-logo="https://i.imgur.com/Z0dyJK7.jpg" ,TV Ikim HD
+http://edge.vediostream.com/abr/tvikim/live/tvikim_source/playlist.m3u8
