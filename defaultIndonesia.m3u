@@ -2200,3 +2200,6 @@ https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 
 #EXTINF:-1 tvg-country="MY" tvg-language="Malay" tvg-logo="" group-title="MALAYSIA CHANNEL",TV6
 https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
+
+#EXTINF:-1 group-title="Movies",Movies Group 1
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
