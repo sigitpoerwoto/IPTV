@@ -1024,19 +1024,19 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 #EXTINF:-1,METRO TV
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1656576149/ei/NQS9Yu6HD97qjuMPntaV2AI/ip/2001%3A448a%3A2074%3A5297%3Ad416%3A8afe%3Ac4b%3Aca44/id/WemeIY5-P6o.1/source/yt_live_broadcast/requiressl/yes/tx/24201799/txs/24200493%2C24200494%2C24200495%2C24201799%2C24201800/hfr/1/ctier/A/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/hightc/yes/spc/4ocVC7pA0H6t0E_R4NzGs5rB43TSIy_gveM8dnThHlXg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Chightc%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgWdcfDL_Ht2ru2Y51LOINzj0tRwVvFVGxruBhkv_DG5ACIGawzFVluUFJmfeocmM88EJGfDnIyasKvTr2NU070WmN/file/index.m3u8
 
-#EXTINF:-1,METRO TV
+#EXTINF:-1 tvg-id="MetroTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/QnU70NI.png" group-title="TV NASIONAL",METRO TV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=d3d9446802a44259755d38e6d163e820dfdded94c48ea6229c48edefa9ec1c9f
 
-#EXTINF:-1,Metro TV (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="MetroTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/QnU70NI.png" group-title="TV NASIONAL",METRO TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 
 #EXTINF:-1,MetroGlobeNetwork.id
 https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
 
-#EXTINF:-1,METROTV
+#EXTINF:-1 tvg-id="MetroTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/QnU70NI.png" group-title="TV NASIONAL",METRO TV
 http://202.150.172.34:4000/play/metrotvhdt2
 
-#EXTINF:-1,METROTV BACKUP
+#EXTINF:-1 tvg-id="MetroTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/QnU70NI.png" group-title="TV NASIONAL",METRO TV
 https://iptv.mwafa.net/vidio/777/index.m3u8?token=1999
 
 #EXTINF:-1,MGI TV
