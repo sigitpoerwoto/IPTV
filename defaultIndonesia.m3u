@@ -710,10 +710,6 @@ http://203.77.246.50:5000/udp/239.1.3.82:5000
 #EXTINF:-1 group-title="MOVIES",HBO SIGNATURE
 http://203.77.246.50:5000/udp/239.1.3.74:5000
 
-#EXTINF:-1 group-title="MOVIES",HBO SINGNATURE
-http://189.91.128.146:4444/udp/227.10.20.158:1234
-
-
 #EXTINF:-1 tvg-id="HijrahTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/bVN4zj2.png" group-title="TV DAKWAH" user-agent="Mozilla/5.0 (X11; Linux x86_64)",Hijrah TV (360p) [Geo-blocked]
 https://h1.intechmedia.net/intech/ch8.m3u8
 
