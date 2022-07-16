@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="VOD 2022 - US",Revealer
+https://2c2.kananterus.com/watch/videos/bNieYb5D8Oaiau3iIVrEeg/1657998000/60/121722080e771b535309d76c04e713a0/240p.mp4/index.m3u8
 #EXTINF:-1 group-title="VOD 2022 - US",Code Name Banshee
 https://master4-eu.playerx.stream/qEKjruIz6W0Q89cv_JZ-qN6TRNdy-D6WzbEwub58T3PuF5uxIGB9CGca1ipGbs2tBZtDxjs-24pM9HSZ17CABw/WAbJnZkUYuSnBJJyo4siz_YRrbzWJXhv_J0dH4CdhiM/video.m3u8?auth=Jg54BC3_6ci4Za8givOH27pVawt3wPMIu05AMHEluw0
 #EXTINF:-1 group-title="VOD 2022 - US",Minions: The Rise of Gru
