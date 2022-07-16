@@ -791,13 +791,13 @@ http://rr3.dens.tv/s/s46/index.m3u8
 #EXTINF:-1 tvg-id="JakTV.id" tvg-country="ID-JK" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/3ggGYBa.png" group-title="TV DAERAH",Jak TV (480p) [Geo-blocked]
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(7a73ed02-e0de-4df1-8da3-5abfd75f24bd)/index.m3u8
 
-#EXTINF:-1 tvg-id="BeritaSatuEnglish.id" tvg-country="ID" tvg-language="English" tvg-logo="https://i.imgur.com/URaR9Fg.png" group-title="News",JakartaGlobe News (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="BeritaSatuEnglish.id" tvg-country="ID" tvg-language="English" tvg-logo="https://i.imgur.com/URaR9Fg.png" group-title="BERITA",JakartaGlobe News (720p) [Not 24/7]
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BeritaSatuEnglish.id" tvg-country="ID" tvg-language="English" tvg-logo="https://i.imgur.com/URaR9Fg.png" group-title="News",JakartaGlobe News (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="BeritaSatuEnglish.id" tvg-country="ID" tvg-language="English" tvg-logo="https://i.imgur.com/URaR9Fg.png" group-title="BERITA",JakartaGlobe News (720p) [Not 24/7]
 http://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8
 
-#EXTINF:-1 tvg-id="BeritaSatuEnglish.id" tvg-country="ID" tvg-language="English" tvg-logo="https://i.imgur.com/URaR9Fg.png" group-title="News",JakartaGlobe News (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="BeritaSatuEnglish.id" tvg-country="ID" tvg-language="English" tvg-logo="https://i.imgur.com/URaR9Fg.png" group-title="BERITA",JakartaGlobe News (720p) [Not 24/7]
 https://b1english.beritasatumedia.com/Beritasatu/B1English_manifest.m3u8
 
 #EXTINF:-1 tvg-id="JakTV.id" tvg-country="ID-JK" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/3ggGYBa.png" group-title="TV DAERAH",Jak TV (480p) [Geo-blocked]
@@ -1093,10 +1093,10 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1,MOVIES"HBO
 http://189.91.128.146:4444/udp/227.10.20.154:1234
 
-#EXTINF:-1 tvg-id="MQTV.id" tvg-country="ID-JB" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/81/Logo_MQTV.png" group-title="Undefined",MQTV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="MQTV.id" tvg-country="ID-JB" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/81/Logo_MQTV.png" group-title="TV DAKWAH",MQTV (720p) [Not 24/7]
 https://e1.siar.us/badartv/live/chunks.m3u8
 
-#EXTINF:-1 tvg-id="MQTV.id" tvg-country="ID-JB" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/81/Logo_MQTV.png" group-title="Undefined",MQTV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="MQTV.id" tvg-country="ID-JB" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/81/Logo_MQTV.png" group-title="TV DAKWAH",MQTV (720p) [Not 24/7]
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=37693cfc748049e45d87b8c7d8b9aacddfdded94c48ea6229c48edefa9ec1c9f
 
 #EXTINF:-1 tvg-id="MQTV.id" tvg-country="ID-JB" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/81/Logo_MQTV.png" group-title="Undefined",MQTV (720p) [Not 24/7]
@@ -1403,7 +1403,7 @@ https://alfa.kugo.id/playout/pop.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PRAMBORS TV" tvg-logo="https://images.useetv.com/logo_pramborstv_big1.png?v=2.0.0.13" group-title="TV DAERAH",PRAMBORS TV
 https://cdn13jtedge.useetv.com/dass/130/pramborstv_dash/manifest_wuseetv.mpd?encp=pPgB0IhlltMfdD4UeAb9cw&uid=&expp=1656563076
 
-#EXTINF:-1 tvg-id="PujaTVAceh.id" tvg-country="ID-AC" tvg-language="Indonesian" tvg-logo="https://www.pujatvaceh.com/wp-content/uploads/2020/09/272.png" group-title="Undefined",Puja TV Aceh (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="PujaTVAceh.id" tvg-country="ID-AC" tvg-language="Indonesian" tvg-logo="https://www.pujatvaceh.com/wp-content/uploads/2020/09/272.png" group-title="TV DAERAH",Puja TV Aceh (1080p) [Not 24/7]
 https://v6.siar.us/pujatv/live/chunks.m3u8
 
 #EXTINF:-1 tvg-id="RadarLampungTV.id" tvg-country="ID-LA" tvg-language="Indonesian" tvg-logo="https://radartv.co.id/wp-content/uploads/2019/11/logo-radartv-272x90.png" group-title="TV DAERAH",Radar TV Lampung (480p) [Not 24/7]
@@ -1536,19 +1536,19 @@ http://36.89.47.217:11935/rrinet/live/index.m3u8
 #EXTINF:-1 tvg-id="RajawaliTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rajawali_tv_id.png" group-title="TV DAERAH",RTV (576p) [Geo-blocked]
 http://210.210.155.35/qwr9ew/s/s12/01.m3u8
 
-#EXTINF:-1 tvg-id="RajawaliTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rajawali_tv_id.png" group-title="Undefined",RTV (576p) [Geo-blocked]
+#EXTINF:-1 tvg-id="RajawaliTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rajawali_tv_id.png" group-title="TV DAERAH",RTV (576p) [Geo-blocked]
 http://rr1.dens.tv/h/h10/index.m3u8
 
-#EXTINF:-1 tvg-id="RajawaliTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rajawali_tv_id.png" group-title="Undefined",RTV (576p) [Geo-blocked]
+#EXTINF:-1 tvg-id="RajawaliTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rajawali_tv_id.png" group-title="TV DAERAH",RTV (576p) [Geo-blocked]
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=b132ecc1609bfcf302615847c1caa69a446503011668def857b1c03bafabba51
 
-#EXTINF:-1 tvg-id="RajawaliTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rajawali_tv_id.png" group-title="Undefined",RTV (576p) [Geo-blocked]
+#EXTINF:-1 tvg-id="RajawaliTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rajawali_tv_id.png" group-title="TV DAERAH",RTV (576p) [Geo-blocked]
 http://202.150.172.34:4000/play/rtv1
 
-#EXTINF:-1 tvg-id="RajawaliTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rajawali_tv_id.png" group-title="Undefined",RTV (576p) [Geo-blocked]
+#EXTINF:-1 tvg-id="RajawaliTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rajawali_tv_id.png" group-title="TV DAERAH",RTV (576p) [Geo-blocked]
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=aab3238922bcc25a6f606eb525ffdc56268ef7e5a44f541a7cbde7626ef57566
 
-#EXTINF:-1 tvg-id="RajawaliTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rajawali_tv_id.png" group-title="Undefined",RTV (576p) [Geo-blocked]
+#EXTINF:-1 tvg-id="RajawaliTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rajawali_tv_id.png" group-title="TV DAERAH",RTV (576p) [Geo-blocked]
 http://210.210.155.35/dr9445/h/h10/index.m3u8
 
 #EXTINF:-1 tvg-id="RuangTrampil.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/93EZSRw.png" group-title="HIBURAN",Ruang Trampil (480p) [Geo-blocked]
