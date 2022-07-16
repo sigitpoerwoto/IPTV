@@ -629,7 +629,7 @@ http://210.210.155.35:80/uq2663/h/h22/01.m3u8
 #EXTINF:-1 tvg-id="ElshintaTV.id" tvg-logo="https://i.imgur.com/2VaZ1IJ.png" group-title="TV DAERAH",ElshintaTV
 http://210.210.155.35/qwr9ew/s/s10/index.m3u8
 
-#EXTINF:-1 group-title="Fashion" tvg-logo="https://i.imgur.com/XgrBSh3.png?v=1.0.0.1" group-title="GAYAHIDUP",Fashion TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XgrBSh3.png?v=1.0.0.1" group-title="GAYAHIDUP",Fashion TV
 https://dl.dropbox.com/s/seta5w6k1az7rco/fb8acef7631528b.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="FR" tvg-language="" tvg-logo="" group-title="GAYAHIDUP",Fashion TV (576p) [Not 24/7]
