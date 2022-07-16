@@ -15,6 +15,9 @@ http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b
 #EXTINF:-1 tvg-id="ADiTV.id" tvg-name="ADiTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/59/ADiTV_Jogja.png" group-title="TV DAERAH",ADiTV
 https://v2.siar.us/aditv/livestream/chunks.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="XXX",ROUGE TV
+http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="AdultIPTVnetAnal.us" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="XXX",AdultIPTV.net Anal (720p)
 http://cdn.adultiptv.net/anal.m3u8
 
