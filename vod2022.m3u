@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 group-title="VOD 2022 - US",Sonic the Hedgehog
+https://jeniusplay.com/cdn/hls/69a77917cd4bb27970c72cd2704ed03e/master.m3u8?md5=bmSTSpPtIES3CYN14r-l8w&expires=1657260799
+#EXTINF:-1 group-title="VOD 2020 - US", Sonic the Hedgehog 2
+https://jeniusplay.com/cdn/hls/8b0ff9df62d9b8c1c5ba8279ce010930/master.m3u8?md5=BoWTFrs2aYU1hWsF3LC8uA&expires=1657260906
 #EXTINF:-1 group-title="VOD 2022 - US",Fantastic Beasts: The Secrets of Dumbledore
 https://2c2.kananterus.com/watch/videos/bNieYb5D8Oaiau3iIVrEeg/1657998000/60/2d50d4c77b89180858f18636cf3a7b18/240p.mp4/index.m3u8
 #EXTINF:-1 group-title="VOD 2022 - US",H.P. Lovecraft’s Witch House
