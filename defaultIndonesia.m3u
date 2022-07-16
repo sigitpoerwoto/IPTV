@@ -93,7 +93,7 @@ http://cdn.adultiptv.net/threesome.m3u8
 #EXTINF:-1 tvg-id="AdultIPTVnetWoman.us" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="XXX",AdultIPTV.net Woman (720p)
 http://live.redtraffic.net/woman.m3u8
 
-#EXTINF: -1 tvg-logo="https://www.asi-portal.com/content/files/Adventure Sports/Adventure-Logo-Generic-B2B-150T.png" group-title="Sports 1", ADVENTURE SPORT
+#EXTINF: -1 tvg-logo="https://www.asi-portal.com/content/files/Adventure Sports/Adventure-Logo-Generic-B2B-150T.png" group-title="OLAHRAGA", ADVENTURE SPORT
 https://dai2.xumo.com/xumocdn/adventuresportsnetworkEdhorizki-PPIIPTV/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
 
 #EXTINF:-1 tvg-id="AFBTV.id" tvg-country="ID-NT" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/stxMPHv.png" group-title="TV Nasional",AFB TV (576p)
@@ -105,10 +105,10 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/56171fafada51f8004c4b4
 #EXTINF:-1 tvg-id="AgropolitanTV.id" tvg-name="AgropolitanTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5e/Logo_Agropolitan_TV_2022.png" group-title="TV DAERAH",AgropolitanTV
 http://45.80.181.150:8080/hls/agropolitantv.m3u8
 
-#EXTINF:-1 tvg-id="AhsanTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/Eval1Zu.png" group-title="TV Islam",Ahsan TV
+#EXTINF:-1 tvg-id="AhsanTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/Eval1Zu.png" group-title="TV DAKWAH",Ahsan TV
 http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AhsanTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/Eval1Zu.png" group-title="TV Islam" user-agent="Mozilla/5.0 (X11; Linux x86_64)",Ahsan TV (360p) [Geo-blocked]
+#EXTINF:-1 tvg-id="AhsanTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/Eval1Zu.png" group-title="TV DAKWAH" user-agent="Mozilla/5.0 (X11; Linux x86_64)",Ahsan TV (360p) [Geo-blocked]
 https://h1.intechmedia.net/intech/ch4.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="AJWATV" tvg-logo="https://thumbor.prod.vidiocdn.com/zFF27-zkkhoh0pah3JqUjG8ItDM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-9e9e9e.jpg" group-title="TV Dakwah",AJWATV
@@ -134,7 +134,7 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c476
 #EXTINF:-1 tvg-id="AlBahjahTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al_bahjah_tv_id.png" group-title="TV Dakwah" user-agent="Mozilla/5.0 (X11; Linux x86_64)",Al-Bahjah TV (360p) [Geo-blocked]
 https://h1.intechmedia.net/intech/ch64.m3u8
 
-#EXTINF:-1 tvg-id="AllSports.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/wULpnYR.png" group-title="Sports",All Sports (720p)
+#EXTINF:-1 tvg-id="AllSports.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/wULpnYR.png" group-title="OLAHRAGA",All Sports (720p)
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8?checkedby&checkedby
 
 #EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/0aMNwQa.png" group-title="TV DAKWAH",Al Quran Al Kareem TV (Mecca) (1080p) [Not 24/7]
@@ -1226,7 +1226,7 @@ http://210.210.155.35/qwr9ew/s/s41/index.m3u8
 #EXTINF: -1 tvg-logo="http://onegolftv.com/wp-content/uploads/2018/08/onegolf-HD-with-image-512.png" group-title="OLAHRAGA", ONE GOLF HD
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 
-#EXTINF:-1 tvg-id="OneTVAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/One_TV_Asia_logo_(2020).png/512px-One_TV_Asia_logo_(2020).png" group-title="TV ENTERTAIN",OneTVAsia
+#EXTINF:-1 tvg-id="OneTVAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/One_TV_Asia_logo_(2020).png/512px-One_TV_Asia_logo_(2020).png" group-title="HIBURAN",OneTVAsia
 http://210.210.155.37/uq2663/h/h143/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="OSHOP" tvg-logo="https://thumbor.prod.vidiocdn.com/uVFSoTESS5e1aejpa34oI2a8a_g=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6166/oshop-tv-stream-c16bc3.jpg" group-title="TV DAERAH",OSHOP
