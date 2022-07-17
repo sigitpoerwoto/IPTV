@@ -1920,17 +1920,9 @@ http://103.18.181.69:1935/golive/livestream8/playlist.m3u8
 #EXTINF:-1,TVS BOXING
 https://nrpus.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
 
-#EXTINF:-1,TVS Drive In Movie (360p)
-https://rpn1.bozztv.com/36bay2/gusa-tvsdriveinmovie/index.m3u8
-
 #EXTINF:-1,TVS Hi Tops
 https://rpn1.bozztv.com/36bay2/gusa-hitops/mono.m3u8
 
-#EXTINF:-1,TVS Pinball Network (480p)
-https://rpn1.bozztv.com/36bay2/gusa-TVSCartoonNetwork/index.m3u8
-
-#EXTINF:-1,TWD Universe (+1h) | Samsung (Look ahead 4hrs in EPG to get info on what's playing now.)
-https://amc-twdtv14-1-us.samsung.wurl.tv/playlist.m3u8?l1br3date0702andAMCBinge
 
 #EXTINF:-1,TWD Universe | Vizio
 https://amc-twdfanexperience-1-us.vizio.wurl.tv/playlist.m3u8?l1br3date0702andAMCBinge
@@ -1938,13 +1930,12 @@ https://amc-twdfanexperience-1-us.vizio.wurl.tv/playlist.m3u8?l1br3date0702andAM
 #EXTINF:-1,UA
 http://210.210.155.35/uq2663/h/h101/S4/mnf.m3u8
 
-#EXTINF:-1,UChannel
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=f0935e4cd5920aa6c7c996a5ee53a70fdfdded94c48ea6229c48edefa9ec1c9f
 
-#EXTINF:-1,UFA 24 (360p) [Geo-blocked]
+#EXTINF:-1 tvg-id="UFA24.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/4pVuIrK.png" group-title="TV DAKWAH" user-agent="Mozilla/5.0 (X11; Linux x86_64)",UFA 24 (360p) [Geo-blocked]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://h1.intechmedia.net/intech/ch27.m3u8
 
-#EXTINF:-1,UFC NETWORK
+#EXTINF: -1 tvg-logo="https://gamework.in/wp-content/uploads/2020/02/UFC_FIGHTPASS_LOGO_F.jpg" group-title="OLAHRAGA", UFC NETWORK
 http://qqtv.nl:8080/kevinp/kevinp/57427
 
 #EXTINF:-1,UGTV
