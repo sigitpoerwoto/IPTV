@@ -2043,3 +2043,5 @@ https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/xqSG154/Indonesiana-TV-1-modified.png" group-title="KIDS",Indonesiana TV
 https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/6.m3u8
 
+#EXTINF:-1 tvg-id="SPOTV.kr" status="online" group-title="OLAHRAGA",SPOTV 
+https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
