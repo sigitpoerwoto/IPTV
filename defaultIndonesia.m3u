@@ -1663,3 +1663,67 @@ https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/6.m3u8
 
 #EXTINF:-1 tvg-id="SPOTV.kr" status="online" group-title="OLAHRAGA",SPOTV 
 https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="MOVIES",5 USA
+http://45.153.35.210:8000/play/UK_5_usa_sd/index.m3u8
+#EXTINF:-1 group-title="MOVIES",5ACTION
+http://45.153.35.210:8000/play/UK_5_action_sd/index.m3u8
+#EXTINF:-1 group-title="MOVIES",5SELECT
+http://45.153.35.210:8000/play/UK_5_select_sd/index.m3u8
+#EXTINF:-1 group-title="MOVIES",5STAR
+http://45.153.35.210:8000/play/UK_5_star_sd/index.m3u8
+#EXTINF:-1 group-title="MOVIES",BBC Four
+http://45.153.35.210:8000/play/UK_bbc_4_sd/index.m3u8
+#EXTINF:-1 group-title="BERITA",BBC NEWS
+http://45.153.35.210:8000/play/UK_bbc_news_sd/index.m3u8
+#EXTINF:-1 group-title="BERITA",BBC One Lon
+http://45.153.35.210:8000/play/UK_bbc_1_sd/index.m3u8
+#EXTINF:-1 group-title="BERITA",BBC Three
+http://45.153.35.210:8000/play/UK_bbc_3_sd/index.m3u8
+#EXTINF:-1 group-title="BERITA",BBC Two
+http://45.153.35.210:8000/play/UK_bbc_2_sd/index.m3u8
+#EXTINF:-1 group-title="BERITA",CBBC
+http://45.153.35.210:8000/play/UK_cbbc_sd/index.m3u8
+#EXTINF:-1 group-title="KIDS",CBeebies
+http://45.153.35.210:8000/play/UK_cbeebies_sd/index.m3u8
+#EXTINF:-1,Channel 4
+http://45.153.35.210:8000/play/UK_channel_4_sd/index.m3u8
+#EXTINF:-1,Channel 5
+http://45.153.35.210:8000/play/a00l/index.m3u8
+#EXTINF:-1,E4
+http://45.153.35.210:8000/play/UK_e4_sd/index.m3u8
+#EXTINF:-1,Film4
+http://45.153.35.210:8000/play/UK_film4_sd/index.m3u8
+#EXTINF:-1,ITV
+http://45.153.35.210:8000/play/UK_itv_sd/index.m3u8
+#EXTINF:-1,ITV2
+http://45.153.35.210:8000/play/a01w/index.m3u8
+#EXTINF:-1,ITV3+1
+http://45.153.35.210:8000/play/a01z/index.m3u8
+#EXTINF:-1,ITV4+1
+http://45.153.35.210:8000/play/a01y/index.m3u8
+#EXTINF:-1,ITVBe
+http://45.153.35.210:8000/play/a01x/index.m3u8
+#EXTINF:-1,PBS America
+http://45.153.35.210:8000/play/USA_pbs_sd/index.m3u8
+#EXTINF:-1,POP
+http://45.153.35.210:8000/play/UK_pop_sd/index.m3u8
+#EXTINF:-1,POP Max
+http://45.153.35.210:8000/play/UK_pop_max_sd/index.m3u8
+#EXTINF:-1,Pick
+http://45.153.35.210:8000/play/UK_pick_sd/index.m3u8
+#EXTINF:-1,S4C
+http://45.153.35.210:8000/play/UK_s4c_sd/index.m3u8
+#EXTINF:-1,Sky Arts
+http://45.153.35.210:8000/play/UK_sky_arts_sd/index.m3u8
+#EXTINF:-1,Sky News
+http://45.153.35.210:8000/play/UK_sky_news_sd/index.m3u8
+#EXTINF:-1,Tiny Pop
+http://45.153.35.210:8000/play/UK_tiny_pop_sd/index.m3u8
+#EXTINF:-1,Trace Hits
+http://45.153.35.210:8000/play/a014/index.m3u8
+#EXTINF:-1,Trace Vault
+http://45.153.35.210:8000/play/a017/index.m3u8
+#EXTINF:-1,horror channel
+http://45.153.35.210:8000/play/UK_horror_channel_sd/index.m3u8
