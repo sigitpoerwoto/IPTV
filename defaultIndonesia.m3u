@@ -1808,4 +1808,21 @@ http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist.m3u8
 #EXTINF:-1 group-title="TV DAKWAH",British Muslim
 https://api.visionip.tv/live/ASHTTP/visiontvuk-international-britishmuslimtv-hsslive-25f-16x9-MB/playlist.m3u8
 
+#EXTINF:-1 group-title="MOVIES",HBO HD
+http://213.151.233.20:8000/dna-6129-tv-pc.m3u8
+
+#EXTINF:-1 group-title="OLAHRAGA",WWE NETWORK
+http://93.152.174.144:4000/play/WWE/index.m3u8
+
+#EXTINF:-1 group-title="XXX",Film4
+http://93.152.174.144:4000/play/film4/index.m3u8
+#EXTINF:-1 group-title="XXX",ITV_1
+http://93.152.174.144:4000/play/itv1/index.m3u8
+#EXTINF:-1 group-title="XXX",ITV_2
+http://93.152.174.144:4000/play/itv2/index.m3u8
+#EXTINF:-1 group-title="XXX",PinkoTV
+http://93.152.174.144:4000/play/pinkotv/index.m3u8
+#EXTINF:-1 group-title="XXX",Redlight
+http://93.152.174.144:4000/play/privatetv1/index.m3u8
+
 
