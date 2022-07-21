@@ -1765,4 +1765,5 @@ https://ap02.iqplay.tv:8082/iqb8002/iq6a7k/chunks.m3u8
 #EXTINF:-1 group-title="GAYAHIDUP",LUXURY TV
 http://nano.teleservice.su:8080/hls/luxury.m3u8
 
-
+#EXTINF:-1 group-title="TV DAKWAH",ITVUSA
+http://itvusabox-hls-01.dgo-nyc3.itvusa.tv/itvusabox/itvstream.m3u8
