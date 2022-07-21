@@ -1797,3 +1797,8 @@ https://rpn1.bozztv.com/36bay2/gusa-classiccinema/mono.m3u8
 
 #EXTINF:-1 tvg-id="ClassicMoviesChannel.us" group-title="MOVIES",Classic Movies Channel (720p)
 https://b83608fe932143099bb8b25a66857730.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5f86075a0d552957bf5aa4dd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cinemax.us" group-title="MOVIES",Cinemax [Geo-blocked]
+http://23.237.202.43:7283/CINEMAX-FHD/index.m3u8?sn=Ux0Oojow5FkqHQCpMmUNQKUr4Wb&tm=1626349319&un=rommel07
+#EXTINF:-1 tvg-id="CinemaxAsia.us" group-title="MOVIES" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",Cinemax Asia (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
