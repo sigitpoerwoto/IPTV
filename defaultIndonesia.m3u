@@ -1774,7 +1774,7 @@ http://api.toonamiaftermath.com:3000/est/playlist.m3u8
 #EXTINF:-1 group-title="KIDS",Toonami Aftermath West (480p)
 http://api.toonamiaftermath.com:3000/pst/playlist.m3u8
 
-#EXTINF:-1 group-title="KIDS",Toonami Aftermath Radio (480p)
+#EXTINF:-1 group-title="HIBURAN",Toonami Aftermath Radio (480p)
 http://api.toonamiaftermath.com:3000/radio/playlist.m3u8
 
 #EXTINF:-1 group-title="MOVIES",Toonami Aftermath Movies (540p)
@@ -1814,11 +1814,11 @@ http://213.151.233.20:8000/dna-6129-tv-pc.m3u8
 #EXTINF:-1 group-title="OLAHRAGA",WWE NETWORK
 http://93.152.174.144:4000/play/WWE/index.m3u8
 
-#EXTINF:-1 group-title="XXX",Film4
+#EXTINF:-1 group-title="MOVIES",Film4
 http://93.152.174.144:4000/play/film4/index.m3u8
-#EXTINF:-1 group-title="XXX",ITV_1
+#EXTINF:-1 group-title="HIBURAN",ITV_1
 http://93.152.174.144:4000/play/itv1/index.m3u8
-#EXTINF:-1 group-title="XXX",ITV_2
+#EXTINF:-1 group-title="HIBURAN",ITV_2
 http://93.152.174.144:4000/play/itv2/index.m3u8
 #EXTINF:-1 group-title="XXX",PinkoTV
 http://93.152.174.144:4000/play/pinkotv/index.m3u8
