@@ -1777,7 +1777,7 @@ http://api.toonamiaftermath.com:3000/pst/playlist.m3u8
 #EXTINF:-1 group-title="KIDS",Toonami Aftermath Radio (480p)
 http://api.toonamiaftermath.com:3000/radio/playlist.m3u8
 
-#EXTINF:-1 group-title="KIDS",Toonami Aftermath Movies (540p)
+#EXTINF:-1 group-title="MOVIES",Toonami Aftermath Movies (540p)
 http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
 
 #EXTINF:-1 group-title="OLAHRAGA",IMPACT! Wrestling (1080p)
@@ -1791,3 +1791,9 @@ https://vcngfcssai.teleosmedia.com/linear/globalfashionchannel/globalfashionchan
 
 #EXTINF:-1 tvg-id="EntertainmentTonight.us" group-title="HIBURAN",Entertainment Tonight (1080p)
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
+
+#EXTINF:-1 tvg-id="ClassicCinema.us" group-title="MOVIES",Classic Cinema (240p) [Not 24/7]
+https://rpn1.bozztv.com/36bay2/gusa-classiccinema/mono.m3u8
+
+#EXTINF:-1 tvg-id="ClassicMoviesChannel.us" group-title="MOVIES",Classic Movies Channel (720p)
+https://b83608fe932143099bb8b25a66857730.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5f86075a0d552957bf5aa4dd/playlist.m3u8
