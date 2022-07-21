@@ -1747,5 +1747,8 @@ https://fashiontv-fashiontv-3-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://seeklogo.com/images/F/fashion-tv-logo-C333C7A6DD-seeklogo.com.png" tvg-url="" group-title="GAYAHIDUP",Fashion TV (Spain)
 https://fashiontv-fashiontv-2-es.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 group-title="GAYAHIDUP",,Miami TV Jenny Live
+#EXTINF:-1 group-title="GAYAHIDUP",Miami TV Jenny Live
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w186 9403172_b1896000.m3u8 
+
+#EXTINF:-1 group-title="GAYAHIDUP",Miami TV JennyLive
+https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
