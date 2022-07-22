@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8YVUXiyNoaGdfnJWOq4800bZJo-FmVg41yoqtqsPq&s" group-title="Back To The Future",Back To The Future
+https://jeniusplay.com/cdn/hls/15e1f2b9655c55bd1b673d97276bdc41/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSvI8ifyN32UDCqPqBSZxNAk-nrba2PbSSu0G3iL7R&s" group-title="Back To The Future",Back To The Future II
+https://jeniusplay.com/cdn/hls/d59a0f9897f524ac829cfd5334bfc865/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMY0jZJ6EgpVWrtqI89js7AU2upghqZ2X6ry5n4MEl&s" group-title="Back To The Future",Back To The Future III
+https://jeniusplay.com/cdn/hls/4a0d9c4f3f9d81d049cc00a0079705aa/master.m3u8
