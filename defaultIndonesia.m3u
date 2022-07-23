@@ -1601,7 +1601,7 @@ http://wowza58.indostreamserver.com:1935/wesaltv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="WesalTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/yROzjJ5.png" group-title="TV DAERAH",Wesal TV (720p)
 http://wowza58.indostreamserver.com:1935/wesaltv/live/chunklist_w2106987031.m3u8
 
-#EXTINF:-1 tvg-id="WorldFashionChannelInternational.ru" tvg-name="WorldFashionChannelIntern" tvg-logo="https://i.imgur.com/JyslMHb.jpg" group-title="GAYAHIDUP”,World Fashion Channel International
+#EXTINF:-1 tvg-id="WorldFashionChannelInternational.ru" tvg-name="WorldFashionChannelIntern" tvg-logo="https://i.imgur.com/JyslMHb.jpg" group-title="GAYAHIDUP",World Fashion Channel International
 https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 
 #EXTINF:-1 group-title="MOVIES",Zee Bioskop
