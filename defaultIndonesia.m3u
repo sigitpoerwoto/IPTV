@@ -1956,7 +1956,6 @@ https://srv.panelcast.net/urbantvnetott/urbantvnetott/playlist.m3u8
 #EXTINF:-1 tvg-id="ToonGoggles.us" group-title="KIDS",Toon Goggles (1080p)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=36
 
-#EXTM3U
 #EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-name="AR: BEIN SPORT NEWS" tvg-logo="http://38.83.75.11/photo/channel_original_image/Sport/bein_sports_news.jpg" group-title="SPORTS",AR: BEIN SPORT NEWS
 http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/30067
 #EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS GLOBAL" tvg-logo="http://38.83.75.11/photo/channel_original_image/Sport/bein_sports_global.jpg" group-title="SPORTS",AR: BEIN SPORTS GLOBAL
