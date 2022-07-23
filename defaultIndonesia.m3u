@@ -1309,7 +1309,7 @@ https://dai.google.com/linear/hls/event/YF2jfXh_QROPxoHEwp1Abw/master.m3u8
 #EXTINF:-1 tvg-id="SunnahJalanPastiTV.id" tvg-country=ID tvg-language=Indonesian tvg-logo=https:/" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sunnah-jalan-pasti-tv-id.png" group-title="TV DAKWAH",SunnahJalanPastiTV
 https://h1.intechmedia.net/intech/ch18.m3u8
 
-#EXTINF:-1,Surau TV (720p)
+#EXTINF:-1 tvg-id="SurauTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/XONWGjP.png" group-title="TV DAKWAH",Surau TV (720p)
 http://119.235.249.58:1935/surautv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SurauTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/XONWGjP.png" group-title="TV DAKWAH",Surau TV (720p)
@@ -1721,9 +1721,9 @@ http://45.153.35.210:8000/play/UK_sky_arts_sd/index.m3u8
 http://45.153.35.210:8000/play/UK_sky_news_sd/index.m3u8
 #EXTINF:-1,Tiny Pop
 http://45.153.35.210:8000/play/UK_tiny_pop_sd/index.m3u8
-#EXTINF:-1,Trace Hits
+#EXTINF:-1 group-title="Entertainment",Trace Hits
 http://45.153.35.210:8000/play/a014/index.m3u8
-#EXTINF:-1,Trace Vault
+#EXTINF:-1 group-title="Entertainment",Trace Vault
 http://45.153.35.210:8000/play/a017/index.m3u8
 #EXTINF:-1,horror channel
 http://45.153.35.210:8000/play/UK_horror_channel_sd/index.m3u8
