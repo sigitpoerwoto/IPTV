@@ -819,14 +819,13 @@ http://203.77.246.50:5000/udp/239.1.3.78:5000
 #EXTINF:-1,Moonbug Kids
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 
-#EXTINF:-1,MOVIE SPHERE
+#EXTINF:-1 group-title="MOVIES",MOVIE SPHERE
 https://moviesphere-roku.amagi.tv/playlist720lp.m3u8?checkedby:iptvcat.com
 
-
-#EXTINF:-1,MOVIES X
+#EXTINF:-1 group-title="MOVIES",MOVIES X
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
-#EXTINF:-1,MOVIES group-title="MOVIES",HBO
+#EXTINF:-1 group-title="MOVIES",HBO
 http://189.91.128.146:4444/udp/227.10.20.154:1234
 
 #EXTINF:-1 tvg-id="MQTV.id" tvg-country="ID-JB" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/81/Logo_MQTV.png" group-title="TV DAKWAH",MQTV (720p) [Not 24/7]
