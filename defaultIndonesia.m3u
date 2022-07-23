@@ -1956,3 +1956,475 @@ https://srv.panelcast.net/urbantvnetott/urbantvnetott/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ToonGoggles.us" group-title="KIDS",Toon Goggles (1080p)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=36
+
+#EXTM3U
+#EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-name="AR: BEIN SPORT NEWS" tvg-logo="http://38.83.75.11/photo/channel_original_image/Sport/bein_sports_news.jpg" group-title="OLAHRAGA",AR: BEIN SPORT NEWS
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/30067
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS GLOBAL" tvg-logo="http://38.83.75.11/photo/channel_original_image/Sport/bein_sports_global.jpg" group-title="OLAHRAGA",AR: BEIN SPORTS GLOBAL
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/142422
+#EXTINF:-1 tvg-id="" tvg-name="AR: VIP BEIN SPORT XTRA 1 HD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/ARABE/beINSportsXtra1.png" group-title="OLAHRAGA",AR: VIP BEIN SPORT XTRA 1 HD
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/333091
+#EXTINF:-1 tvg-id="" tvg-name="AR: VIP BEIN SPORT XTRA 2 HD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/ARABE/beINSportsXtra2.png" group-title="OLAHRAGA",AR: VIP BEIN SPORT XTRA 2 HD
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/333090
+#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="AR: VIP BEIN SPORT 1 FHD" tvg-logo="http://38.83.75.11/photo/channel_original_image/Sport/bein_sport_hd_1.jpg" group-title="OLAHRAGA",AR: VIP BEIN SPORT 1 FHD
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/133816
+#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="AR: VIP BEIN SPORT 2 FHD" tvg-logo="http://38.83.75.11/photo/channel_original_image/Sport/bein_sport_hd_2.jpg" group-title="OLAHRAGA",AR: VIP BEIN SPORT 2 FHD
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/133817
+#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="AR: VIP BEIN SPORT 3 FHD" tvg-logo="http://38.83.75.11/photo/channel_original_image/Sport/bein_sport_hd_3.jpg" group-title="OLAHRAGA",AR: VIP BEIN SPORT 3 FHD
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/133818
+#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="AR: VIP BEIN SPORT 4 FHD" tvg-logo="http://38.83.75.11/photo/channel_original_image/Sport/bein_sport_hd_4.jpg" group-title="OLAHRAGA",AR: VIP BEIN SPORT 4 FHD
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/133819
+#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="AR: VIP BEIN SPORT 5 FHD" tvg-logo="http://38.83.75.11/photo/channel_original_image/Sport/bein_sport_hd_5.jpg" group-title="OLAHRAGA",AR: VIP BEIN SPORT 5 FHD
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/133820
+#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="AR: VIP BEIN SPORT 6 FHD" tvg-logo="http://38.83.75.11/photo/channel_original_image/Sport/bein_sport_hd_6.jpg" group-title="OLAHRAGA",AR: VIP BEIN SPORT 6 FHD
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/133821
+#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="AR: VIP BEIN SPORT 7 FHD" tvg-logo="http://38.83.75.11/photo/channel_original_image/Sport/bein_sport_hd_7.jpg" group-title="OLAHRAGA",AR: VIP BEIN SPORT 7 FHD
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/133822
+#EXTINF:-1 tvg-id="beinsports8.qa" tvg-name="AR: VIP BEIN PREMIUM 1 FHD" tvg-logo="http://38.83.75.11/photo/channel_original_image/Sport/bein_sport_hd_8.jpg" group-title="OLAHRAGA",AR: VIP BEIN PREMIUM 1 FHD
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/133823
+#EXTINF:-1 tvg-id="beinsports9.qa" tvg-name="AR: VIP BEIN PREMIUM 2 FHD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/ARABE/beinSportsPremium2.png" group-title="OLAHRAGA",AR: VIP BEIN PREMIUM 2 FHD
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/139572
+#EXTINF:-1 tvg-id="beinsports10olympic.qa" tvg-name="AR: VIP BEIN PREMIUM 3 FHD" tvg-logo="http://38.83.75.11/photo/channel_original_image/Sport/bein_sport_hd_10.jpg" group-title="OLAHRAGA",AR: VIP BEIN PREMIUM 3 FHD
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/139573
+#EXTINF:-1 tvg-id="beinsports11.qa" tvg-name="AR: VIP BEIN ENGLISH 1 FHD" tvg-logo="http://38.83.75.11/photo/channel_original_image/Sport/bein_sport_hd_11.jpg" group-title="OLAHRAGA",AR: VIP BEIN ENGLISH 1 FHD
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/139574
+#EXTINF:-1 tvg-id="beinsports12.qa" tvg-name="AR: VIP BEIN ENGLISH 2 FHD" tvg-logo="http://38.83.75.11/photo/channel_original_image/Sport/bein_sport_hd_12.jpg" group-title="OLAHRAGA",AR: VIP BEIN ENGLISH 2 FHD
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/139575
+#EXTINF:-1 tvg-id="beinsports13.qa" tvg-name="AR: VIP BEIN ENGLISH 3 FHD" tvg-logo="http://38.83.75.11/photo/channel_original_image/Sport/bein_sport_hd_13.jpg" group-title="OLAHRAGA",AR: VIP BEIN ENGLISH 3 FHD
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/133824
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORT NBA HD 1080p" tvg-logo="http://logo.kll1ll120qazwed.site/logo/ARABE/beinSportsNba.png" group-title="OLAHRAGA",AR: BEIN SPORT NBA HD 1080p
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/193355
+#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="AR: VIP BEIN SPORT 1 HD Hevc" tvg-logo="http://38.83.75.11/photo/channel_original_image/Sport/bein_sport_hd_1.jpg" group-title="OLAHRAGA",AR: VIP BEIN SPORT 1 HD Hevc
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/209441
+#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="AR: VIP BEIN SPORT 2 HD Hevc" tvg-logo="http://logo.kll1ll120qazwed.site/logo/BEIN/BEINSPORT21.2MB.png" group-title="OLAHRAGA",AR: VIP BEIN SPORT 2 HD Hevc
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/211432
+#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="AR: VIP BEIN SPORT 3 HD Hevc" tvg-logo="http://logo.kll1ll120qazwed.site/logo/BEIN/BEINSPORT31.2MB.png" group-title="OLAHRAGA",AR: VIP BEIN SPORT 3 HD Hevc
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/211433
+#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="AR: VIP BEIN SPORT 4 HD Hevc" tvg-logo="http://logo.kll1ll120qazwed.site/logo/BEIN/BEINSPORT41.2MB.png" group-title="OLAHRAGA",AR: VIP BEIN SPORT 4 HD Hevc
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/211434
+#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="AR: VIP BEIN SPORT 5 HD Hevc" tvg-logo="http://logo.kll1ll120qazwed.site/logo/BEIN/BEINSPORT51.2MB.png" group-title="OLAHRAGA",AR: VIP BEIN SPORT 5 HD Hevc
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/211435
+#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="AR: VIP BEIN SPORT 6 HD Hevc" tvg-logo="http://logo.kll1ll120qazwed.site/logo/BEIN/BEINSPORT61.2MB.png" group-title="OLAHRAGA",AR: VIP BEIN SPORT 6 HD Hevc
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/211436
+#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="AR: VIP BEIN SPORT 7 HD Hevc" tvg-logo="http://logo.kll1ll120qazwed.site/logo/BEIN/BEINSPORT71.2MB.png" group-title="OLAHRAGA",AR: VIP BEIN SPORT 7 HD Hevc
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/211437
+#EXTINF:-1 tvg-id="beinsports8.qa" tvg-name="AR: VIP BEIN PREMIUM 1 HD Hevc" tvg-logo="http://logo.kll1ll120qazwed.site/logo/BEIN/BEINSPORT81.2MB.png" group-title="OLAHRAGA",AR: VIP BEIN PREMIUM 1 HD Hevc
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/211438
+#EXTINF:-1 tvg-id="beinsports9.qa" tvg-name="AR: VIP BEIN PREMIUM 2 HD Hevc" tvg-logo="http://logo.kll1ll120qazwed.site/logo/ARABE/beinSportsPremium2.png" group-title="OLAHRAGA",AR: VIP BEIN PREMIUM 2 HD Hevc
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/211439
+#EXTINF:-1 tvg-id="beinsports10olympic.qa" tvg-name="AR: VIP BEIN PREMIUM 3 HD Hevc" tvg-logo="http://logo.kll1ll120qazwed.site/logo/BEIN/BEINSPORT101.2MB.png" group-title="OLAHRAGA",AR: VIP BEIN PREMIUM 3 HD Hevc
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/211440
+#EXTINF:-1 tvg-id="beinsports11.qa" tvg-name="AR: VIP BEIN ENGLISH 1 HD Hevc" tvg-logo="http://38.83.75.11/photo/channel_original_image/Sport/bein_sports_11hd.jpg" group-title="OLAHRAGA",AR: VIP BEIN ENGLISH 1 HD Hevc
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/295924
+#EXTINF:-1 tvg-id="beinsports12.qa" tvg-name="AR: VIP BEIN ENGLISH 2 HD Hevc" tvg-logo="http://38.83.75.11/photo/channel_original_image/Sport/bein_sports_12hd.jpg" group-title="OLAHRAGA",AR: VIP BEIN ENGLISH 2 HD Hevc
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/295925
+#EXTINF:-1 tvg-id="beinsports13.qa" tvg-name="AR: VIP BEIN ENGLISH 3 HD Hevc" tvg-logo="http://logo.kll1ll120qazwed.site/logo/ARABE/beinSportsEnglish3.png" group-title="OLAHRAGA",AR: VIP BEIN ENGLISH 3 HD Hevc
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/295926
+#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="AR: VIP BEIN SPORT 01 SD H264" tvg-logo="http://38.83.75.11/photo/channel_original_image/Sport/bein_sport_hd_1.jpg" group-title="OLAHRAGA",AR: VIP BEIN SPORT 01 SD H264
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/294134
+#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="AR: VIP BEIN SPORT 02 SD H264" tvg-logo="http://38.83.75.11/photo/channel_original_image/Sport/bein_sport_hd_2.jpg" group-title="OLAHRAGA",AR: VIP BEIN SPORT 02 SD H264
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/294133
+#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="AR: VIP BEIN SPORT 03 SD H264" tvg-logo="http://38.83.75.11/photo/channel_original_image/Sport/bein_sport_hd_3.jpg" group-title="OLAHRAGA",AR: VIP BEIN SPORT 03 SD H264
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/294132
+#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="AR: VIP BEIN SPORT 04 SD H264" tvg-logo="http://38.83.75.11/photo/channel_original_image/Sport/bein_sport_hd_4.jpg" group-title="OLAHRAGA",AR: VIP BEIN SPORT 04 SD H264
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/294131
+#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="AR: VIP BEIN SPORT 05 SD H264" tvg-logo="http://38.83.75.11/photo/channel_original_image/Sport/bein_sport_hd_5.jpg" group-title="OLAHRAGA",AR: VIP BEIN SPORT 05 SD H264
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/294130
+#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="AR: VIP BEIN SPORT 06 SD H264" tvg-logo="http://38.83.75.11/photo/channel_original_image/Sport/bein_sport_hd_6.jpg" group-title="OLAHRAGA",AR: VIP BEIN SPORT 06 SD H264
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/294129
+#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="AR: VIP BEIN SPORT 07 SD H264" tvg-logo="http://38.83.75.11/photo/channel_original_image/Sport/bein_sport_hd_7.jpg" group-title="OLAHRAGA",AR: VIP BEIN SPORT 07 SD H264
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/294128
+#EXTINF:-1 tvg-id="beinsports8.qa" tvg-name="AR: VIP BEIN PREMIUM 1 SD H264" tvg-logo="http://38.83.75.11/photo/channel_original_image/Sport/bein_sport_hd_8.jpg" group-title="OLAHRAGA",AR: VIP BEIN PREMIUM 1 SD H264
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/294127
+#EXTINF:-1 tvg-id="beinsports9.qa" tvg-name="AR: VIP BEIN PREMIUM 2 SD H264" tvg-logo="http://logo.kll1ll120qazwed.site/logo/ARABE/beinSportsPremium2.png" group-title="OLAHRAGA",AR: VIP BEIN PREMIUM 2 SD H264
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/294126
+#EXTINF:-1 tvg-id="beinsports10olympic.qa" tvg-name="AR: VIP BEIN PREMIUM 3 SD H264" tvg-logo="http://38.83.75.11/photo/channel_original_image/Sport/bein_sport_hd_10.jpg" group-title="OLAHRAGA",AR: VIP BEIN PREMIUM 3 SD H264
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/294125
+#EXTINF:-1 tvg-id="beinsports11.qa" tvg-name="AR: VIP BEIN ENGLISH 1 SD H264" tvg-logo="http://38.83.75.11/photo/channel_original_image/Sport/bein_sport_hd_11.jpg" group-title="OLAHRAGA",AR: VIP BEIN ENGLISH 1 SD H264
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/294124
+#EXTINF:-1 tvg-id="" tvg-name="AR: VIP BEIN ENGLISH 2 SD H264" tvg-logo="http://38.83.75.11/photo/channel_original_image/Sport/bein_sport_hd_12.jpg" group-title="OLAHRAGA",AR: VIP BEIN ENGLISH 2 SD H264
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/333089
+#EXTINF:-1 tvg-id="beinsports13.qa" tvg-name="AR: VIP BEIN ENGLISH 3 SD H264" tvg-logo="http://logo.kll1ll120qazwed.site/logo/ARABE/beinSportsEnglish3.png" group-title="OLAHRAGA",AR: VIP BEIN ENGLISH 3 SD H264
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/294122
+#EXTINF:-1 tvg-id="beinsports14.qa" tvg-name="AR: VIP BEIN FRANCE 1 SD H264" tvg-logo="http://logo.kll1ll120qazwed.site/logo/ARABE/beinSportsFrance1.png" group-title="OLAHRAGA",AR: VIP BEIN FRANCE 1 SD H264
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/294121
+#EXTINF:-1 tvg-id="beinsports15.qa" tvg-name="AR: VIP BEIN FRANCE 2 SD H264" tvg-logo="http://logo.kll1ll120qazwed.site/logo/ARABE/beinSportsFrance2.png" group-title="OLAHRAGA",AR: VIP BEIN FRANCE 2 SD H264
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/294120
+#EXTINF:-1 tvg-id="" tvg-name="DE: VIP PRIME VIDEO SPORT (Only Live Event)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germanynew/amazonPrimeVideo.png" group-title="OLAHRAGA",DE: VIP PRIME VIDEO SPORT (Only Live Event)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/378504
+#EXTINF:-1 tvg-id="daznbar1.de" tvg-name="DE: VIP DAZN 1 HD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germanynew/dazn_bar_1.png" group-title="OLAHRAGA",DE: VIP DAZN 1 HD
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/378117
+#EXTINF:-1 tvg-id="daznbar1.de" tvg-name="DE: VIP DAZN 1 FHD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germanynew/dazn_bar_1.png" group-title="OLAHRAGA",DE: VIP DAZN 1 FHD
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/378118
+#EXTINF:-1 tvg-id="daznbar2.de" tvg-name="DE: VIP DAZN 2 HD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germanynew/dazn_bar_2.png" group-title="OLAHRAGA",DE: VIP DAZN 2 HD
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/378115
+#EXTINF:-1 tvg-id="daznbar2.de" tvg-name="DE: VIP DAZN 2 FHD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germanynew/dazn_bar_2.png" group-title="OLAHRAGA",DE: VIP DAZN 2 FHD
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/378116
+#EXTINF:-1 tvg-id="skysportf1.de" tvg-name="DE: VIP SKY SPORT F1 HD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germanynew/skySportF1.png" group-title="OLAHRAGA",DE: VIP SKY SPORT F1 HD
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/397326
+#EXTINF:-1 tvg-id="skysport1.de" tvg-name="DE: VIP SKY SPORT 1 HD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germany/sky_sport_hd_1.png" group-title="OLAHRAGA",DE: VIP SKY SPORT 1 HD
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/378153
+#EXTINF:-1 tvg-id="skysport2.de" tvg-name="DE: VIP SKY SPORT 2 HD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germany/sky_sport_hd_2.png" group-title="OLAHRAGA",DE: VIP SKY SPORT 2 HD
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/378152
+#EXTINF:-1 tvg-id="skysport3.de" tvg-name="DE: VIP SKY SPORT 3 HD (Only Live Event)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germany/sky_sport_hd_3.png" group-title="OLAHRAGA",DE: VIP SKY SPORT 3 HD (Only Live Event)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/378150
+#EXTINF:-1 tvg-id="skysport4.de" tvg-name="DE: VIP SKY SPORT 4 HD (Only Live Event)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germany/sky_sport_hd_4.png" group-title="OLAHRAGA",DE: VIP SKY SPORT 4 HD (Only Live Event)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/378149
+#EXTINF:-1 tvg-id="skysport5.de" tvg-name="DE: VIP SKY SPORT 5 HD (Only Live Event)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germany/sky_sport_hd_5.png" group-title="OLAHRAGA",DE: VIP SKY SPORT 5 HD (Only Live Event)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/378148
+#EXTINF:-1 tvg-id="skysport6.de" tvg-name="DE: VIP SKY SPORT 6 HD (Only Live Event)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germany/sky_sport_hd_6.png" group-title="OLAHRAGA",DE: VIP SKY SPORT 6 HD (Only Live Event)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/378147
+#EXTINF:-1 tvg-id="skysport7.de" tvg-name="DE: VIP SKY SPORT 7 HD (Only Live Event)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germany/sky_sport_hd_7.png" group-title="OLAHRAGA",DE: VIP SKY SPORT 7 HD (Only Live Event)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/378146
+#EXTINF:-1 tvg-id="skysport8.de" tvg-name="DE: VIP SKY SPORT 8 HD (Only Live Event)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germany/sky_sport_hd_8.png" group-title="OLAHRAGA",DE: VIP SKY SPORT 8 HD (Only Live Event)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/378145
+#EXTINF:-1 tvg-id="skysport9.de" tvg-name="DE: VIP SKY SPORT 9 HD (Only Live Event)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germany/sky_sport_hd_9.png" group-title="OLAHRAGA",DE: VIP SKY SPORT 9 HD (Only Live Event)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/378144
+#EXTINF:-1 tvg-id="skysport10.de" tvg-name="DE: VIP SKY SPORT 10 HD (Only Live Event)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germany/sky_sport_hd_10.png" group-title="OLAHRAGA",DE: VIP SKY SPORT 10 HD (Only Live Event)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/378143
+#EXTINF:-1 tvg-id="skysport11.de" tvg-name="DE: VIP SKY SPORT 11 HD (Only Live Event)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germanynew/skySport11.png" group-title="OLAHRAGA",DE: VIP SKY SPORT 11 HD (Only Live Event)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/395373
+#EXTINF:-1 tvg-id="skybundesliga1.de" tvg-name="DE: VIP SKY SPORT BUNDESLIGA 1 HD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germany/sky_bundesliga_hd_1.png" group-title="OLAHRAGA",DE: VIP SKY SPORT BUNDESLIGA 1 HD
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/378163
+#EXTINF:-1 tvg-id="skybundesliga2.de" tvg-name="DE: VIP SKY SPORT BUNDESLIGA 2 HD (Only Live Event)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germany/sky_bundesliga_hd_2.png" group-title="OLAHRAGA",DE: VIP SKY SPORT BUNDESLIGA 2 HD (Only Live Event)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/378162
+#EXTINF:-1 tvg-id="skybundesliga3.de" tvg-name="DE: VIP SKY SPORT BUNDESLIGA 3 HD (Only Live Event)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germany/sky_bundesliga_hd_3.png" group-title="OLAHRAGA",DE: VIP SKY SPORT BUNDESLIGA 3 HD (Only Live Event)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/378161
+#EXTINF:-1 tvg-id="skybundesliga4.de" tvg-name="DE: VIP SKY SPORT BUNDESLIGA 4 HD (Only Live Event)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germany/sky_bundesliga_hd_4.png" group-title="OLAHRAGA",DE: VIP SKY SPORT BUNDESLIGA 4 HD (Only Live Event)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/378160
+#EXTINF:-1 tvg-id="skybundesliga5.de" tvg-name="DE: VIP SKY SPORT BUNDESLIGA 5 HD (Only Live Event)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germany/sky_bundesliga_hd_5.png" group-title="OLAHRAGA",DE: VIP SKY SPORT BUNDESLIGA 5 HD (Only Live Event)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/378159
+#EXTINF:-1 tvg-id="skybundesliga6.de" tvg-name="DE: VIP SKY SPORT BUNDESLIGA 6 HD (Only Live Event)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germany/sky_bundesliga_hd_6.png" group-title="OLAHRAGA",DE: VIP SKY SPORT BUNDESLIGA 6 HD (Only Live Event)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/378158
+#EXTINF:-1 tvg-id="skybundesliga7.de" tvg-name="DE: VIP SKY SPORT BUNDESLIGA 7 HD (Only Live Event)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germany/sky_bundesliga_hd_7.png" group-title="OLAHRAGA",DE: VIP SKY SPORT BUNDESLIGA 7 HD (Only Live Event)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/378157
+#EXTINF:-1 tvg-id="skybundesliga8.de" tvg-name="DE: VIP SKY SPORT BUNDESLIGA 8 HD (Only Live Event)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germany/sky_bundesliga_hd_8.png" group-title="OLAHRAGA",DE: VIP SKY SPORT BUNDESLIGA 8 HD (Only Live Event)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/378156
+#EXTINF:-1 tvg-id="skybundesliga9.de" tvg-name="DE: VIP SKY SPORT BUNDESLIGA 9 HD (Only Live Event)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germany/sky_bundesliga_hd_9.png" group-title="OLAHRAGA",DE: VIP SKY SPORT BUNDESLIGA 9 HD (Only Live Event)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/378155
+#EXTINF:-1 tvg-id="skybundesliga10.de" tvg-name="DE: VIP SKY SPORT BUNDESLIGA 10 HD (Only Live Event)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germany/sky_bundesliga_hd_10.png" group-title="OLAHRAGA",DE: VIP SKY SPORT BUNDESLIGA 10 HD (Only Live Event)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/378154
+#EXTINF:-1 tvg-id="skysportaustria.at" tvg-name="DE: VIP SKY SPORT AUSTRIA 1 HD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germanynew/sky_sport_austria.png" group-title="OLAHRAGA",DE: VIP SKY SPORT AUSTRIA 1 HD
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/378141
+#EXTINF:-1 tvg-id="skysportaustria2.at" tvg-name="DE: VIP SKY SPORT AUSTRIA 2 HD (Only Live Event)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germanynew/sky_sport_austria.png" group-title="OLAHRAGA",DE: VIP SKY SPORT AUSTRIA 2 HD (Only Live Event)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/378140
+#EXTINF:-1 tvg-id="skysportaustria3.at" tvg-name="DE: VIP SKY SPORT AUSTRIA 3 HD (Only Live Event)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germanynew/sky_sport_austria.png" group-title="OLAHRAGA",DE: VIP SKY SPORT AUSTRIA 3 HD (Only Live Event)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/378139
+#EXTINF:-1 tvg-id="skysportaustria4.at" tvg-name="DE: VIP SKY SPORT AUSTRIA 4 HD (Only Live Event)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germanynew/sky_sport_austria.png" group-title="OLAHRAGA",DE: VIP SKY SPORT AUSTRIA 4 HD (Only Live Event)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/378138
+#EXTINF:-1 tvg-id="" tvg-name="DE: VIP SKY SPORT AUSTRIA 5 HD (Only Live Event)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germanynew/sky_sport_austria.png" group-title="OLAHRAGA",DE: VIP SKY SPORT AUSTRIA 5 HD (Only Live Event)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/380722
+#EXTINF:-1 tvg-id="" tvg-name="DE: VIP SKY SPORT AUSTRIA 6 HD (Only Live Event)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germanynew/sky_sport_austria.png" group-title="OLAHRAGA",DE: VIP SKY SPORT AUSTRIA 6 HD (Only Live Event)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/380721
+#EXTINF:-1 tvg-id="" tvg-name="DE: VIP SKY SPORT AUSTRIA 7 HD (Only Live Event)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germanynew/sky_sport_austria.png" group-title="OLAHRAGA",DE: VIP SKY SPORT AUSTRIA 7 HD (Only Live Event)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/380720
+#EXTINF:-1 tvg-id="" tvg-name="DE: VIP MAGENTA SPORT PROGRAMMÜBERSICHT HD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germany/telekomsport.png" group-title="OLAHRAGA",DE: VIP MAGENTA SPORT PROGRAMMÜBERSICHT HD
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/390470
+#EXTINF:-1 tvg-id="" tvg-name="DE: VIP MAGENTA SPORT 1 HD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germany/telekomsport.png" group-title="OLAHRAGA",DE: VIP MAGENTA SPORT 1 HD
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/390489
+#EXTINF:-1 tvg-id="" tvg-name="DE: VIP MAGENTA SPORT 2 HD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germany/telekomsport.png" group-title="OLAHRAGA",DE: VIP MAGENTA SPORT 2 HD
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/390488
+#EXTINF:-1 tvg-id="" tvg-name="DE: VIP MAGENTA SPORT 3 HD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germany/telekomsport.png" group-title="OLAHRAGA",DE: VIP MAGENTA SPORT 3 HD
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/390487
+#EXTINF:-1 tvg-id="" tvg-name="DE: VIP MAGENTA SPORT 4 HD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germany/telekomsport.png" group-title="OLAHRAGA",DE: VIP MAGENTA SPORT 4 HD
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/390486
+#EXTINF:-1 tvg-id="" tvg-name="DE: VIP MAGENTA SPORT 5 HD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germany/telekomsport.png" group-title="OLAHRAGA",DE: VIP MAGENTA SPORT 5 HD
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/390485
+#EXTINF:-1 tvg-id="" tvg-name="DE: VIP MAGENTA SPORT 6 HD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germany/telekomsport.png" group-title="OLAHRAGA",DE: VIP MAGENTA SPORT 6 HD
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/390484
+#EXTINF:-1 tvg-id="" tvg-name="DE: VIP MAGENTA SPORT 7 HD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germany/telekomsport.png" group-title="OLAHRAGA",DE: VIP MAGENTA SPORT 7 HD
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/390483
+#EXTINF:-1 tvg-id="" tvg-name="DE: VIP MAGENTA SPORT 8 HD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germany/telekomsport.png" group-title="OLAHRAGA",DE: VIP MAGENTA SPORT 8 HD
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/390482
+#EXTINF:-1 tvg-id="" tvg-name="DE: VIP MAGENTA SPORT 9 HD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germany/telekomsport.png" group-title="OLAHRAGA",DE: VIP MAGENTA SPORT 9 HD
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/390481
+#EXTINF:-1 tvg-id="" tvg-name="DE: VIP MAGENTA SPORT 10 HD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germany/telekomsport.png" group-title="OLAHRAGA",DE: VIP MAGENTA SPORT 10 HD
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/390480
+#EXTINF:-1 tvg-id="" tvg-name="DE: VIP MAGENTA SPORT 11 HD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germany/telekomsport.png" group-title="OLAHRAGA",DE: VIP MAGENTA SPORT 11 HD
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/390479
+#EXTINF:-1 tvg-id="" tvg-name="DE: VIP MAGENTA SPORT 12 HD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germany/telekomsport.png" group-title="OLAHRAGA",DE: VIP MAGENTA SPORT 12 HD
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/390478
+#EXTINF:-1 tvg-id="" tvg-name="DE: VIP MAGENTA SPORT 13 HD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germany/telekomsport.png" group-title="OLAHRAGA",DE: VIP MAGENTA SPORT 13 HD
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/390477
+#EXTINF:-1 tvg-id="" tvg-name="DE: VIP MAGENTA SPORT 14 HD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germany/telekomsport.png" group-title="OLAHRAGA",DE: VIP MAGENTA SPORT 14 HD
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/390476
+#EXTINF:-1 tvg-id="" tvg-name="DE: VIP MAGENTA SPORT 15 HD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germany/telekomsport.png" group-title="OLAHRAGA",DE: VIP MAGENTA SPORT 15 HD
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/390475
+#EXTINF:-1 tvg-id="" tvg-name="DE: VIP MAGENTA SPORT 16 HD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germany/telekomsport.png" group-title="OLAHRAGA",DE: VIP MAGENTA SPORT 16 HD
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/390474
+#EXTINF:-1 tvg-id="" tvg-name="DE: VIP MAGENTA SPORT 17 HD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germany/telekomsport.png" group-title="OLAHRAGA",DE: VIP MAGENTA SPORT 17 HD
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/390473
+#EXTINF:-1 tvg-id="" tvg-name="DE: VIP MAGENTA SPORT 18 HD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germany/telekomsport.png" group-title="OLAHRAGA",DE: VIP MAGENTA SPORT 18 HD
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/390472
+#EXTINF:-1 tvg-id="" tvg-name="DE: VIP MAGENTA SPORT 19 HD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germany/telekomsport.png" group-title="OLAHRAGA",DE: VIP MAGENTA SPORT 19 HD
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/390471
+#EXTINF:-1 tvg-id="" tvg-name="DE: VIP RTL+ SPORT EVENT 1 (Only Live Event)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germanynew/rtlPremium1.png" group-title="OLAHRAGA",DE: VIP RTL+ SPORT EVENT 1 (Only Live Event)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/395281
+#EXTINF:-1 tvg-id="" tvg-name="DE: VIP RTL+ SPORT EVENT 2 (Only Live Event)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germanynew/rtlPremium2.png" group-title="OLAHRAGA",DE: VIP RTL+ SPORT EVENT 2 (Only Live Event)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/395280
+#EXTINF:-1 tvg-id="" tvg-name="DE: VIP RTL+ SPORT EVENT 3 (Only Live Event)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germanynew/rtlPremium3.png" group-title="OLAHRAGA",DE: VIP RTL+ SPORT EVENT 3 (Only Live Event)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/395279
+#EXTINF:-1 tvg-id="" tvg-name="DE: VIP RTL+ SPORT EVENT 4 (Only Live Event)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germanynew/rtlPremium4.png" group-title="OLAHRAGA",DE: VIP RTL+ SPORT EVENT 4 (Only Live Event)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/395278
+#EXTINF:-1 tvg-id="" tvg-name="DE: VIP RTL+ SPORT EVENT 5 (Only Live Event)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germanynew/rtlPremium5.png" group-title="OLAHRAGA",DE: VIP RTL+ SPORT EVENT 5 (Only Live Event)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/395277
+#EXTINF:-1 tvg-id="" tvg-name="DE: VIP RTL+ SPORT EVENT 6 (Only Live Event)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germanynew/rtlPremium6.png" group-title="OLAHRAGA",DE: VIP RTL+ SPORT EVENT 6 (Only Live Event)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/395276
+#EXTINF:-1 tvg-id="" tvg-name="DE: VIP RTL+ SPORT EVENT 7 (Only Live Event)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germanynew/rtlPremium7.png" group-title="OLAHRAGA",DE: VIP RTL+ SPORT EVENT 7 (Only Live Event)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/395275
+#EXTINF:-1 tvg-id="" tvg-name="DE: VIP RTL+ SPORT EVENT 8 (Only Live Event)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germanynew/rtlPremium8.png" group-title="OLAHRAGA",DE: VIP RTL+ SPORT EVENT 8 (Only Live Event)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/395274
+#EXTINF:-1 tvg-id="" tvg-name="DE: VIP RTL+ SPORT EVENT 9 (Only Live Event)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germanynew/rtlPremium9.png" group-title="OLAHRAGA",DE: VIP RTL+ SPORT EVENT 9 (Only Live Event)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/395273
+#EXTINF:-1 tvg-id="" tvg-name="DE: VIP RTL+ SPORT EVENT 10 (Only Live Event)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germanynew/rtlPremium10.png" group-title="OLAHRAGA",DE: VIP RTL+ SPORT EVENT 10 (Only Live Event)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/395272
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN 1 HD (Only Live Event)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germanynew/dazn1.png" group-title="OLAHRAGA",DE: DAZN 1 HD (Only Live Event)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/390466
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN 2 HD (Only Live Event)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germanynew/dazn2.png" group-title="OLAHRAGA",DE: DAZN 2 HD (Only Live Event)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/390465
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN 3 HD (Only Live Event)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germanynew/dazn3.png" group-title="OLAHRAGA",DE: DAZN 3 HD (Only Live Event)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/390464
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN 4 HD (Only Live Event)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germanynew/dazn4.png" group-title="OLAHRAGA",DE: DAZN 4 HD (Only Live Event)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/390463
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN 5 HD (Only Live Event)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germanynew/dazn5.png" group-title="OLAHRAGA",DE: DAZN 5 HD (Only Live Event)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/390462
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN 6 HD (Only Live Event)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germanynew/dazn6.png" group-title="OLAHRAGA",DE: DAZN 6 HD (Only Live Event)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/390461
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN 7 HD (Only Live Event)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germanynew/dazn7.png" group-title="OLAHRAGA",DE: DAZN 7 HD (Only Live Event)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/390460
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN 8 HD (Only Live Event)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germanynew/dazn8.png" group-title="OLAHRAGA",DE: DAZN 8 HD (Only Live Event)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/390459
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN 9 HD (Only Live Event)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germanynew/dazn9.png" group-title="OLAHRAGA",DE: DAZN 9 HD (Only Live Event)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/390458
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN 10 HD (Only Live Event)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germanynew/dazn10.png" group-title="OLAHRAGA",DE: DAZN 10 HD (Only Live Event)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/390457
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN 11 HD (Only Live Event)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germanynew/dazn11.png" group-title="OLAHRAGA",DE: DAZN 11 HD (Only Live Event)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/390456
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN 12 HD (Only Live Event)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germanynew/dazn12.png" group-title="OLAHRAGA",DE: DAZN 12 HD (Only Live Event)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/390455
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN 13 HD (Only Live Event)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germanynew/dazn13.png" group-title="OLAHRAGA",DE: DAZN 13 HD (Only Live Event)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/390454
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN 14 HD (Only Live Event)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germanynew/dazn14.png" group-title="OLAHRAGA",DE: DAZN 14 HD (Only Live Event)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/390453
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN 15 HD (Only Live Event)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germanynew/dazn15.png" group-title="OLAHRAGA",DE: DAZN 15 HD (Only Live Event)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/390452
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN 16 HD (Only Live Event)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germanynew/dazn16.png" group-title="OLAHRAGA",DE: DAZN 16 HD (Only Live Event)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/390451
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN 17 HD (Only Live Event)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germanynew/dazn17.png" group-title="OLAHRAGA",DE: DAZN 17 HD (Only Live Event)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/390450
+#EXTINF:-1 tvg-id="" tvg-name="DE: VIP EUROSPORT 360 HD 1 (Only Live Event)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germanynew/eurosport360-1.png" group-title="OLAHRAGA",DE: VIP EUROSPORT 360 HD 1 (Only Live Event)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/395463
+#EXTINF:-1 tvg-id="" tvg-name="DE: VIP EUROSPORT 360 HD 2 (Only Live Event)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germanynew/eurosport360-2.png" group-title="OLAHRAGA",DE: VIP EUROSPORT 360 HD 2 (Only Live Event)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/395462
+#EXTINF:-1 tvg-id="" tvg-name="DE: VIP EUROSPORT 360 HD 3 (Only Live Event)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germanynew/eurosport360-3.png" group-title="OLAHRAGA",DE: VIP EUROSPORT 360 HD 3 (Only Live Event)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/395461
+#EXTINF:-1 tvg-id="" tvg-name="DE: VIP EUROSPORT 360 HD 4 (Only Live Event)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germanynew/eurosport360-4.png" group-title="OLAHRAGA",DE: VIP EUROSPORT 360 HD 4 (Only Live Event)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/395460
+#EXTINF:-1 tvg-id="" tvg-name="DE: VIP EUROSPORT 360 HD 5 (Only Live Event)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germanynew/eurosport360-5.png" group-title="OLAHRAGA",DE: VIP EUROSPORT 360 HD 5 (Only Live Event)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/395459
+#EXTINF:-1 tvg-id="" tvg-name="DE: VIP EUROSPORT 360 HD 6 (Only Live Event)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germanynew/eurosport360-6.png" group-title="OLAHRAGA",DE: VIP EUROSPORT 360 HD 6 (Only Live Event)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/395458
+#EXTINF:-1 tvg-id="" tvg-name="DE: VIP EUROSPORT 360 HD 7 (Only Live Event)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germanynew/eurosport360-7.png" group-title="OLAHRAGA",DE: VIP EUROSPORT 360 HD 7 (Only Live Event)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/395457
+#EXTINF:-1 tvg-id="" tvg-name="DE: VIP EUROSPORT 360 HD 8 (Only Live Event)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germanynew/eurosport360-8.png" group-title="OLAHRAGA",DE: VIP EUROSPORT 360 HD 8 (Only Live Event)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/395456
+#EXTINF:-1 tvg-id="" tvg-name="DE: VIP EUROSPORT 360 HD 9 (Only Live Event)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germanynew/eurosport360-9.png" group-title="OLAHRAGA",DE: VIP EUROSPORT 360 HD 9 (Only Live Event)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/395455
+#EXTINF:-1 tvg-id="" tvg-name="DE: VIP EUROSPORT 360 HD 10 (Only Live Event)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germanynew/eurosport360-10.png" group-title="OLAHRAGA",DE: VIP EUROSPORT 360 HD 10 (Only Live Event)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/395454
+#EXTINF:-1 tvg-id="" tvg-name="DE: VIP EUROSPORT 360 HD 11 (Only Live Event)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germanynew/eurosport360-11.png" group-title="OLAHRAGA",DE: VIP EUROSPORT 360 HD 11 (Only Live Event)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/395453
+#EXTINF:-1 tvg-id="" tvg-name="DE: VIP EUROSPORT 360 HD 12 (Only Live Event)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germanynew/eurosport360-12.png" group-title="OLAHRAGA",DE: VIP EUROSPORT 360 HD 12 (Only Live Event)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/395452
+#EXTINF:-1 tvg-id="" tvg-name="DE: VIP EUROSPORT 360 HD 13 (Only Live Event)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germanynew/eurosport360-13.png" group-title="OLAHRAGA",DE: VIP EUROSPORT 360 HD 13 (Only Live Event)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/395451
+#EXTINF:-1 tvg-id="" tvg-name="DE: VIP EUROSPORT 360 HD 14 (Only Live Event)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germanynew/eurosport360-14.png" group-title="OLAHRAGA",DE: VIP EUROSPORT 360 HD 14 (Only Live Event)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/395450
+#EXTINF:-1 tvg-id="" tvg-name="DE: VIP EUROSPORT 360 HD 15 (Only Live Event)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germanynew/eurosport360-15.png" group-title="OLAHRAGA",DE: VIP EUROSPORT 360 HD 15 (Only Live Event)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/395449
+#EXTINF:-1 tvg-id="" tvg-name="DE: VIP EUROSPORT 360 HD 16 (Only Live Event)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germanynew/eurosport360-16.png" group-title="OLAHRAGA",DE: VIP EUROSPORT 360 HD 16 (Only Live Event)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/395448
+#EXTINF:-1 tvg-id="beinsportshaber.tr" tvg-name="TR: BEIN SPORTS HABER FHD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/bein_sp_haber.png" group-title="OLAHRAGA",TR: BEIN SPORTS HABER FHD
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/383650
+#EXTINF:-1 tvg-id="beinsportshaber.tr" tvg-name="TR: BEIN SPORTS HABER HD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/bein_sp_haber.png" group-title="OLAHRAGA",TR: BEIN SPORTS HABER HD
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/129036
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR: BEIN SPORTS 1 4K - UHD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/bein_sports_1.png" group-title="OLAHRAGA",TR: BEIN SPORTS 1 4K - UHD
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/269994
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR: BEIN SPORTS 1 FHD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/bein_sports_1.png" group-title="OLAHRAGA",TR: BEIN SPORTS 1 FHD
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/269058
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR: BEIN SPORTS 1 FHD (HQ)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/bein_sports_1.png" group-title="OLAHRAGA",TR: BEIN SPORTS 1 FHD (HQ)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/138606
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR: BEIN SPORTS 1 FHD (Mac Zamani)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/bein_sports_1.png" group-title="OLAHRAGA",TR: BEIN SPORTS 1 FHD (Mac Zamani)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/299611
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR: BEIN SPORTS 1 HD (LQ)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/bein_sports_1.png" group-title="OLAHRAGA",TR: BEIN SPORTS 1 HD (LQ)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/6046
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR: BEIN SPORTS 1 HD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/bein_sports_1.png" group-title="OLAHRAGA",TR: BEIN SPORTS 1 HD
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/123295
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 1 HD*" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/bein_sports_1.png" group-title="OLAHRAGA",TR: BEIN SPORTS 1 HD*
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/374534
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR: BEIN SPORTS 1 HD (Mac Zamani)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/bein_sports_1.png" group-title="OLAHRAGA",TR: BEIN SPORTS 1 HD (Mac Zamani)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/189369
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR: BEIN SPORTS 1 SD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/bein_sports_1.png" group-title="OLAHRAGA",TR: BEIN SPORTS 1 SD
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/138607
+#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="TR: BEIN SPORTS 2 FHD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/bein_sports_2.png" group-title="OLAHRAGA",TR: BEIN SPORTS 2 FHD
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/7595
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 2 FHD (Mac Zamani)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/bein_sports_2.png" group-title="OLAHRAGA",TR: BEIN SPORTS 2 FHD (Mac Zamani)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/294661
+#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="TR: BEIN SPORTS 2 HD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/bein_sports_2.png" group-title="OLAHRAGA",TR: BEIN SPORTS 2 HD
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/631
+#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="TR: BEIN SPORTS 2 SD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/bein_sports_2.png" group-title="OLAHRAGA",TR: BEIN SPORTS 2 SD
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/371296
+#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="TR: BEIN SPORTS 3 FHD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/bein_sports_3.png" group-title="OLAHRAGA",TR: BEIN SPORTS 3 FHD
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/7596
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 3 FHD (Mac Zamani)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/bein_sports_3.png" group-title="OLAHRAGA",TR: BEIN SPORTS 3 FHD (Mac Zamani)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/371789
+#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="TR: BEIN SPORTS 3 HD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/bein_sports_3.png" group-title="OLAHRAGA",TR: BEIN SPORTS 3 HD
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/162816
+#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="TR: BEIN SPORTS 3 SD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/bein_sports_3.png" group-title="OLAHRAGA",TR: BEIN SPORTS 3 SD
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/294662
+#EXTINF:-1 tvg-id="beinsports4.tr" tvg-name="TR: BEIN SPORTS 4 FHD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/bein_sports_4.png" group-title="OLAHRAGA",TR: BEIN SPORTS 4 FHD
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/7597
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 4 FHD (Mac Zamani)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/bein_sports_4.png" group-title="OLAHRAGA",TR: BEIN SPORTS 4 FHD (Mac Zamani)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/371790
+#EXTINF:-1 tvg-id="beinsports4.tr" tvg-name="TR: BEIN SPORTS 4 HD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/bein_sports_4.png" group-title="OLAHRAGA",TR: BEIN SPORTS 4 HD
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/123298
+#EXTINF:-1 tvg-id="beinsports4.tr" tvg-name="TR: BEIN SPORTS 4 SD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/bein_sports_4.png" group-title="OLAHRAGA",TR: BEIN SPORTS 4 SD
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/294663
+#EXTINF:-1 tvg-id="beinsportsmax1.tr" tvg-name="TR: BEIN SPORTS MAX 1  FHD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/bein_sports_max_1.png" group-title="OLAHRAGA",TR: BEIN SPORTS MAX 1  FHD
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/162818
+#EXTINF:-1 tvg-id="beinsportsmax1.tr" tvg-name="TR: BEIN SPORTS MAX 1 HD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/bein_sports_max_1.png" group-title="OLAHRAGA",TR: BEIN SPORTS MAX 1 HD
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/114448
+#EXTINF:-1 tvg-id="beinsportsmax2.tr" tvg-name="TR: BEIN SPORTS MAX 2 FHD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/bein_sports_max_2.png" group-title="OLAHRAGA",TR: BEIN SPORTS MAX 2 FHD
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/162819
+#EXTINF:-1 tvg-id="beinsportsmax2.tr" tvg-name="TR: BEIN SPORTS MAX 2 HD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/bein_sports_max_2.png" group-title="OLAHRAGA",TR: BEIN SPORTS MAX 2 HD
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/114449
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN CONNECT HD 1 (Mac Zamani)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/bein_sp.png" group-title="OLAHRAGA",TR: BEIN CONNECT HD 1 (Mac Zamani)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/350292
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN CONNECT HD 2 (Mac Zamani)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/bein_sp.png" group-title="OLAHRAGA",TR: BEIN CONNECT HD 2 (Mac Zamani)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/350291
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN CONNECT HD 3 (Mac Zamani)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/bein_sp.png" group-title="OLAHRAGA",TR: BEIN CONNECT HD 3 (Mac Zamani)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/350290
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN CONNECT HD 4 (Mac Zamani)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/bein_sp.png" group-title="OLAHRAGA",TR: BEIN CONNECT HD 4 (Mac Zamani)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/350289
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN CONNECT HD 5 (Mac Zamani)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/bein_sp.png" group-title="OLAHRAGA",TR: BEIN CONNECT HD 5 (Mac Zamani)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/350288
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN CONNECT HD 6 (Mac Zamani)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/bein_sp.png" group-title="OLAHRAGA",TR: BEIN CONNECT HD 6 (Mac Zamani)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/350287
+#EXTINF:-1 tvg-id="smartspor.tr" tvg-name="TR: SPOR SMART FHD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/spor_smart.png" group-title="OLAHRAGA",TR: SPOR SMART FHD
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/6050
+#EXTINF:-1 tvg-id="sporsmart.tr" tvg-name="TR: SPOR SMART FHD*" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/spor_smart.png" group-title="OLAHRAGA",TR: SPOR SMART FHD*
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/92363
+#EXTINF:-1 tvg-id="sporsmart.tr" tvg-name="TR: SPOR SMART HD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/spor_smart.png" group-title="OLAHRAGA",TR: SPOR SMART HD
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/286779
+#EXTINF:-1 tvg-id="" tvg-name="TR: SPOR SMART 2 FHD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/spor_smart2.png" group-title="OLAHRAGA",TR: SPOR SMART 2 FHD
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/236111
+#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBU SPOR HD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/tivibu_spor.png" group-title="OLAHRAGA",TR: TIVIBU SPOR HD
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/1468
+#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBU SPOR 2 HD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/tivibu_spor_2.png" group-title="OLAHRAGA",TR: TIVIBU SPOR 2 HD
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/6049
+#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBU SPOR 3 HD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/tivibu_spor_3.png" group-title="OLAHRAGA",TR: TIVIBU SPOR 3 HD
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/198443
+#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBU SPOR 4 HD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/tivibu_spor.png" group-title="OLAHRAGA",TR: TIVIBU SPOR 4 HD
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/386687
+#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBU SPOR 5 HD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/tivibu_spor_5.png" group-title="OLAHRAGA",TR: TIVIBU SPOR 5 HD
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/399025
+#EXTINF:-1 tvg-id="ssport.tr" tvg-name="TR: S SPORT FHD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/s_sport.png" group-title="OLAHRAGA",TR: S SPORT FHD
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/115503
+#EXTINF:-1 tvg-id="ssport.tr" tvg-name="TR: S SPORT HD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/s_sport.png" group-title="OLAHRAGA",TR: S SPORT HD
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/285910
+#EXTINF:-1 tvg-id="ssport2.tr" tvg-name="TR: S SPORT 2 FHD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/s_spor_2.png" group-title="OLAHRAGA",TR: S SPORT 2 FHD
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/299043
+#EXTINF:-1 tvg-id="ssport2.tr" tvg-name="TR: S SPORT 2 HD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/s_spor_2.png" group-title="OLAHRAGA",TR: S SPORT 2 HD
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/193396
+#EXTINF:-1 tvg-id="" tvg-name="TR: S SPORT+ 1 FHD (Mac Zamani)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/s_sport.png" group-title="OLAHRAGA",TR: S SPORT+ 1 FHD (Mac Zamani)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/371289
+#EXTINF:-1 tvg-id="" tvg-name="TR: S SPORT+ 2 FHD (Mac Zamani)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/s_sport.png" group-title="OLAHRAGA",TR: S SPORT+ 2 FHD (Mac Zamani)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/371288
+#EXTINF:-1 tvg-id="" tvg-name="TR: S SPORT+ 3 FHD (Mac Zamani)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/s_sport.png" group-title="OLAHRAGA",TR: S SPORT+ 3 FHD (Mac Zamani)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/371287
+#EXTINF:-1 tvg-id="" tvg-name="TR: S SPORT+ 4 FHD (Mac Zamani)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/s_sport.png" group-title="OLAHRAGA",TR: S SPORT+ 4 FHD (Mac Zamani)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/371286
+#EXTINF:-1 tvg-id="" tvg-name="TR: S SPORT+ 5 FHD (Mac Zamani)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/s_sport.png" group-title="OLAHRAGA",TR: S SPORT+ 5 FHD (Mac Zamani)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/371285
+#EXTINF:-1 tvg-id="" tvg-name="TR: S SPORT+ 6 FHD (Mac Zamani)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/s_sport.png" group-title="OLAHRAGA",TR: S SPORT+ 6 FHD (Mac Zamani)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/371284
+#EXTINF:-1 tvg-id="" tvg-name="TR: S SPORT+ 7 FHD (Mac Zamani)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/s_sport.png" group-title="OLAHRAGA",TR: S SPORT+ 7 FHD (Mac Zamani)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/399026
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 1 FHD (Mac Zamani)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/Exxen.png.png" group-title="OLAHRAGA",TR: EXXEN SPORT 1 FHD (Mac Zamani)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/371283
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 1 HD (LQ) (Mac Zamani)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/Exxen.png.png" group-title="OLAHRAGA",TR: EXXEN SPORT 1 HD (LQ) (Mac Zamani)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/381152
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 1 HD (Mac Zamani)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/Exxen.png.png" group-title="OLAHRAGA",TR: EXXEN SPORT 1 HD (Mac Zamani)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/299610
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 1 SD (Mac Zamani)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/Exxen.png.png" group-title="OLAHRAGA",TR: EXXEN SPORT 1 SD (Mac Zamani)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/369337
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 2 HD - FHD (Mac Zamani)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/Exxen.png.png" group-title="OLAHRAGA",TR: EXXEN SPORT 2 HD - FHD (Mac Zamani)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/371282
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 3 HD - FHD (Mac Zamani)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/Exxen.png.png" group-title="OLAHRAGA",TR: EXXEN SPORT 3 HD - FHD (Mac Zamani)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/371281
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 4 HD - FHD (Mac Zamani)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/Exxen.png.png" group-title="OLAHRAGA",TR: EXXEN SPORT 4 HD - FHD (Mac Zamani)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/378875
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 5 HD - FHD (Mac Zamani)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/Exxen.png.png" group-title="OLAHRAGA",TR: EXXEN SPORT 5 HD - FHD (Mac Zamani)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/378873
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 6 HD - FHD (Mac Zamani)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/Exxen.png.png" group-title="OLAHRAGA",TR: EXXEN SPORT 6 HD - FHD (Mac Zamani)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/378871
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 7 HD - FHD (Mac Zamani)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/Exxen.png.png" group-title="OLAHRAGA",TR: EXXEN SPORT 7 HD - FHD (Mac Zamani)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/391895
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 8 HD - FHD (Mac Zamani)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/Exxen.png.png" group-title="OLAHRAGA",TR: EXXEN SPORT 8 HD - FHD (Mac Zamani)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/391894
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 1 HD - FHD* (Mac Zamani)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/Exxen.png.png" group-title="OLAHRAGA",TR: EXXEN SPORT 1 HD - FHD* (Mac Zamani)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/389174
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 2 HD - FHD* (Mac Zamani)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/Exxen.png.png" group-title="OLAHRAGA",TR: EXXEN SPORT 2 HD - FHD* (Mac Zamani)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/389173
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 3 HD - FHD* (Mac Zamani)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/Exxen.png.png" group-title="OLAHRAGA",TR: EXXEN SPORT 3 HD - FHD* (Mac Zamani)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/389172
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 4 HD - FHD* (Mac Zamani)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/Exxen.png.png" group-title="OLAHRAGA",TR: EXXEN SPORT 4 HD - FHD* (Mac Zamani)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/389171
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 5 HD - FHD* (Mac Zamani)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/Exxen.png.png" group-title="OLAHRAGA",TR: EXXEN SPORT 5 HD - FHD* (Mac Zamani)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/389170
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 6 HD - FHD* (Mac Zamani)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/Exxen.png.png" group-title="OLAHRAGA",TR: EXXEN SPORT 6 HD - FHD* (Mac Zamani)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/389169
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 7 HD - FHD* (Mac Zamani)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/Exxen.png.png" group-title="OLAHRAGA",TR: EXXEN SPORT 7 HD - FHD* (Mac Zamani)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/389168
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 8 HD - FHD* (Mac Zamani)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/Exxen.png.png" group-title="OLAHRAGA",TR: EXXEN SPORT 8 HD - FHD* (Mac Zamani)
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/389167
+#EXTINF:-1 tvg-id="trtspor.tr" tvg-name="TR: TRT SPOR FHD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/trt_spor.png" group-title="OLAHRAGA",TR: TRT SPOR FHD
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/128288
+#EXTINF:-1 tvg-id="trtspor.tr" tvg-name="TR: TRT SPOR HD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/trt_spor.png" group-title="OLAHRAGA",TR: TRT SPOR HD
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/1028
+#EXTINF:-1 tvg-id="trtspor2.tr" tvg-name="TR: TRT SPOR YILDIZ HD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/trtsporstar.png" group-title="OLAHRAGA",TR: TRT SPOR YILDIZ HD
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/216022
+#EXTINF:-1 tvg-id="aspor.tr" tvg-name="TR: A SPOR FHD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/a_spor.png" group-title="OLAHRAGA",TR: A SPOR FHD
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/164957
+#EXTINF:-1 tvg-id="aspor.tr" tvg-name="TR: A SPOR HD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/a_spor.png" group-title="OLAHRAGA",TR: A SPOR HD
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/1883
+#EXTINF:-1 tvg-id="eurosport1.tr" tvg-name="TR: EUROSPORT 1 FHD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/eurosport1.png" group-title="OLAHRAGA",TR: EUROSPORT 1 FHD
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/7177
+#EXTINF:-1 tvg-id="eurosport2.tr" tvg-name="TR: EUROSPORT 2 FHD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/eurosport2.png" group-title="OLAHRAGA",TR: EUROSPORT 2 FHD
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/7178
+#EXTINF:-1 tvg-id="" tvg-name="TR: EDGE SPORT FHD" tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2021/12/Edgesport_Logo.png" group-title="OLAHRAGA",TR: EDGE SPORT FHD
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/423775
+#EXTINF:-1 tvg-id="fbtv.tr" tvg-name="TR: FB TV HD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/fb_tv.png" group-title="OLAHRAGA",TR: FB TV HD
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/378165
+#EXTINF:-1 tvg-id="fbtv.tr" tvg-name="TR: FB TV" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/fb_tv.png" group-title="OLAHRAGA",TR: FB TV
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/2028
+#EXTINF:-1 tvg-id="" tvg-name="TR: FIGHTBOX HD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/fightbox.png" group-title="OLAHRAGA",TR: FIGHTBOX HD
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/240517
+#EXTINF:-1 tvg-id="" tvg-name="TR: FIGHT NETWORK FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fight_network_ca.png" group-title="OLAHRAGA",TR: FIGHT NETWORK FHD
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/423772
+#EXTINF:-1 tvg-id="gstv.tr" tvg-name="TR: GS TV HD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/gs_tv.png" group-title="OLAHRAGA",TR: GS TV HD
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/2626
+#EXTINF:-1 tvg-id="nbatv.tr" tvg-name="TR: NBA HD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/nba_tv.png" group-title="OLAHRAGA",TR: NBA HD
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/13245
+#EXTINF:-1 tvg-id="" tvg-name="TR: SPORTS TV" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/sports_tv.png" group-title="OLAHRAGA",TR: SPORTS TV
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/2105
+#EXTINF:-1 tvg-id="" tvg-name="TR: TAY TV" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/tay_tv.png" group-title="OLAHRAGA",TR: TAY TV
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/129265
+#EXTINF:-1 tvg-id="tjktv.tr" tvg-name="TR: TJK" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/tjk_tv.png" group-title="OLAHRAGA",TR: TJK
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/8571
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRACE SPORT STARS FHD" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trace_fr_sport_stars.png" group-title="OLAHRAGA",TR: TRACE SPORT STARS FHD
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/423893
+#EXTINF:-1 tvg-id="" tvg-name="TR: UFC FIGHT PASS FHD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/USA/UFCFIGHTPASS.png" group-title="OLAHRAGA",TR: UFC FIGHT PASS FHD
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/423894
+#EXTINF:-1 tvg-id="" tvg-name="TR: WWE CHANNEL HD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germanynew/wwe.png" group-title="OLAHRAGA",TR: WWE CHANNEL HD
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/423895
