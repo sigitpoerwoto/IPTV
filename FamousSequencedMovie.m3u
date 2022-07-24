@@ -79,6 +79,15 @@ https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960772
 #EXTINF:-1 group-title="Terminator",Dark Fate (2019)
 https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960773
 
+#EXTINF:-1 group-title="John Wick",John Wick
+http://hellohelios.crabdance.com:80/movie/9ESUdOYO9Y/bugSyNm4q4/17858.mkv
+#EXTINF:-1 group-title="John Wick",John Wick: Chapter 2
+http://hellohelios.crabdance.com:80/movie/9ESUdOYO9Y/bugSyNm4q4/856.mkv
+#EXTINF:-1 group-title="John Wick",John Wick: Chapter 3 Parabellum
+http://hellohelios.crabdance.com:80/movie/9ESUdOYO9Y/bugSyNm4q4/18439.mkv
+#EXTINF:-1 group-title="John Wick",John Wick: Chapter 3 Parabellum x265
+http://hellohelios.crabdance.com:80/movie/9ESUdOYO9Y/bugSyNm4q4/18946.mkv
+
 #EXTINF:-1 group-title="Final Destination",Final Destination (2000)
 https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960206
 #EXTINF:-1 group-title="Final Destination",Final Destination 2 (2003)
@@ -89,4 +98,70 @@ https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960208
 https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960209
 #EXTINF:-1 group-title="Final Destination",Final Destination 5 (2011)
 https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960210
+
+#EXTINF:-1 group-title="Iron Man",Iron Man (2008)
+http://hellohelios.crabdance.com:80/movie/9ESUdOYO9Y/bugSyNm4q4/12165.mkv
+#EXTINF:-1 group-title="Iron Man",Iron Man 2 (2010)
+http://hellohelios.crabdance.com:80/movie/9ESUdOYO9Y/bugSyNm4q4/12166.mkv
+#EXTINF:-1 group-title="Iron Man",Iron Man 3 (2013)
+http://hellohelios.crabdance.com:80/movie/9ESUdOYO9Y/bugSyNm4q4/12167.mkv
+
+#EXTINF:-1 group-title="Captain America",The First Avenger (2011)
+http://hellohelios.crabdance.com:80/movie/9ESUdOYO9Y/bugSyNm4q4/13056.mkv
+#EXTINF:-1 group-title="Captain America",The Winter Soldier (2014)
+http://hellohelios.crabdance.com:80/movie/9ESUdOYO9Y/bugSyNm4q4/13057.mkv
+#EXTINF:-1 group-title="Captain America",Civil War (2016)
+http://hellohelios.crabdance.com:80/movie/9ESUdOYO9Y/bugSyNm4q4/13058.mkv
+
+#EXTINF:-1 group-title="Thor",Thor (2011)
+http://hellohelios.crabdance.com:80/movie/9ESUdOYO9Y/bugSyNm4q4/13066.mkv
+#EXTINF:-1 group-title="Thor",The Dark World (2013)
+http://hellohelios.crabdance.com:80/movie/9ESUdOYO9Y/bugSyNm4q4/13067.mkv
+#EXTINF:-1 group-title="Thor",Ragnarok (2017)
+http://hellohelios.crabdance.com:80/movie/9ESUdOYO9Y/bugSyNm4q4/4611.mkv
+
+#EXTINF:-1 group-title="The Avengers",The Avengers (2012)
+http://hellohelios.crabdance.com:80/movie/9ESUdOYO9Y/bugSyNm4q4/13048.mkv
+#EXTINF:-1 group-title="The Avengers",Avengers: Age of Ultron (2015)
+http://hellohelios.crabdance.com:80/movie/9ESUdOYO9Y/bugSyNm4q4/11707.mkv
+#EXTINF:-1 group-title="The Avengers",Avengers: Endgame(2018)
+http://hellohelios.crabdance.com:80/movie/9ESUdOYO9Y/bugSyNm4q4/18654.mkv
+#EXTINF:-1 group-title="The Avengers",Avengers: Endgame FHD (2018)
+http://hellohelios.crabdance.com:80/movie/9ESUdOYO9Y/bugSyNm4q4/18656.mkv
+#EXTINF:-1 group-title="The Avengers",Avengers: Infinity War (2019)
+http://hellohelios.crabdance.com:80/movie/9ESUdOYO9Y/bugSyNm4q4/11048.mkv
+
+
+#EXTINF:-1 group-title="James Bond",Dr. No (1962)
+http://hellohelios.crabdance.com:80/movie/9ESUdOYO9Y/bugSyNm4q4/14450.mp4
+#EXTINF:-1 group-title="James Bond",From Russia with Love (1963)
+http://hellohelios.crabdance.com:80/movie/9ESUdOYO9Y/bugSyNm4q4/14451.mp4
+#EXTINF:-1 group-title="James Bond",Goldfinger (1964)
+http://hellohelios.crabdance.com:80/movie/9ESUdOYO9Y/bugSyNm4q4/14452.mp4
+#EXTINF:-1 group-title="James Bond",Thunderball (1965)
+http://hellohelios.crabdance.com:80/movie/9ESUdOYO9Y/bugSyNm4q4/14453.mp4
+#EXTINF:-1 group-title="James Bond",You Only Live Twice (1967)
+http://hellohelios.crabdance.com:80/movie/9ESUdOYO9Y/bugSyNm4q4/14455.mp4
+#EXTINF:-1 group-title="James Bond",On Her Majesty's Secret Service(1969)
+http://hellohelios.crabdance.com:80/movie/9ESUdOYO9Y/bugSyNm4q4/14456.mp4
+#EXTINF:-1 group-title="James Bond",Diamonds Are Forever (1971)
+http://hellohelios.crabdance.com:80/movie/9ESUdOYO9Y/bugSyNm4q4/14457.mp4
+#EXTINF:-1 group-title="James Bond",Live and Let Die (1973)
+http://hellohelios.crabdance.com:80/movie/9ESUdOYO9Y/bugSyNm4q4/14458.mp4
+#EXTINF:-1 group-title="James Bond",The Man with the Golden Gun (1974)
+http://hellohelios.crabdance.com:80/movie/9ESUdOYO9Y/bugSyNm4q4/14459.mp4
+#EXTINF:-1 group-title="James Bond",The Spy Who Loved Me (1977)
+http://hellohelios.crabdance.com:80/movie/9ESUdOYO9Y/bugSyNm4q4/14460.mp4
+#EXTINF:-1 group-title="James Bond",Moonraker (1979)
+http://hellohelios.crabdance.com:80/movie/9ESUdOYO9Y/bugSyNm4q4/14461.mp4
+#EXTINF:-1 group-title="James Bond",For Your Eyes Only (1981)
+http://hellohelios.crabdance.com:80/movie/9ESUdOYO9Y/bugSyNm4q4/14462.mp4
+#EXTINF:-1 group-title="James Bond",Octopussy (1983)
+http://hellohelios.crabdance.com:80/movie/9ESUdOYO9Y/bugSyNm4q4/14463.mp4
+#EXTINF:-1 group-title="James Bond",Never Say Never Again (1983)
+http://hellohelios.crabdance.com:80/movie/9ESUdOYO9Y/bugSyNm4q4/14464.mp4
+#EXTINF:-1 group-title="James Bond",A View to a Kill (1985)
+http://hellohelios.crabdance.com:80/movie/9ESUdOYO9Y/bugSyNm4q4/14465.mp4
+#EXTINF:-1 group-title="James Bond",The Living Daylights (1987)
+http://hellohelios.crabdance.com:80/movie/9ESUdOYO9Y/bugSyNm4q4/14466.mp4
 
