@@ -2431,3 +2431,8 @@ http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/423894
 http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/423895
 #EXTINF:-1 group-title="SPORTS",FOX SPORT CHANNEL
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8?checkedby
+
+#EXTINF:-1 group-title="MOVIES",MOVIES 9
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES",GROOVY TV
+http://web.onair-radio.eu:1935/groovytv/groovytv/chunklist_w1116581167.m3u8
