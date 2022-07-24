@@ -2,26 +2,20 @@
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8YVUXiyNoaGdfnJWOq4800bZJo-FmVg41yoqtqsPq&s" group-title="Back To The Future",Back To The Future (1985)
 https://jeniusplay.com/cdn/hls/15e1f2b9655c55bd1b673d97276bdc41/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSvI8ifyN32UDCqPqBSZxNAk-nrba2PbSSu0G3iL7R&s" group-title="Back To The Future",Back To The Future II (1989)
 https://jeniusplay.com/cdn/hls/d59a0f9897f524ac829cfd5334bfc865/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMY0jZJ6EgpVWrtqI89js7AU2upghqZ2X6ry5n4MEl&s" group-title="Back To The Future",Back To The Future III (1990)
 https://jeniusplay.com/cdn/hls/4a0d9c4f3f9d81d049cc00a0079705aa/master.m3u8
 
 
 #EXTINF:-1 group-title="Pirates of the Caribbean",Dead Man's Chest (2006)
 https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960759
-
 #EXTINF:-1 group-title="Pirates of the Caribbean",At World's End (2007)
 https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960760
-
 #EXTINF:-1 group-title="Pirates of the Caribbean",On Stranger Tides (2011)
 https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960761
-
 #EXTINF:-1 group-title="Pirates of the Caribbean",Dead Men Tell No Tales (2017)
 https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960762
-
 #EXTINF:-1 group-title="Pirates of the Caribbean",Dead Men Tell No Tales (2017)
 http://hellohelios.crabdance.com:80/movie/9ESUdOYO9Y/bugSyNm4q4/808.mp4
 
@@ -38,3 +32,38 @@ https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960756
 #EXTINF:-1 group-title="Resident Evil",The Final Chapter (2016)
 https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960757
   
+#EXTINF:-1 group-title="Narnia",the Witch and the Wardrobe (2005)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960235
+#EXTINF:-1 group-title="Narnia",The Chronicles of Narnia: Prince Caspian (2008)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960236
+#EXTINF:-1 group-title="Narnia",The Chronicles of Narnia: The Voyage of the Dawn Treader (2010)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960237
+
+#EXTINF:-1 group-title="The Lord of the Rings",The Fellowship of the Ring (2001)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960238
+#EXTINF:-1 group-title="The Lord of the Rings",The Two Towers (2002)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960239
+#EXTINF:-1 group-title="The Lord of the Rings",The Return of the King (2003)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960240
+
+#EXTINF:-1 group-title="The Hobbit",An Unexpected Journey (2012)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960241
+#EXTINF:-1 group-title="The Hobbit",The Hobbit: The Desolation of Smaug (2013)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960242
+#EXTINF:-1 group-title="The Hobbit",The Hobbit: The Battle of the Five Armies (2014)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960243
+
+#EXTINF:-1 group-title="Jurassic Park",Jurassic Park (1993)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960763
+#EXTINF:-1 group-title="Jurassic Park",Jurassic Park (1997)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960764
+#EXTINF:-1 group-title="Jurassic Park",Jurassic Park III (2001)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960765
+#EXTINF:-1 group-title="Jurassic Park",Jurassic World (2015)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960766
+#EXTINF:-1 group-title="Jurassic Park",Jurassic World: Fallen Kingdom (2018)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960767
+#EXTINF:-1 group-title="Jurassic Park",Jurassic World: Dominion (2022)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960767
+https://master1-eu.playerx.stream/v-hWiRlcrjWPIx9qV9C0SM7nhufCw6P8ZsRRybc4a6o3bp7EznQZYVVMHih2yprmM2v785zVVjLh9T3PV6vLsw/ycHRjWU7eNVJyHrnbsdxpNeuFziOOohvBbVSqsYPdUQ/video.m3u8?auth=vprbl4l_yCe5b5H9pfF9DYqwzOEeo_iYIZq50JvmZcc&node=NjQwZYhPkpGUkmVbp8m22WaozuTN0uRbcoiZ17CSXl1bp5CRm1ugoZ_SjppPknTQnJy-o5yf8Zyq1GLmvZ_SjppPig
+
