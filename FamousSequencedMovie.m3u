@@ -1,10 +1,40 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8YVUXiyNoaGdfnJWOq4800bZJo-FmVg41yoqtqsPq&s" group-title="Back To The Future",Back To The Future
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8YVUXiyNoaGdfnJWOq4800bZJo-FmVg41yoqtqsPq&s" group-title="Back To The Future",Back To The Future (1985)
 https://jeniusplay.com/cdn/hls/15e1f2b9655c55bd1b673d97276bdc41/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSvI8ifyN32UDCqPqBSZxNAk-nrba2PbSSu0G3iL7R&s" group-title="Back To The Future",Back To The Future II
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSvI8ifyN32UDCqPqBSZxNAk-nrba2PbSSu0G3iL7R&s" group-title="Back To The Future",Back To The Future II (1989)
 https://jeniusplay.com/cdn/hls/d59a0f9897f524ac829cfd5334bfc865/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMY0jZJ6EgpVWrtqI89js7AU2upghqZ2X6ry5n4MEl&s" group-title="Back To The Future",Back To The Future III
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMY0jZJ6EgpVWrtqI89js7AU2upghqZ2X6ry5n4MEl&s" group-title="Back To The Future",Back To The Future III (1990)
 https://jeniusplay.com/cdn/hls/4a0d9c4f3f9d81d049cc00a0079705aa/master.m3u8
+
+
+#EXTINF:-1 group-title="Pirates of the Caribbean",Dead Man's Chest (2006)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960759
+
+#EXTINF:-1 group-title="Pirates of the Caribbean",At World's End (2007)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960760
+
+#EXTINF:-1 group-title="Pirates of the Caribbean",On Stranger Tides (2011)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960761
+
+#EXTINF:-1 group-title="Pirates of the Caribbean",Dead Men Tell No Tales (2017)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960762
+
+#EXTINF:-1 group-title="Pirates of the Caribbean",Dead Men Tell No Tales (2017)
+http://hellohelios.crabdance.com:80/movie/9ESUdOYO9Y/bugSyNm4q4/808.mp4
+
+#EXTINF:-1 group-title="Resident Evil",Resident Evil (2002)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960752
+#EXTINF:-1 group-title="Resident Evil",Apocalypse (2004)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960753
+#EXTINF:-1 group-title="Resident Evil",Extinction (2007)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960754
+#EXTINF:-1 group-title="Resident Evil", Afterlife (2010)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960755
+#EXTINF:-1 group-title="Resident Evil",Retribution (2012)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960756
+#EXTINF:-1 group-title="Resident Evil",The Final Chapter (2016)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960757
+  
