@@ -245,8 +245,6 @@ http://playlist.urfan.web.id/dr9445/h/h141/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="" group-title="Entertainment",AXN
 http://210.210.155.35:80/dr9445/h/h141/01.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="" group-title="Entertainment",AXN
-http://playlist.urfan.web.id/dr9445/h/h141/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png" group-title="KIDS",BABY FIRST
 https://vips-livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist_b5000000.m3u8
