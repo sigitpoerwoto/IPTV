@@ -12101,316 +12101,316 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6f7158e4-f151-45
 #EXTINF:-1,Ajwa Tv
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=7bd66825e9a97424ffe5645549270832446503011668def857b1c03bafabba51
 
-#EXTM3U
-#EXTINF:-1,Ruang Terampil
+
+#EXTINF:-1 group-title="Trial",Ruang Terampil
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/1.ts
-#EXTINF:-1,USEE PHOTO
+#EXTINF:-1 group-title="Trial",USEE PHOTO
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/2.ts
-#EXTINF:-1,USEEPRIME
+#EXTINF:-1 group-title="Trial",USEEPRIME
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/3.ts
-#EXTINF:-1,TRANS 7
+#EXTINF:-1 group-title="Trial",TRANS 7
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/4.ts
-#EXTINF:-1,TRANS TV
+#EXTINF:-1 group-title="Trial",TRANS TV
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/5.ts
-#EXTINF:-1,ANTV
+#EXTINF:-1 group-title="Trial",ANTV
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/6.ts
-#EXTINF:-1,Kompas TV
+#EXTINF:-1 group-title="Trial",Kompas TV
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/7.ts
-#EXTINF:-1,NET TV
+#EXTINF:-1 group-title="Trial",NET TV
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/8.ts
-#EXTINF:-1,INEWS
+#EXTINF:-1 group-title="Trial",INEWS
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/9.ts
-#EXTINF:-1,TVRI
+#EXTINF:-1 group-title="Trial",TVRI
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/10.ts
-#EXTINF:-1,RTV
+#EXTINF:-1 group-title="Trial",RTV
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/11.ts
-#EXTINF:-1,JTV
+#EXTINF:-1 group-title="Trial",JTV
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/12.ts
-#EXTINF:-1,MNC NEWS
+#EXTINF:-1 group-title="Trial",MNC NEWS
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/13.ts
-#EXTINF:-1,BERITA SATU
+#EXTINF:-1 group-title="Trial",BERITA SATU
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/14.ts
-#EXTINF:-1,RRI NET
+#EXTINF:-1 group-title="Trial",RRI NET
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/15.ts
-#EXTINF:-1,BALI TV
+#EXTINF:-1 group-title="Trial",BALI TV
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/16.ts
-#EXTINF:-1,DAAI TV
+#EXTINF:-1 group-title="Trial",DAAI TV
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/17.ts
-#EXTINF:-1,JAKTV
+#EXTINF:-1 group-title="Trial",JAKTV
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/18.ts
-#EXTINF:-1,NUSANTARA TV
+#EXTINF:-1 group-title="Trial",NUSANTARA TV
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/19.ts
-#EXTINF:-1,ANTARA
+#EXTINF:-1 group-title="Trial",ANTARA
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/20.ts
-#EXTINF:-1,TVEDUKASI
+#EXTINF:-1 group-title="Trial",TVEDUKASI
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/21.ts
-#EXTINF:-1,MOTORVISION
+#EXTINF:-1 group-title="Trial",MOTORVISION
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/22.ts
-#EXTINF:-1,INDONESIANA
+#EXTINF:-1 group-title="Trial",INDONESIANA
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/23.ts
-#EXTINF:-1,Learning & Knowledge
+#EXTINF:-1 group-title="Trial",Learning & Knowledge
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/24.ts
-#EXTINF:-1,SCTV
+#EXTINF:-1 group-title="Trial",SCTV
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/25.ts
-#EXTINF:-1,INDOSIAR
+#EXTINF:-1 group-title="Trial",INDOSIAR
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/26.ts
-#EXTINF:-1,OChannel
+#EXTINF:-1 group-title="Trial",OChannel
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/27.ts
-#EXTINF:-1,INSERT
+#EXTINF:-1 group-title="Trial",INSERT
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/28.ts
-#EXTINF:-1,Sky Sport Main Event
+#EXTINF:-1 group-title="Trial",Sky Sport Main Event
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/150.ts
-#EXTINF:-1,Sky Sport premier league
+#EXTINF:-1 group-title="Trial",Sky Sport premier league
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/151.ts
-#EXTINF:-1,ASSP1
+#EXTINF:-1 group-title="Trial",ASSP1
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/152.ts
-#EXTINF:-1,ASSP 2
+#EXTINF:-1 group-title="Trial",ASSP 2
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/153.ts
-#EXTINF:-1,ASSP 3
+#EXTINF:-1 group-title="Trial",ASSP 3
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/154.ts
-#EXTINF:-1,ASSP 4
+#EXTINF:-1 group-title="Trial",ASSP 4
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/155.ts
-#EXTINF:-1,ARENA 1
+#EXTINF:-1 group-title="Trial",ARENA 1
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/156.ts
-#EXTINF:-1,USEESPORT
+#EXTINF:-1 group-title="Trial",USEESPORT
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/29.ts
-#EXTINF:-1,USEESPORTS 2
+#EXTINF:-1 group-title="Trial",USEESPORTS 2
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/30.ts
-#EXTINF:-1,BEIN 1 ID
+#EXTINF:-1 group-title="Trial",BEIN 1 ID
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/31.ts
-#EXTINF:-1,BEIN 3 ID
+#EXTINF:-1 group-title="Trial",BEIN 3 ID
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/32.ts
-#EXTINF:-1,SPOTV
+#EXTINF:-1 group-title="Trial",SPOTV
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/33.ts
-#EXTINF:-1,SPOTV 2
+#EXTINF:-1 group-title="Trial",SPOTV 2
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/34.ts
-#EXTINF:-1,NBA
+#EXTINF:-1 group-title="Trial",NBA
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/35.ts
-#EXTINF:-1,EGG Network
+#EXTINF:-1 group-title="Trial",EGG Network
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/36.ts
-#EXTINF:-1,Horizon Sport
+#EXTINF:-1 group-title="Trial",Horizon Sport
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/37.ts
-#EXTINF:-1,FIGHT SPORT
+#EXTINF:-1 group-title="Trial",FIGHT SPORT
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/38.ts
-#EXTINF:-1,SEATODAY
+#EXTINF:-1 group-title="Trial",SEATODAY
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/39.ts
-#EXTINF:-1,TV ONE
+#EXTINF:-1 group-title="Trial",TV ONE
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/40.ts
-#EXTINF:-1,METRO TV
+#EXTINF:-1 group-title="Trial",METRO TV
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/41.ts
-#EXTINF:-1,IDX
+#EXTINF:-1 group-title="Trial",IDX
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/42.ts
-#EXTINF:-1,DW TV
+#EXTINF:-1 group-title="Trial",DW TV
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/43.ts
-#EXTINF:-1,EURO NEWS
+#EXTINF:-1 group-title="Trial",EURO NEWS
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/44.ts
-#EXTINF:-1,TRT World
+#EXTINF:-1 group-title="Trial",TRT World
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/45.ts
-#EXTINF:-1,FRANCE 24
+#EXTINF:-1 group-title="Trial",FRANCE 24
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/46.ts
-#EXTINF:-1,CNN Indonesia
+#EXTINF:-1 group-title="Trial",CNN Indonesia
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/47.ts
-#EXTINF:-1,CNBC Indonesia
+#EXTINF:-1 group-title="Trial",CNBC Indonesia
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/48.ts
-#EXTINF:-1,BLOOMBERG
+#EXTINF:-1 group-title="Trial",BLOOMBERG
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/49.ts
-#EXTINF:-1,NEWS ASIA
+#EXTINF:-1 group-title="Trial",NEWS ASIA
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/50.ts
-#EXTINF:-1,CNN International
+#EXTINF:-1 group-title="Trial",CNN International
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/51.ts
-#EXTINF:-1,ALJAZEERA
+#EXTINF:-1 group-title="Trial",ALJAZEERA
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/52.ts
-#EXTINF:-1,CNBC ASIA
+#EXTINF:-1 group-title="Trial",CNBC ASIA
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/53.ts
-#EXTINF:-1,TVBS
+#EXTINF:-1 group-title="Trial",TVBS
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/54.ts
-#EXTINF:-1,TVN MOVIES
+#EXTINF:-1 group-title="Trial",TVN MOVIES
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/55.ts
-#EXTINF:-1,IMC
+#EXTINF:-1 group-title="Trial",IMC
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/56.ts
-#EXTINF:-1,GALAXY
+#EXTINF:-1 group-title="Trial",GALAXY
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/57.ts
-#EXTINF:-1,GALAXY PREMIUM
+#EXTINF:-1 group-title="Trial",GALAXY PREMIUM
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/58.ts
-#EXTINF:-1,HITS
+#EXTINF:-1 group-title="Trial",HITS
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/59.ts
-#EXTINF:-1,HITS MOVIE
+#EXTINF:-1 group-title="Trial",HITS MOVIE
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/60.ts
-#EXTINF:-1,FLIK
+#EXTINF:-1 group-title="Trial",FLIK
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/61.ts
-#EXTINF:-1,BIOSKOP INDONESIA
+#EXTINF:-1 group-title="Trial",BIOSKOP INDONESIA
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/62.ts
-#EXTINF:-1,CELESTIAL MOVIES
+#EXTINF:-1 group-title="Trial",CELESTIAL MOVIES
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/63.ts
-#EXTINF:-1,ZEE BIOSKOP
+#EXTINF:-1 group-title="Trial",ZEE BIOSKOP
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/64.ts
-#EXTINF:-1,PARAMOUNT
+#EXTINF:-1 group-title="Trial",PARAMOUNT
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/65.ts
-#EXTINF:-1,THRILL
+#EXTINF:-1 group-title="Trial",THRILL
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/66.ts
-#EXTINF:-1,MYCINEMA ASIA
+#EXTINF:-1 group-title="Trial",MYCINEMA ASIA
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/67.ts
-#EXTINF:-1,MYFAMILY CHANNEL
+#EXTINF:-1 group-title="Trial",MYFAMILY CHANNEL
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/68.ts
-#EXTINF:-1,MYCINEMA
+#EXTINF:-1 group-title="Trial",MYCINEMA
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/69.ts
-#EXTINF:-1,Star Chinese Movies
+#EXTINF:-1 group-title="Trial",Star Chinese Movies
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/70.ts
-#EXTINF:-1,CINEMA WORLD
+#EXTINF:-1 group-title="Trial",CINEMA WORLD
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/71.ts
-#EXTINF:-1,GTV+
+#EXTINF:-1 group-title="Trial",GTV+
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/146.ts
-#EXTINF:-1,INEWS+
+#EXTINF:-1 group-title="Trial",INEWS+
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/147.ts
-#EXTINF:-1,MNCTV+
+#EXTINF:-1 group-title="Trial",MNCTV+
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/148.ts
-#EXTINF:-1,RCTI+
+#EXTINF:-1 group-title="Trial",RCTI+
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/149.ts
-#EXTINF:-1,PRAMBORS
+#EXTINF:-1 group-title="Trial",PRAMBORS
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/72.ts
-#EXTINF:-1,MUSIC INDO
+#EXTINF:-1 group-title="Trial",MUSIC INDO
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/73.ts
-#EXTINF:-1,MTV LIVE
+#EXTINF:-1 group-title="Trial",MTV LIVE
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/74.ts
-#EXTINF:-1,CITRA DANGDUT
+#EXTINF:-1 group-title="Trial",CITRA DANGDUT
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/75.ts
-#EXTINF:-1,IKONSER
+#EXTINF:-1 group-title="Trial",IKONSER
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/76.ts
-#EXTINF:-1,INDIKIDS
+#EXTINF:-1 group-title="Trial",INDIKIDS
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/77.ts
-#EXTINF:-1,CARTON NETWORK
+#EXTINF:-1 group-title="Trial",CARTON NETWORK
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/78.ts
-#EXTINF:-1,BABYFIRST
+#EXTINF:-1 group-title="Trial",BABYFIRST
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/79.ts
-#EXTINF:-1,HOREE
+#EXTINF:-1 group-title="Trial",HOREE
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/80.ts
-#EXTINF:-1,NICK JR
+#EXTINF:-1 group-title="Trial",NICK JR
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/81.ts
-#EXTINF:-1,DreamWorks
+#EXTINF:-1 group-title="Trial",DreamWorks
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/82.ts
-#EXTINF:-1,NICKELODEON
+#EXTINF:-1 group-title="Trial",NICKELODEON
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/83.ts
-#EXTINF:-1,DUNIA ANAK
+#EXTINF:-1 group-title="Trial",DUNIA ANAK
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/84.ts
-#EXTINF:-1,BOOMERANG
+#EXTINF:-1 group-title="Trial",BOOMERANG
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/85.ts
-#EXTINF:-1,MY KIDZ
+#EXTINF:-1 group-title="Trial",MY KIDZ
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/86.ts
-#EXTINF:-1,MENTARI TV
+#EXTINF:-1 group-title="Trial",MENTARI TV
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/87.ts
-#EXTINF:-1,DAVINCI
+#EXTINF:-1 group-title="Trial",DAVINCI
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/88.ts
-#EXTINF:-1,CGTN Documentary
+#EXTINF:-1 group-title="Trial",CGTN Documentary
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/89.ts
-#EXTINF:-1,NAT GEOGRAPHIC CHANNEL
+#EXTINF:-1 group-title="Trial",NAT GEOGRAPHIC CHANNEL
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/90.ts
-#EXTINF:-1,DISCOVERY
+#EXTINF:-1 group-title="Trial",DISCOVERY
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/91.ts
-#EXTINF:-1,NATGEO WILD
+#EXTINF:-1 group-title="Trial",NATGEO WILD
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/92.ts
-#EXTINF:-1,TECHSTORM
+#EXTINF:-1 group-title="Trial",TECHSTORM
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/93.ts
-#EXTINF:-1,CRIME INVESTIGATION
+#EXTINF:-1 group-title="Trial",CRIME INVESTIGATION
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/94.ts
-#EXTINF:-1,LINGUA
+#EXTINF:-1 group-title="Trial",LINGUA
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/95.ts
-#EXTINF:-1,PANDA TV
+#EXTINF:-1 group-title="Trial",PANDA TV
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/96.ts
-#EXTINF:-1,INDISHOPPHING
+#EXTINF:-1 group-title="Trial",INDISHOPPHING
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/97.ts
-#EXTINF:-1,MNCSHOP
+#EXTINF:-1 group-title="Trial",MNCSHOP
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/98.ts
-#EXTINF:-1,ATV
+#EXTINF:-1 group-title="Trial",ATV
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/99.ts
-#EXTINF:-1,AFC
+#EXTINF:-1 group-title="Trial",AFC
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/100.ts
-#EXTINF:-1,HGTV
+#EXTINF:-1 group-title="Trial",HGTV
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/101.ts
-#EXTINF:-1,EAT&GO
+#EXTINF:-1 group-title="Trial",EAT&GO
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/102.ts
-#EXTINF:-1,FASHION TV
+#EXTINF:-1 group-title="Trial",FASHION TV
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/103.ts
-#EXTINF:-1,ARIRANG
+#EXTINF:-1 group-title="Trial",ARIRANG
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/104.ts
-#EXTINF:-1,SERU
+#EXTINF:-1 group-title="Trial",SERU
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/105.ts
-#EXTINF:-1,CCTV4
+#EXTINF:-1 group-title="Trial",CCTV4
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/106.ts
-#EXTINF:-1,NHK World Japan
+#EXTINF:-1 group-title="Trial",NHK World Japan
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/107.ts
-#EXTINF:-1,ABC Australia
+#EXTINF:-1 group-title="Trial",ABC Australia
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/108.ts
-#EXTINF:-1,CHINESE DRAMA
+#EXTINF:-1 group-title="Trial",CHINESE DRAMA
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/109.ts
-#EXTINF:-1,OUTDOOR
+#EXTINF:-1 group-title="Trial",OUTDOOR
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/110.ts
-#EXTINF:-1,TVN
+#EXTINF:-1 group-title="Trial",TVN
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/111.ts
-#EXTINF:-1,AXN
+#EXTINF:-1 group-title="Trial",AXN
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/112.ts
-#EXTINF:-1,K +
+#EXTINF:-1 group-title="Trial",K +
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/113.ts
-#EXTINF:-1,KBS WORLD
+#EXTINF:-1 group-title="Trial",KBS WORLD
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/114.ts
-#EXTINF:-1,CITRA DRAMA
+#EXTINF:-1 group-title="Trial",CITRA DRAMA
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/115.ts
-#EXTINF:-1,WARNER
+#EXTINF:-1 group-title="Trial",WARNER
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/116.ts
-#EXTINF:-1,ROCK EXTREME
+#EXTINF:-1 group-title="Trial",ROCK EXTREME
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/117.ts
-#EXTINF:-1,TLC
+#EXTINF:-1 group-title="Trial",TLC
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/118.ts
-#EXTINF:-1,HISTORY
+#EXTINF:-1 group-title="Trial",HISTORY
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/119.ts
-#EXTINF:-1,DUNIA LAIN
+#EXTINF:-1 group-title="Trial",DUNIA LAIN
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/120.ts
-#EXTINF:-1,ROCK ENTERTAINMENT
+#EXTINF:-1 group-title="Trial",ROCK ENTERTAINMENT
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/121.ts
-#EXTINF:-1,ANIPLUS
+#EXTINF:-1 group-title="Trial",ANIPLUS
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/122.ts
-#EXTINF:-1,ANIMAX
+#EXTINF:-1 group-title="Trial",ANIMAX
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/123.ts
-#EXTINF:-1,SONY ONE
+#EXTINF:-1 group-title="Trial",SONY ONE
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/124.ts
-#EXTINF:-1,KIX
+#EXTINF:-1 group-title="Trial",KIX
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/125.ts
-#EXTINF:-1,LIFETIME
+#EXTINF:-1 group-title="Trial",LIFETIME
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/126.ts
-#EXTINF:-1,TV5 Monde
+#EXTINF:-1 group-title="Trial",TV5 Monde
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/127.ts
-#EXTINF:-1,NHK Premium
+#EXTINF:-1 group-title="Trial",NHK Premium
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/128.ts
-#EXTINF:-1,Star Chinese Channel
+#EXTINF:-1 group-title="Trial",Star Chinese Channel
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/129.ts
-#EXTINF:-1,FORMOSA
+#EXTINF:-1 group-title="Trial",FORMOSA
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/130.ts
-#EXTINF:-1,KUNGFU TV
+#EXTINF:-1 group-title="Trial",KUNGFU TV
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/131.ts
-#EXTINF:-1,SONY GEM
+#EXTINF:-1 group-title="Trial",SONY GEM
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/132.ts
-#EXTINF:-1,Zhejiang
+#EXTINF:-1 group-title="Trial",Zhejiang
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/133.ts
-#EXTINF:-1,Shenzen
+#EXTINF:-1 group-title="Trial",Shenzen
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/134.ts
-#EXTINF:-1,EBC Asia
+#EXTINF:-1 group-title="Trial",EBC Asia
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/135.ts
-#EXTINF:-1,CTI Asia
+#EXTINF:-1 group-title="Trial",CTI Asia
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/136.ts
-#EXTINF:-1,RODJA TV
+#EXTINF:-1 group-title="Trial",RODJA TV
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/137.ts
-#EXTINF:-1,MQTV
+#EXTINF:-1 group-title="Trial",MQTV
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/138.ts
-#EXTINF:-1,MTATV
+#EXTINF:-1 group-title="Trial",MTATV
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/139.ts
-#EXTINF:-1,MUHAMMADIYAH TV
+#EXTINF:-1 group-title="Trial",MUHAMMADIYAH TV
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/141.ts
-#EXTINF:-1,MUITV
+#EXTINF:-1 group-title="Trial",MUITV
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/142.ts
-#EXTINF:-1,TAWAF TV
+#EXTINF:-1 group-title="Trial",TAWAF TV
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/143.ts
-#EXTINF:-1,TV9-U
+#EXTINF:-1 group-title="Trial",TV9-U
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/144.ts
-#EXTINF:-1,UCHANNEL
+#EXTINF:-1 group-title="Trial",UCHANNEL
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/145.ts
-#EXTINF:-1,ALQURAN
+#EXTINF:-1 group-title="Trial",ALQURAN
 http://www.ahproject.site:8080/live/SUDAH-TRIALNYA/SUDAH-TRIALNYA/140.ts
