@@ -12,9 +12,6 @@ http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b
 #EXTINF:-1 tvg-id="Abu Dhabi Sports 3 ARB" tvg-name="Abu Dhabi Sports 3 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/U6XDpXY.png" tvg-country="AE" group-title="SPORTS",Abu Dhabi Sports 3
 http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
 
-#EXTINF:-1 tvg-id="Abu Dhabi Sports 4 ARB" tvg-name="Abu Dhabi Sports 4 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/8VqomZ5.png" tvg-country="AE" group-title="SPORTS",Abu Dhabi Sports 4
-https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="ADiTV.id" tvg-name="ADiTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/59/ADiTV_Jogja.png" group-title="TV DAERAH",ADiTV
 https://v2.siar.us/aditv/livestream/chunks.m3u8
 
@@ -115,16 +112,14 @@ https://tv.rodja.live/aliman/HD/chunklist_w1549317106.m3u8
 https://tv.rodja.live/aliman/ngrp:HD_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-country="INT" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="BERITA",Al Jazeera English (1080p)
-http://210.210.155.35/qwr9ew/s/s17/index.m3u8
-
-#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-country="INT" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="BERITA",Al Jazeera English (1080p)
 http://210.210.155.35/qwr9ew/s/s16/index.m3u8
 
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-country="INT" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="BERITA",Al Jazeera English (1080p)
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
 #EXTINF:-1,AL QURAN
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=98f13708210194c475687be6106a3b84dfdded94c48ea6229c48edefa9ec1c9f
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy98f13708210194c475687be6106a3b84dfdded94c48ea6229c48edefa9ec1c9f
+
 #EXTINF:-1 tvg-id="AlBahjahTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al_bahjah_tv_id.png" group-title="TV Dakwah" user-agent="Mozilla/5.0 (X11; Linux x86_64)",Al-Bahjah TV (360p) [Geo-blocked]
 https://h1.intechmedia.net/intech/ch64.m3u8
 
@@ -181,24 +176,13 @@ https://amc-rushbyamc-1.imdbtv.wurl.com/manifest/playlist.m3u8?l1br3date0702andA
 #EXTINF:-1 group-title="Kids",Ani Plus
 http://210.210.155.35/dr9445/h/h02/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_animax_small.png" group-title="Kids",ANIMAX
-http://210.210.155.35:80/dr9445/h/h144/01.m3u8
+http://61.219.170.95:18540/.m3u8
 
-#EXTINF:-1 group-title="Kids",Animax 1
-http://45.126.83.51/dr9445/h/h144/01.m3u8
-
-#EXTINF:-1 group-title="Kids",Animax 2
-http://rr1.dens.tv/h/h144/index10.m3u8
-
-#EXTINF:-1 group-title="Kids",Animax 3
-http://210.210.155.35/dr9445/h/h144/index10.m3u8
+#EXTINF:-1 group-title="MOVIES",Cinema Europe
+http://210.210.155.35/uq2663/h/h18/index.m3u8
 
 #EXTINF:-1 tvg-id="AnimeAllDay.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5812b7d3249444e05d09cc49/colorLogoPNG.png" group-title="KIDS",Pluto TV Anime All Day (720p)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c363ac9e41be30cb6054c7c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-id="AnimeTV.br" tvg-country="BR" tvg-language="Japanese" tvg-logo="https://i.imgur.com/rmAm6UE.png" group-title="KIDS",Anime TV (360p) [Not 24/7]
-https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
-
 
 #EXTINF:-1 tvg-id="" tvg-name="ANTARA TV" tvg-logo="https://images.useetv.com/logo_antara_big1.png?v=2.0.0.13" group-title="TV Nasional",ANTARA TV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=68d30a9594728bc39aa24be94b319d21268ef7e5a44f541a7cbde7626ef57566
@@ -241,13 +225,6 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/vid
 
 #EXTINF:-1 tvg-id="ATV.id" tvg-name="ATV.id" tvg-logo="https://www.lyngsat.com/logo/tv/aa/atv-id.png" group-title="TV DAERAH",ATV
 https://bravo.kugo.id/atv/udp.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="" group-title="Entertainment",AXN
-http://playlist.urfan.web.id/dr9445/h/h141/01.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="" group-title="Entertainment",AXN
-http://210.210.155.35:80/dr9445/h/h141/01.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png" group-title="KIDS",BABY FIRST
 https://vips-livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist_b5000000.m3u8
@@ -536,22 +513,10 @@ http://203.77.246.50:5000/udp/239.1.3.68:5000
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fbpXz8Bn/Happy-Kids-logo-2004.png" group-title="KIDS",HappyKids
 https://happykids-roku.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="MOVIES",HBO
-http://raw.githubusercontent.com/zalindo/tv/master/hbo.m3u8
-
-#EXTINF:-1 group-title="MOVIES",HBO HD
-http://203.77.246.50:5000/udp/239.1.3.84:5000
-
-#EXTINF:-1 group-title="MOVIES",HBO HITS
-http://203.77.246.50:5000/udp/239.1.3.82:5000
-
-#EXTINF:-1 group-title="MOVIES",HBO SIGNATURE
-http://203.77.246.50:5000/udp/239.1.3.74:5000
-
 #EXTINF:-1 tvg-id="HijrahTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/bVN4zj2.png" group-title="TV DAKWAH" user-agent="Mozilla/5.0 (X11; Linux x86_64)",Hijrah TV (360p) [Geo-blocked]
 https://h1.intechmedia.net/intech/ch8.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_history_small.png?v=2.0.0.13" group-title="KNOWLEDGE", HISTORY
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_history_small.png?v=2.0.0.13" group-title="KNOWLEDGE",HISTORY
 https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 
 #EXTINF:-1 group-title="MOVIES",HI-YAH
@@ -11312,193 +11277,193 @@ https://delivery.macan.network/stream/arena2/playlist.m3u8?token=rqvntc0&v=20200
 
 ///KOREA///
 
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", 泰国·公共三台  
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", 泰国·公共三台  
 http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", 韩国 Ⅰ BBS佛教广播  
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", 韩国 Ⅰ BBS佛教广播  
 http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", 韩国 Ⅰ KOREA YTN  
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", 韩国 Ⅰ KOREA YTN  
 http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", 韩国·EBS_E频道  
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", 韩国·EBS_E频道  
 http://ebsonairios.ebs.co.kr/plus3tablet500k/tablet500k/plus3tablet500k.index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", 韩国·EBS加一频道  
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", 韩国·EBS加一频道  
 http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", 韩国·EBS加二频道  
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", 韩国·EBS加二频道  
 http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", 韩国·EBS第一频道  
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", 韩国·EBS第一频道  
 http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", 韩国·EBS第二频道  
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", 韩国·EBS第二频道  
 http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", 韩国·MBC综合频道  
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", 韩国·MBC综合频道  
 http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", 韩国·SBS CJB  
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", 韩国·SBS CJB  
 http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", 韩国·TBS  
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", 韩国·TBS  
 http://58.234.158.60:1935/catvlive/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", 韩国EBS少儿频道  
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", 韩国EBS少儿频道  
 http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", 韩国EBS第一频道  
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", 韩国EBS第一频道  
 http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", 韩国lEBS 儿童频道  
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", 韩国lEBS 儿童频道  
 http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", NHK総合  
-http://203.162.235.41:16903  
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", NHK総合  
+http://203.162.235.41:16903  
 
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", 日テレ  
-http://203.162.235.41:16905  
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", 日テレ  
+http://203.162.235.41:16905  
 
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", テレビ朝日;  
-http://203.162.235.41:16906  
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", テレビ朝日;  
+http://203.162.235.41:16906  
 
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", サンテレビ;  
-http://203.162.235.41:16907  
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", サンテレビ;  
+http://203.162.235.41:16907  
 
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", テレビ東京;  
-http://203.162.235.41:16908  
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", テレビ東京;  
+http://203.162.235.41:16908  
 
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", NHK BSプレミアム;  
-http://203.162.235.41:16910  
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", NHK BSプレミアム;  
+http://203.162.235.41:16910  
 
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", BSフジ;  
-http://203.162.235.41:16911  
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", BSフジ;  
+http://203.162.235.41:16911  
 
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", BS 日テレ  
-http://203.162.235.41:16912  
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", BS 日テレ  
+http://203.162.235.41:16912  
 
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", BS TBS  
-http://203.162.235.41:16913  
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", BS TBS  
+http://203.162.235.41:16913  
 
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", BS 朝日  
-http://203.162.235.41:16914  
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", BS 朝日  
+http://203.162.235.41:16914  
 
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", BS 東京  
-http://203.162.235.41:16915  
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", BS 東京  
+http://203.162.235.41:16915  
 
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", WOWOW シネマ  
-http://203.162.235.41:16916  
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", WOWOW シネマ  
+http://203.162.235.41:16916  
 
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", CPBC  
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", CPBC  
 https://media1.cpbc.co.kr:8888/vod/_definst_/mp4:ads/spot_khs.mp4/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", BBS 불교방송  
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", BBS 불교방송  
 http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", 韩国YTN SCIENCE 
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", 韩国YTN SCIENCE 
 http://slive.sciencetv.kr:1935/science/yslive_20140419_1/chunklist_w2065795695.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", m2o音乐  
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", m2o音乐  
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", Luxury World  
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", Luxury World  
 http://nano.teleservice.su:8080/hls/luxury.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", 韩国 Ⅰ 阿里郎WORLD  
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", 韩国 Ⅰ 阿里郎WORLD  
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", MARTI  
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", MARTI  
 http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", MX Live  
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", MX Live  
 http://movie.mcas.jp/mcas/mx_live_2/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", YTN DMB  
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", YTN DMB  
 http://slive.ytn.co.kr:1935/dmb/ydlive_20140419_1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", 韩国基督教CGNTV韩国  
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", 韩国基督教CGNTV韩国  
 http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_kr02/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", 韩国购物GS Shop  
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", 韩国购物GS Shop  
 https://livem.gsshop.com/gsshop_hd/_definst_/gsshop_hd.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", Fashion & Lifestyle (UA)  
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", Fashion & Lifestyle (UA)  
 http://95.67.47.115/hls/hdfashion_ua_low/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", NJPW World  
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", NJPW World  
 https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", QVC Japan  
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", QVC Japan  
 http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", WeatherNews  
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", WeatherNews  
 http://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", EBS 1  
-http://ebsonair.ebs.co.kr:1935/groundwavefamilypc/familypc1m/chunklist_w1081857294.m3u8?time=1454375113788  
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", EBS 1  
+http://ebsonair.ebs.co.kr:1935/groundwavefamilypc/familypc1m/chunklist_w1081857294.m3u8?time=1454375113788  
 
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", EBS Plus 1  
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", EBS Plus 1  
 http://ebsonair.ebs.co.kr:1935/plus1tablet500k/tablet500k/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", EBS Plus 2 
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", EBS Plus 2 
 http://ebsonair.ebs.co.kr:1935/plus2tablet500k/tablet500k/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", KBC  
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", KBC  
 http://221.157.125.232:1935/live/kbctv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", TBC  
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", TBC  
 http://221.157.125.232:1935/live/psike/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", Bright Smart Channel (Opt-2)  
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", Bright Smart Channel (Opt-2)  
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", KCTV_HV2  
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", KCTV_HV2  
 http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", NBS한국농업방송  
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", NBS한국농업방송  
 https://media.joycorp.co.kr:4443/live/live_360p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", EBS1  
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", EBS1  
 http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", EBS2  
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", EBS2  
 http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", EBSe  
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", EBSe  
 http://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", NHK Eテレ  
-http://203.162.235.41:16901  
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", NHK Eテレ  
+http://203.162.235.41:16901  
 
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", plus3  
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", plus3  
 http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/PLAYLIST.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", 머니투데이방송  
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", 머니투데이방송  
 http://moneytoday1.ktcdn.co.kr:1935/mtnlive/720/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", 소상공인방송  
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", 소상공인방송  
 http://139.150.248.29:1935/smartlive/558/91258ac21591769e21f41b96f26d883e/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", 韩国基督教CGNTV日本  
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", 韩国基督教CGNTV日本  
 http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", 韩国基督教CGNTV日本  
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", 韩国基督教CGNTV日本  
 http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/chunklist_w564190259.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", FTVLIVE  
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", FTVLIVE  
 http://218.236.58.185:1935/FTVLIVE_MOBILE/Stream_mobile/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", CPAC  
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", CPAC  
 http://bcoveliveios-i.akamaihd.net/hls/live/248519/1242843915001_1/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", Jewelry电视  
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", Jewelry电视  
 http://wowzaprod134-i.akamaihd.net/hls/live/577814/ccddaf02/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", Darcizzle电视  
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", Darcizzle电视  
 http://30a-tv.com/darcizzle.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", WOW!TV  
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/43-439686_south-korean-flag-south-korea-flag.png" group-title="KOREA", WOW!TV  
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
 
 #EXTINF:-1,SCTV group-title="Lokal Nasional"
